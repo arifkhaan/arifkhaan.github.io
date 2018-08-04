@@ -26,10 +26,10 @@ navbar-links:
   About Me: "aboutme"
   Publications: "publication"
   Teaching Experience: "teaching"
-  Resources: 
+#  Resources: 
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
- #   - GitHub Pages: "https://pages.github.com/"
+#   - GitHub Pages: "https://pages.github.com/"
   Contact:
 # Author's home: "http://deanattali.com"
 
