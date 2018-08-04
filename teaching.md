@@ -4,6 +4,9 @@ title: Teaching Experience
 subtitle: 
 ---
 
+
+
+
 ### Graduate Assistant
 
 #### Lab Teaching:
