@@ -38,7 +38,7 @@ reddit:
 
 google scholor:
   name: "Google Scholor"
-  baseURL: "https://google.scholor.com/"
+  baseURL: "https://scholor.google.com/"
   icon: "fa-google.scholor"
 
 email:
