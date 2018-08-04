@@ -3,8 +3,10 @@ layout: page
 title: Teaching Experience
 subtitle: 
 ---
-{nbsp} +
-{nbsp} +
+<br/>
+
+
+
 
 #### Graduate Assistant
 
