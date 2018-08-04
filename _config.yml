@@ -26,8 +26,8 @@ navbar-links:
   About Me: "aboutme"
   Publications: "publication"
   Teaching Experience: "teaching"
-  Blog: ""
-  Gallery: ""
+#  Blog: ""
+#  Gallery: ""
 #  Resources: 
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
