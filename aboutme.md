@@ -17,7 +17,11 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 
 #### Research Interest
 
-My interest includes Heterogeneous Cellular networks for 5G, energy efficiency and resource allocation in HetNet, full duplex MIMO and massive MIMO. I am also interested in performance-complexity analysis of detection algorithms and channel coding for MIMO OFDM system.
+My interest includes 
+- Heterogeneous Cellular networks for 5G, 
+- Energy efficiency and resource allocation in Heterogeneous Cellular networks, 
+- Full duplex MIMO and massive MIMO. 
+- I am also interested in performance-complexity analysis of detection algorithms and channel coding for MIMO-OFDM system.
 
 
 #### Education
