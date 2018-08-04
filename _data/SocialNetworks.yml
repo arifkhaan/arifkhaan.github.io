@@ -16,12 +16,12 @@ github:
   baseURL: "https://github.com/"
   icon: "fa-github"
   
-Researchgate:
+researchgate:
   name: "GitHub"
   baseURL: "https://researchgate.net/"
   icon: "fa-researchgate"
   
-Skype:
+skype:
   name: "skype"
   baseURL: "https://skype.com/"
   icon: "fa-skype"
