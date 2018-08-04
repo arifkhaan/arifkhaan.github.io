@@ -22,7 +22,6 @@ My interest includes
 - Energy efficiency and resource allocation in Heterogeneous Cellular networks, 
 - Full duplex MIMO and massive MIMO. 
 - I am also interested in performance-complexity analysis of detection algorithms and channel coding for MIMO-OFDM system.
-
 <br>
 
 #### Education
