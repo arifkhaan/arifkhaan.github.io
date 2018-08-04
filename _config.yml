@@ -24,7 +24,12 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Publications: "publication"
+  Research: 
+  - Paper Article: "publication"
+  - Google Scholor: "https://scholar.google.com/?oi=gsb&hl=en"
+  - Orcid Account: "https://orcid.org/0000-0002-0555-6644"
+  - Researchgate: "https://www.researchgate.net/profile/Arif_Ullah_Khan3"
+  - Linkedin: ":https://www.linkedin.com/in/arifullah012/"
   Experience: "teaching"
   Blog: "http://deanattali.com/beautiful-jekyll/"
   Resources:
