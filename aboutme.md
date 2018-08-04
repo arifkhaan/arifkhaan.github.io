@@ -23,15 +23,17 @@ My interest includes
  
 
 #### Education
-
-- [ ] PhD Fellow in Electronics Engineering, 2017
-      Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences andTechnology Topi-23640, Swabi, KPK Pakistan.
+<p class="about-text">
+<span class="fa fa-graduation-cap about-icon"></span>
+I am currently PhD Fellow in Electronics Engineering at TeleCon Lab, Faculty of Electrical Engineering, Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences andTechnology Topi-23640, Swabi, KPK Pakistan.</p>
       
-- [x] MS in Electrical Engineering (Wireless Communication & Signal Processing), 2016
-      COMSATS University Abbotabad Campus, KPK, Pakistan.
-      
-- [x] BS in Electronics Engineering, 2012
-      Balochistan University of Information Technology, Engineering and Management Sciences Quetta, Pakistan.
+<p class="about-text">
+<span class="fa fa-graduation-cap about-icon"></span>
+I did my MS in Electrical Engineering (Wireless Communication & Signal Processing), from COMSATS University Abbotabad Campus, KPK, Pakistan.</p>
+  
+<p class="about-text">
+<span class="fa fa-graduation-cap about-icon"></span>  
+I did my BS in Electronics Engineering, from Balochistan University of Information Technology, Engineering and Management Sciences Quetta, Pakistan.</p>
       
 
 
