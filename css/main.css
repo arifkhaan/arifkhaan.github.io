@@ -489,7 +489,7 @@ footer .theme-by {
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 100;
+  font-weight: 300;
   margin: 10px 0 0;
 }
 .intro-header .post-heading .post-subheading {
@@ -530,7 +530,7 @@ footer .theme-by {
     padding: 150px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: 60px;
   }
   .intro-header .post-heading h1 {
     font-size: 50px;
