@@ -1,3 +1,8 @@
+<div class="verseblock">
+<pre class="content">&#8203;
+&#8203;</pre>
+<div class="attribution">
+</div></div>
 ---
 layout: page
 title: Teaching Experience
@@ -5,14 +10,6 @@ subtitle:
 ---
 
 
-
-
-
-<div class="verseblock">
-<pre class="content">&#8203;
-&#8203;</pre>
-<div class="attribution">
-</div></div>
 #### Graduate Assistant
 
 Currently, I am working as Graduate Assistant at Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi Pakistan.
