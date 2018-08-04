@@ -12,13 +12,11 @@ subtitle:
 
 - 
 
--
 
 <img src="../img/conference-paper.png" height="20px">
 
 -
 
--
 
 <img src="../img/workshop-paper.png" height="20px">
 
