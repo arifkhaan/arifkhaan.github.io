@@ -4,8 +4,6 @@ title: About me
 subtitle: 
 ---
 
-<br/>
-<br/>
 
 
 #### Briefly
