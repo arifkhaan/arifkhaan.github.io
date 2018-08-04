@@ -18,7 +18,7 @@ github:
   
 researchgate:
   name: "Researchgate"
-  baseURL: "https://researchgate.net/"
+  baseURL: "https://researchgate.net/profile/"
   icon: "fa-researchgate"
   
 skype:
