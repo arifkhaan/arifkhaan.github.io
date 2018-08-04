@@ -26,15 +26,15 @@ I assisted the following as a teaching assistant during my PhD study at Ghulam I
 
 ### Lecturer
 
-COMWAVE Institute of IT Abbotabad, Pakistan
+- [x] COMWAVE Institute of IT Abbotabad, Pakistan
 
 #### Visiting Lecture
 
-COMWAVE Institute of IT Abbotabad, Pakistan
+- [x] COMWAVE Institute of IT Abbotabad, Pakistan
 
 #### Operation and Maintenance Engineer
 
-Egyptian Pakistani Telecommunication Company (EPTSC) Limited
+- [x] Egyptian Pakistani Telecommunication Company (EPTSC) Limited
 
 
 
