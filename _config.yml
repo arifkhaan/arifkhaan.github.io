@@ -28,7 +28,7 @@ navbar-links:
   Experience: "teaching"
   Blog: "http://deanattali.com/beautiful-jekyll/"
   Resources:
-    - Resume/CV: "http://deanattali.com/beautiful-jekyll/"
+    - Resume/CV: "Resumes/arif_cv.pdf"
     - Gallery: "http://deanattali.com/beautiful-jekyll/"
     - Links: "http://www.markdowntutorial.com/"
     - Books: "https://pages.github.com/"
