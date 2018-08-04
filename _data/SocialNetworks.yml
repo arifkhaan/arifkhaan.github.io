@@ -14,7 +14,7 @@ facebook:
 orcid:
   name: "Orcid"
   baseURL: "https://orcid.org/"
-  icon: "fa-orcid"
+  icon: "ai-orcid"
   
 github:
   name: "GitHub"
@@ -24,7 +24,7 @@ github:
 researchgate:
   name: "Researchgate"
   baseURL: "https://researchgate.net/profile/"
-  icon: "fa-researchgate"
+  icon: "ai-researchgate"
   
 skype:
   name: "Skype"
