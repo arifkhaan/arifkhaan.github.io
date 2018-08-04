@@ -1,14 +1,9 @@
-<div class="verseblock">
-<pre class="content">&#8203;
-&#8203;</pre>
-<div class="attribution">
-</div></div>
 ---
 layout: page
 title: Teaching Experience
 subtitle: 
 ---
-
+{zwsp}
 
 #### Graduate Assistant
 
