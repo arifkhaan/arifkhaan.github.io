@@ -14,7 +14,7 @@ facebook:
 orcid:
   name: "Orcid"
   baseURL: "https://orcid.org/"
-  icon: "fa-ORCID"
+  icon: "fa-orcid"
   
 github:
   name: "GitHub"
@@ -44,7 +44,7 @@ reddit:
 google scholor:
   name: "Google Scholor"
   baseURL: "https://scholor.google.com/"
-  icon: "fa-google.scholor"
+  icon: "fa-googlescholor"
 
 email:
   name: "Email me"
