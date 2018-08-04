@@ -5,15 +5,15 @@ subtitle:
 ---
 
 ### Briefly
-<div class=text-justify>I am a PhD student in Department of Electrical and Computer Engineering at [Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi](http://giki.edu.pk) Pakistan. My research is supervised by  [Dr. Zia ulhaq Abbas](https://www.giki.edu.pk/Faculty/Dr-Zia-ul-Haq-Abbas). My PhD thesis broadly focuses on modeling and Energy Efficiency based analysis of heterogeneous cellular networks using the tools of stochastic geometry and the theory of point processes. Prior to joining [TeleCoN Lab](https://www.giki.edu.pk/telecon) at GIKI, I completed Bachelor of Science (BS) in Electronics Engineering from [Balochistan University of Information technology, Engineering & Management Sciences Quetta](http://www.buitms.edu.pk/) Pakistan and Master of Science (MS) in Electrical Engineering with major in Wireless communication & signal processing from [COMSATS Institute of Information technology Abbottabad](http://ciit-atd.edu.pk/), Pakistan</div>.
+I am a PhD student in Department of Electrical and Computer Engineering at [Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi](http://giki.edu.pk) Pakistan. My research is supervised by  [Dr. Zia ulhaq Abbas](https://www.giki.edu.pk/Faculty/Dr-Zia-ul-Haq-Abbas). My PhD thesis broadly focuses on modeling and Energy Efficiency based analysis of heterogeneous cellular networks using the tools of stochastic geometry and the theory of point processes. Prior to joining [TeleCoN Lab](https://www.giki.edu.pk/telecon) at GIKI, I completed Bachelor of Science (BS) in Electronics Engineering from [Balochistan University of Information technology, Engineering & Management Sciences Quetta](http://www.buitms.edu.pk/) Pakistan and Master of Science (MS) in Electrical Engineering with major in Wireless communication & signal processing from [COMSATS Institute of Information technology Abbottabad](http://ciit-atd.edu.pk/), Pakistan.
 
 
-<div class=text-justify>Keeping aside all the jargons, maths and information, I love to spend my leisure on reading about photography and experimenting with my camera</div>.
+Keeping aside all the jargons, maths and information, I love to spend my leisure on reading about photography and experimenting with my camera.
 
 
 ### Research Interest
 
-<div class=text-justify>My interest includes Heterogeneous Cellular networks for 5G, energy efficiency and resource allocation in HetNet, full duplex MIMO and massive MIMO. I am also interested in performance-complexity analysis of detection algorithms and channel coding for MIMO OFDM system</div>.
+My interest includes Heterogeneous Cellular networks for 5G, energy efficiency and resource allocation in HetNet, full duplex MIMO and massive MIMO. I am also interested in performance-complexity analysis of detection algorithms and channel coding for MIMO OFDM system.
 
 
 ### Education
