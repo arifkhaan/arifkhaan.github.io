@@ -12,10 +12,12 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 
 
 ### Research Interest
+
 My interest includes Heterogeneous Cellular networks for 5G, energy efficiency and resource allocation in HetNet, full duplex MIMO and massive MIMO. I am also interested in performance-complexity analysis of detection algorithms and channel coding for MIMO OFDM system.
 
 
 ### Education
+
 - [ ] PhD Fellow in Electronics Engineering, 2017
       Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences andTechnology Topi-23640, Swabi, KPK Pakistan
 - [x] MS in Electrical Engineering (Wireless Communication & Signal Processing), 2016
