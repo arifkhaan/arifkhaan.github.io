@@ -10,7 +10,12 @@ facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
   icon: "fa-facebook"
-
+  
+orcid:
+  name: "Orcid"
+  baseURL: "https://orcid.org/"
+  icon: "fa-orcid.org"
+  
 github:
   name: "GitHub"
   baseURL: "https://github.com/"
