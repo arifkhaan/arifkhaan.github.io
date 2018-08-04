@@ -25,13 +25,16 @@ I assisted the following courses as a teaching assistant during my PhD study at 
 
 - [x] EE231L:  Electronic devices and circuit Lab (Fall 2017)
 
+
 #### Lecturer
 
 - [x] COMWAVE Institute of IT Abbotabad, Pakistan.
 
+
 #### Visiting Lecture
 
 - [x] COMWAVE Institute of IT Abbotabad, Pakistan.
+
 
 #### Operation and Maintenance Engineer
 
