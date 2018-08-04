@@ -13,22 +13,23 @@ asjhdasjkdhakjdhkasjhdkjashdjkash
 
 #### Lab Teaching:
 
-dfkjhgjkgjkdfhgjkdfhjkghdfjkhgjkdfhg
+Electronic devices and circuit Lab (Fall 2017)
 
 #### Teaching Assistant:
 
-sdfjhsjkdfhjksdhfjksdhfjkshdjkfhsdkf
+I assisted lectronic devices and circuit Lab (Fall 2017) as a teaching assistant
 
-### Visiting Lecturer
+### Lecturer
 
-sdfkjskfhjksdhfjksdhfjkhsdjk
+COMWAVE Institute of IT Abbotabad, Pakistan
 
-### Lecture
+### Visiting Lecture
 
-sjdhfjksdhfjksdhfjkhsdjkfh
+COMWAVE Institute of IT Abbotabad, Pakistan
 
 ### Operation and Maintenance Engineer
-sdhfjkshdfjksdhjkfhsjkdhfjksdhfjksd
+
+Egyptian Pakistani Telecommunication Company (EPTSC) Limited
 
 
 
