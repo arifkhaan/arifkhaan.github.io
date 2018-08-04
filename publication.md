@@ -8,10 +8,9 @@ subtitle:
 
 ## 2018
 
-####Journal paper:
+<img src="../img/journal-artical.png" height="20px">
 
 
-####Conference papers:
 
 
 
