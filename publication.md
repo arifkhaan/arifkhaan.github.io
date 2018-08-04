@@ -3,8 +3,7 @@ layout: page
 title: Publications
 subtitle: 
 ---
-<br/>
-<br/>
+
 
 ### 2018
 
