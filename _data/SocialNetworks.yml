@@ -14,7 +14,7 @@ facebook:
 orcid:
   name: "Orcid"
   baseURL: "https://orcid.org/"
-  icon: "fa-orcid.org"
+  icon: "fa-orcid"
   
 github:
   name: "GitHub"
