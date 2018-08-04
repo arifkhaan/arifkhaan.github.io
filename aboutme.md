@@ -7,7 +7,7 @@ subtitle:
 
 
 #### Briefly
-I am a PhD student in Department of Electrical and Computer Engineering at [Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi](http://giki.edu.pk) Pakistan. My research is supervised by  [Dr. Zia ulhaq Abbas](https://www.giki.edu.pk/Faculty/Dr-Zia-ul-Haq-Abbas). My PhD thesis broadly focuses on modeling and Energy Efficiency based analysis of heterogeneous cellular networks using the tools of stochastic geometry and the theory of point processes. Prior to joining [TeleCoN Lab](https://www.giki.edu.pk/telecon) at GIKI, I completed Bachelor of Science (BS) in Electronics Engineering from [Balochistan University of Information technology, Engineering & Management Sciences Quetta](http://www.buitms.edu.pk/) Pakistan and Master of Science (MS) in Electrical Engineering with major in Wireless communication & signal processing from [COMSATS Institute of Information technology Abbottabad](http://ciit-atd.edu.pk/), Pakistan.
+I am a PhD student in Department of Electrical and Computer Engineering at [Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi](http://giki.edu.pk) Pakistan. My research is supervised by  [Dr. Zia ulhaq Abbas](https://www.giki.edu.pk/Faculty/Dr-Zia-ul-Haq-Abbas). My PhD thesis broadly focuses on modeling and Energy Efficiency based analysis of heterogeneous cellular networks using the tools of stochastic geometry and the theory of point processes. Prior to joining [TeleCoN Lab](https://www.giki.edu.pk/telecon) at GIKI, I worked as operation and maintaenance Engineering and also served as lecturer and visiting lecturer post.
 
 
 Keeping aside all the jargons, maths and information, I love to spend my leisure on reading about photography and experimenting with my camera.
@@ -25,15 +25,15 @@ My interest includes
 #### Education
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I am currently PhD Fellow in Electronics Engineering at TeleCon Lab, Faculty of Electrical Engineering, Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences andTechnology Topi-23640, Swabi, KPK Pakistan.</p>
+I am currently PhD Student in Electronics Engineering at [TeleCon Lab](http://giki.edu.pk/telecon), Faculty of Electrical and Computer Engineering, [Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi](http://giki.edu.pk) KPK Pakistan.</p>
       
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I did my MS in Electrical Engineering (Wireless Communication & Signal Processing), from COMSATS University Abbotabad Campus, KPK, Pakistan.</p>
+ I did Master of Science (MS) in Electrical Engineering with major in Wireless communication & signal processing from [COMSATS Institute of Information technology Abbottabad](http://ciit-atd.edu.pk/), Pakistan.</p>
   
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>  
-I did my BS in Electronics Engineering, from Balochistan University of Information Technology, Engineering and Management Sciences Quetta, Pakistan.</p>
+I did Bachelor of Science (BS) in Electronics Engineering from [Balochistan University of Information technology, Engineering & Management Sciences Quetta](http://www.buitms.edu.pk/) Pakistan.</p>
       
 
 
