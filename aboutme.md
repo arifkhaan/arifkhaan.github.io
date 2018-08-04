@@ -19,11 +19,14 @@ subtitle:
 ### Education
 
 - [ ] PhD Fellow in Electronics Engineering, 2017
-      Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences andTechnology Topi-23640, Swabi, KPK Pakistan
+      Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences andTechnology Topi-23640, Swabi, KPK Pakistan.
+      
 - [x] MS in Electrical Engineering (Wireless Communication & Signal Processing), 2016
-      COMSATS University Abbotabad Campus, KPK, Pakistan
+      COMSATS University Abbotabad Campus, KPK, Pakistan.
+      
 - [x] BS in Electronics Engineering, 2012
-      Balochistan University of Information Technology, Engineering and Management Sciences Quetta, Pakistan
+      Balochistan University of Information Technology, Engineering and Management Sciences Quetta, Pakistan.
+      
 
 
 ### my history
