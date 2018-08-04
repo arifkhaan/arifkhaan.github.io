@@ -36,10 +36,10 @@ reddit:
   baseURL: "https://reddit.com/u/"
   icon: "fa-reddit"
 
-google-plus:
-  name: "Google+"
-  baseURL: "https://plus.google.com/"
-  icon: "fa-google-plus"
+google scholor:
+  name: "Google Scholor"
+  baseURL: "https://google.scholor.com/"
+  icon: "fa-google.scholor"
 
 email:
   name: "Email me"
