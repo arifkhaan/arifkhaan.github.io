@@ -30,7 +30,7 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 ##### Facebook
 <span class="social social-instagram"></span>
 
-##### Twitter:
+Twitter:
 <iframe style="width: 300px; height: 20px;" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=Arif_Mandrkhel" frameborder="0" scrolling="no" width="320" height="240"></iframe>
 
 ##### Skype:
