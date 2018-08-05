@@ -20,6 +20,25 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 ##### Email:
 
 - Primary:
-  <span class="social social-e-mail-envelope">arifullah[at]giki[dot]edu[dot]pk </span>, 
+  <span class="<span class="social social-e-mail">">arifullah[at]giki[dot]edu[dot]pk </span>, 
 - Secondary: 
   <span class="social social-gmail">engrz[dot]ciit[at]gmail[dot]com</span>
+  
+##### Instagram:
+<span class="social social-instagram"></span>
+
+##### Facebook
+<span class="social social-instagram"></span>
+
+##### Twitter:
+<span class="social social-twitter"></span>
+
+##### Skype:
+<span class="social social-skype"></span>
+
+##### Github:
+<span class="social social-github"></span>
+
+##### Youtube:
+<span class="social social-youtube"></span>
+
