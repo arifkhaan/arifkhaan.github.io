@@ -14,7 +14,8 @@ bigimg:
 
 <p class="about-text">
 <span class="fa fa-briefcase"></span> Currently, I am working as Graduate Assistant at Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi Pakistan.
-
+<br>
+<br>
 Lab Teaching:
 
 I have taught the following Lab as Lab Engineer during my PhD study at Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi Pakistan.
