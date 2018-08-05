@@ -31,8 +31,8 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 <span class="social social-instagram"></span>
 
 Twitter:
-<<a href="https://twitter.com/bgardner" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @bgardner</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<a href="https://twitter.com/alex_vitori?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @alex_vitori</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 ##### Skype:
