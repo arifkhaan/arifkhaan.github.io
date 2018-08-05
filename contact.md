@@ -20,7 +20,7 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 ##### Email:
 
 - Primary:
-  <span class="<span class="social social-e-mail">">arifullah[at]giki[dot]edu[dot]pk </span>, 
+  <span class="<span class="social social-e-mail">">arifullah[at]giki[dot]edu[dot]pk</span>, 
 - Secondary: 
   <span class="social social-gmail">engrz[dot]ciit[at]gmail[dot]com</span>
   
