@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Experience
-subtitle: 
+subtitle:
+meta-title: ""
+use-site-title: true
+bigimg:
+  - "/img/nabula.jpg" : "The Helix Nebula"
 ---
-<br/>
-<br/>
 
 
 
