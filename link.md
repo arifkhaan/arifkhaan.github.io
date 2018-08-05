@@ -7,7 +7,7 @@ subtitle:
 
 [PhD Advice](http://www.eecs.harvard.edu/htk/phdadvice/)
 
-[Networking Conferences Statistics:](http://www.cs.ucsb.edu/~almeroth/conf/stats/)
+[Networking Conferences Statistics](http://www.cs.ucsb.edu/~almeroth/conf/stats/)
 
 [WENS LAB (Kumoh National Institute of Technology Korea)](http://wens.re.kr/xe/index.php?mid=page_zrHo36)
 
