@@ -13,8 +13,8 @@ subtitle:
 
 ##### Phone:
 
-- OFFICE: +92(938)281032 --Ext: 2684
-- CeLL:
+- Office: +92(938)281032 --Ext: 2684
+- Cell:
 
 ##### Email:
 
