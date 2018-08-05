@@ -31,28 +31,22 @@ You can also send me a quick message using the form below:
             @using (Html.BeginForm())
             {
                 <fieldset>
-                    @Html.AntiForgeryToken()
-
+                    @Html.AntiForgeryToken()\
                     @Html.ValidationSummary(true, "", new { @class = "text-danger" })
-
                     @Html.HiddenFor(model => model.Id)
-
                     <div class="form-group">
                         @Html.LabelFor(model => model.Receiver, htmlAttributes: new { @class = "control-label col-md-2" })
                         @Html.EditorFor(model => model.Receiver, new { htmlAttributes = new { @class = "form-control" } })
                         @Html.ValidationMessageFor(model => model.Receiver, "", new { @class = "text-danger" })
                     </div>
-
                     <div class="form-group">
                         @Html.LabelFor(model => model.Body, htmlAttributes: new { @class = "control-label col-md-2" })
                         @Html.TextAreaFor(model => model.Body, 5, 55, new { htmlAttributes = new { @class = "form-control" } })
                         @Html.ValidationMessageFor(model => model.Body, "", new { @class = "text-danger" })
                     </div>
-
                     <div class="form-group">
                         <input type="submit" value="Send" class="btn btn-default" />
                     </div>
                 </fieldset>
             }
-
         </div
