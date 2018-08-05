@@ -18,10 +18,6 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 - Cell:
 
 <button type="button" class="btn btn-email"><i class="fa fa-envelope pr-1"></i> Email</button>
-- Primary:
-  <span class="<span class="social social-e-mail">">arifullah[at]giki[dot]edu[dot]pk</span>, 
-- Secondary: 
-  <span class="social social-gmail">engrz[dot]ciit[at]gmail[dot]com</span>
 <button type="button" class="btn btn-ins"><i class="fa fa-instagram pr-1"></i> Instagram</button>
 <button type="button" class="btn btn-fb"><i class="fa fa-facebook pr-1"></i> Facebook</button>
 <a href="https://twitter.com/alex_vitori?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @alex_vitori</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
