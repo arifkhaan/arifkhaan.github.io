@@ -34,7 +34,7 @@ navbar-links:
   Blog: "https://arifullahkhan.github.io/"
   Resources:
     - Resume/CV: "Resumes/arif_cv.pdf"
-    - Gallery: "https://arifullahkhan.github.io/"
+    - Gallery: "gallery"
     - Links: "https://arifullahkhan.github.io/"
     - Books: "https://arifullahkhan.github.io/"
   Contact Me: "contact"
