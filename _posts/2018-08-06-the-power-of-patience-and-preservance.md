@@ -9,4 +9,4 @@ Leaving a high-flying job in consulting, Angela Lee Duckworth took a job teachin
 She quickly realized that IQ wasn't the only thing separating the successful students from those who struggled. Here, she explains her 
 theory of "grit" as a predictor of success.
 
-[![](https://img.youtube.com/vi/GH14bBuluwB8/.jpg)](https://www.youtube.com/watch?v=H14bBuluwB8 "Click to paly on Youtube.com")
+[![](https://img.youtube.com/vi/GH14bBuluwB8/0.jpg)](https://www.youtube.com/watch?v=H14bBuluwB8 "Click to paly on Youtube.com")
