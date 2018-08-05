@@ -11,6 +11,11 @@ facebook:
   baseURL: "https://www.facebook.com/"
   icon: "fa-facebook"
   
+Instagram:
+name: "Instagram"
+baseURL: "www.instagram.com"
+icon: <span class="social social-instagram"></span>
+
 orcid:
   name: "Orcid"
   baseURL: "https://orcid.org/"
