@@ -25,5 +25,34 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 <button type="button" class="btn btn-li"><i class="fa fa-linkedin pr-1"></i> Linkedin</button>
 
 You can also send me a quick message using the form below:
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/space10-community/conversational-form@0.9.83/dist/conversational-form.min.js" crossorigin></script>
+ <div class="well">
+            <h3>Create a Message</h3>
+            <hr />
+            @using (Html.BeginForm())
+            {
+                <fieldset>
+                    @Html.AntiForgeryToken()
 
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                    @Html.HiddenFor(model => model.Id)
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Receiver, htmlAttributes: new { @class = "control-label col-md-2" })
+                        @Html.EditorFor(model => model.Receiver, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Receiver, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Body, htmlAttributes: new { @class = "control-label col-md-2" })
+                        @Html.TextAreaFor(model => model.Body, 5, 55, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Body, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="form-group">
+                        <input type="submit" value="Send" class="btn btn-default" />
+                    </div>
+                </fieldset>
+            }
+
+        </div
