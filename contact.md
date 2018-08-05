@@ -25,22 +25,3 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 <button type="button" class="btn btn-li"><i class="fa fa-linkedin pr-1"></i> Linkedin</button>
 
 You can also send me a quick message using the form below:
-$('#contactform').submit(function() {
-        var name = $("#name").val();
-        var email = $("#email").val();
-        var message = $("#message").val();
-var dataString = 'name=' + name + '&email=' + email + '&message=' + message;
-        $.ajax({
-            type : "POST",
-            url : "save.php",
-            data : dataString,
-            cache : false,
-            success : function() {
-                    $("#contactform").fadeOut(300);
-                                        $("#notice").fadeIn(400);
-            }
-        });
-  return false;
-});
-</code>
-</pre>
