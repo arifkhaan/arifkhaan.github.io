@@ -5,7 +5,7 @@ subtitle:
 meta-title: ""
 use-site-title: true
 bigimg:
-  - "/img/nabula.jpg" : "The Helix Nebula"
+  - "/img/nebula.jpg" : "The Helix Nebula"
 ---
 
 
