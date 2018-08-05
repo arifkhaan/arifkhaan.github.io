@@ -28,7 +28,8 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 <span class="social social-instagram"></span>
 
 Facebook
-<span class="social social-instagram"></span>
+<!--Facebook-->
+<button type="button" class="btn btn-fb"><i class="fa fa-facebook pr-1"></i> Facebook</button>
 
 <a href="https://twitter.com/alex_vitori?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-screen-name="false" data-show-count="false">Follow @alex_vitori</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
