@@ -21,6 +21,7 @@ Lab Teaching:
 I have taught the following Lab as Lab Engineer during my PhD study at Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi Pakistan.
 <br>
 EE452L: Digital Signal Processing (Spring-2018).
+<br>
 EE231: Electronic devices and circuit Lab (Fall-2017).
 <br>
 <br>
