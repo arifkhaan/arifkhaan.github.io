@@ -36,7 +36,7 @@ I am currently PhD Student in Electronics Engineering at TeleCon Lab, Faculty of
   
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>  
-I did Bachelor of Science (BS) in Electronics Engineering from Balochistan University of Information technology, Engineering & Management Sciences Quetta] Pakistan.</p>
+I did Bachelor of Science (BS) in Electronics Engineering from Balochistan University of Information technology, Engineering & Management Sciences Quetta Pakistan.</p>
       
 
 
