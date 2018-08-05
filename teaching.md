@@ -12,7 +12,8 @@ bigimg:
 
 #### Graduate Assistant
 
-Currently, I am working as Graduate Assistant at Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi Pakistan.
+<p class="about-text">
+<span class="fa fa-briefcase"></span> Currently, I am working as Graduate Assistant at Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi Pakistan.
 
 ##### Lab Teaching:
 
@@ -21,8 +22,7 @@ I have taught the following Lab as Lab Engineer during my PhD study at Ghulam Is
 - [x] EE452L: Digital Signal Processing (Spring-2018).
 - [x] EE231: Electronic devices and circuit Lab (Fall-2017).
 
-<p class="about-text">
-<span class="fa fa-briefcase"></span>
+
 ##### Teaching Assistant:
 
 I assisted the following courses as a teaching assistant during my PhD study at Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi Pakistan.
@@ -32,17 +32,20 @@ I assisted the following courses as a teaching assistant during my PhD study at 
 
 #### Lecturer
 
-- [x] COMWAVE Institute of IT Abbotabad, Pakistan.
+<p class="about-text">
+<span class="fa fa-briefcase"></span> COMWAVE Institute of IT Abbotabad, Pakistan.
 
 
 #### Visiting Lecture
 
-- [x] COMWAVE Institute of IT Abbotabad, Pakistan.
+<p class="about-text">
+<span class="fa fa-briefcase"></span> COMWAVE Institute of IT Abbotabad, Pakistan.
 
 
 #### Operation and Maintenance Engineer
 
-- [x] Egyptian Pakistani Telecommunication Company (EPTSC) Limited.
+<p class="about-text">
+<span class="fa fa-briefcase"></span>Egyptian Pakistani Telecommunication Company (EPTSC) Limited.
 
 
 
