@@ -34,7 +34,5 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 
 <button type="button" class="btn btn-li"><i class="fa fa-linkedin pr-1"></i> Linkedin</button>
 
-##### Skype:
-<span class="social social-skype"></span>
 
 
