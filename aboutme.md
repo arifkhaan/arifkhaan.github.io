@@ -1,9 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: 
+subtitle:
+meta-title: ""
+use-site-title: true
+bigimg:
+  - "/img/nebula.jpg" : "The Helix Nebula"
 ---
-
 
 
 #### Briefly
