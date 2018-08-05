@@ -1,9 +1,91 @@
- thumbsup [options] --log debug
-# [16:04:56] media/thumbs/photo-1446822622709-e1c7ad6e82d52.jpg [started]
-# [16:04:57] media/thumbs/photo-1446822622709-e1c7ad6e82d52.jpg [completed]
-
-thumbsup [options] --log trace
-# [16:04:56] media/thumbs/photo-1446822622709-e1c7ad6e82d52.jpg [started]
-# gm "identify" "-ping" "-format" "%[EXIF:Orientation]" [...]
-# gm "convert" "-quality" "90" "-resize" "x400>" "+profile" [...]
-# [16:04:57] media/thumbs/photo-1446822622709-e1c7ad6e82d52.jpg [completed]
+ <!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <link rel="icon" href="http://icongal.com/gallery/image/5890/nuclear_atom_atomic.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.0/underscore-min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/4.13.0/firebase.js"></script>
+    <script>
+      var config = {
+        apiKey: "AIzaSyBZksAgXcXcaPmldkpCAKVzxoIMiX-QDI8",
+        authDomain: "photoessaywebsite.firebaseapp.com",
+        databaseURL: "https://photoessaywebsite.firebaseio.com",
+        projectId: "photoessaywebsite",
+        storageBucket: "photoessaywebsite.appspot.com",
+        messagingSenderId: "663615242246"
+      };
+      firebase.initializeApp(config);
+    </script>
+    <script type="text/javascript" src="script.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111747059-5"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-111747059-5');
+    </script>
+    <title>Scott Crossen</title>
+  </head>
+  <body>
+    <div class="modal-overlay"></div>
+    <div class="modal info-modal">
+      <div class="modal-header">
+        <h1>Picture Details</h1>
+        <span class="close">&times;</span>
+      </div>
+      <div class="content">
+        <h1>Loading</h1>
+      </div>
+    </div>
+    <div class="modal chat-modal">
+      <div class="modal-header">
+        <h1>Album Chat</h1>
+        <span class="close">&times;</span>
+      </div>
+      <div class="content">
+        <div class="message">
+          <h1>Loading</h1>
+        </div>
+      </div>
+      <div class="input-feild">
+        <div class="need-name">
+          <input id="username"></input>
+          <button id="signin">Sign In</button>
+        </div>
+        <div class="new-message">
+          <textarea id="message-text"></textarea>
+          <button id="message-send">Send</button>
+        </div>
+      </div>
+    </div>
+    <div class="inset">
+      <div class="inset-pane right-pane"></div>
+      <div class="image-container">
+        <h1>Loading</h1>
+      </div>
+      <div class="inset-pane left-pane"></div>
+    </div>
+    <div class="toolbar">
+      <div class="toolitem" id="vote-up">
+        <i class="fa fa-thumbs-up"></i>
+        <p>0</p>
+      </div>
+      <div class="toolitem" id="chat">
+        <i class="fa fa-comments"></i>
+        <p>Album Chat</p>
+      </div>
+      <div class="toolitem" id="info">
+        <i class="fa fa-info-circle"></i>
+        <p>Picture Details</p>
+      </div>
+      <div class="toolitem" id="vote-down">
+        <i class="fa fa-thumbs-down"></i>
+        <p>0</p>
+      </div>
+    </div>
+  </body>
+</html>
