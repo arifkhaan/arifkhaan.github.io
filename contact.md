@@ -17,7 +17,7 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 - Office: +92(938)281032 --Ext: 2684
 - Cell:
 
-##### Email:
+<button type="button" class="btn btn-email"><i class="fa fa-envelope pr-1"></i> Email</button>
 
 - Primary:
   <span class="<span class="social social-e-mail">">arifullah[at]giki[dot]edu[dot]pk</span>, 
