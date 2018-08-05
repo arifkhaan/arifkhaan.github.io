@@ -24,8 +24,7 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 - Secondary: 
   <span class="social social-gmail">engrz[dot]ciit[at]gmail[dot]com</span>
   
-##### Instagram:
-<span class="social social-instagram"></span>
+<button type="button" class="btn btn-ins"><i class="fa fa-instagram pr-1"></i> Instagram</button>
 
 <button type="button" class="btn btn-lg btn-fb"><i class="fa fa-facebook pr-1"></i> Facebook</button>
 
