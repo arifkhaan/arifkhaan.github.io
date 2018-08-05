@@ -31,7 +31,9 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 <span class="social social-instagram"></span>
 
 Twitter:
-<iframe style="width: 300px; height: 20px;" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=Arif_Mandrkhel" frameborder="0" scrolling="no" width="320" height="240"></iframe>
+<<a href="https://twitter.com/bgardner" class="twitter-follow-button" data-show-count="true" data-size="large">Follow @bgardner</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 
 ##### Skype:
 <span class="social social-skype"></span>
