@@ -29,7 +29,8 @@ My interest includes
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
 I am currently PhD Student in Electronics Engineering at TeleCon Lab, Faculty of Electrical and Computer Engineering, Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi KPK Pakistan.</p>
-      
+ 
+ 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
  I did Master of Science (MS) in Electrical Engineering with major in Wireless communication & signal processing from COMSATS Institute of Information technology Abbottabad, Pakistan.</p>
@@ -44,10 +45,10 @@ I did Bachelor of Science (BS) in Electronics Engineering from Balochistan Unive
 Scholorships:
 <br>
 <p class="about-text">
-<span class="fa fa-award"></span>  Got Selected for for GIKI full scholorship during my PhD study</p>
-<br>
-<p class="about-text">
-<span class="fa fa-award"></span>  Got selected for Primr minister Fee Re-imbursement Scholorahip during Master study.</p>
+<span class="fa fa-award-icon"></span>
+Got Selected for for GIKI full scholorship during my PhD study.</p>
+<span class="fa fa-award-icon"></span>
+Got Selected for for GIKI full scholorship during my PhD study.</p>
 <br>
 <br>
 Membership:
