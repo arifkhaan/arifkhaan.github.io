@@ -45,9 +45,9 @@ I did Bachelor of Science (BS) in Electronics Engineering from Balochistan Unive
 Scholorships:
 <br>
 <p class="about-text">
-<span class="fa fa-award-icon"></span>
+<span class="fa fa-award"></span>
 Got Selected for for GIKI full scholorship during my PhD study.</p>
-<span class="fa fa-award-icon"></span>
+<span class="fa fa-award"></span>
 Got Selected for for GIKI full scholorship during my PhD study.</p>
 <br>
 <br>
