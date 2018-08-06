@@ -44,10 +44,10 @@ I did Bachelor of Science (BS) in Electronics Engineering from Balochistan Unive
 Scholorships:
 <br>
 <p class="about-text">
-<span class="fa fa-award-icon"> Got Selected for for GIKI full scholorship during my PhD study</span> 
+<span class="fa fa-award"> Got Selected for for GIKI full scholorship during my PhD study</span> 
 <br>
 <p class="about-text">
-<span class="fa fa-award-icon"> Got selected for Primr minister Fee Re-imbursement Scholorahip during Master study.<br>
+<span class="fa fa-award"> Got selected for Primr minister Fee Re-imbursement Scholorahip during Master study.<br>
 <br>
 <br>
 Membership:
