@@ -41,7 +41,18 @@ I did Bachelor of Science (BS) in Electronics Engineering from Balochistan Unive
 
 
 #### Awards and Membersips
-
+Scholorships:
+<br>
+<p class="about-text">
+<span class="fa fa-award-icon"></span> Got Selected for for GIKI full scholorship during my PhD study
+<br>
+<p class="about-text">
+<span class="fa fa-graduation-cap about-icon"></span> GOt selected for Primr minister Fee Re-imbursement Scholorahip during Master study
+<br>
+<br>
+Membership:
+<br>
+Life time Menber of "Pakistan Engineering Council" (PEC)
 
 
 
