@@ -27,14 +27,8 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 
 You can also send me a quick message using the form below:
 
-<script language="javascript">var sa_email_id = '88902-71e29';var sa_sent_text = 'Thank you for contacting us. We will get back to you soon.';</script>
-<script language="javascript" src="http://s1.smartaddon.com/sa_htmlform.js"></script>
-<div id="sa_contactdiv">
-<form name=sa_htmlform style="margin:0px" onsubmit="return sa_contactform()">
-<table>
-<tr><td>Name: <span style="color:#F4D03F">*</span><br><input type="text" name="name" required="true" /></td></tr>
-<tr><td>E-mail: <span style="color:#F4D03F">*</span><br><input type="text" name="email" required="true" /></td></tr>
-<tr><td>Message: <span style="color:#F4D03F">*</span><br><textarea name="message" cols="42" rows="9" required="true"></textarea></td></tr>
-<tr><td><input type="submit" value="Send Message" style="font-weight:bold"></td></tr>
-</table>
-</form><div style="padding-top:10px"><a href="http://www.smartaddon.com/contact_form.html">Contact Form</a> provided by SmartAddon.com</div></div>
+<script>
+  (function (w,i,d,g,e,t,s) {w[d] = w[d]||[];t= i.createElement(g);
+    t.async=1;t.src=e;s=i.getElementsByTagName(g)[0];s.parentNode.insertBefore(t, s);
+  })(window, document, '_gscq','script','//widgets.getsitecontrol.com/149186/script.js');
+</script>
