@@ -33,7 +33,7 @@ You can also send me a quick message using the form below:
 <form name=sa_htmlform style="margin:0px" onsubmit="return sa_contactform()">
 <table>
 <tr><td>Name: <span style="color:#D70000">*</span><br><input type="text" name="name" required="true" /></td></tr>
-<tr><td>E-mail Address: <span style="color:#D70000">*</span><br><input type="text" name="email" required="true" /></td></tr>
+<tr><td>E-mail: <span style="color:#D70000">*</span><br><input type="text" name="email" required="true" /></td></tr>
 <tr><td>Message: <span style="color:#D70000">*</span><br><textarea name="message" cols="42" rows="9" required="true"></textarea></td></tr>
 <tr><td><input type="submit" value="Send Message" style="font-weight:bold"></td></tr>
 </table>
