@@ -18,9 +18,10 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 - Cell:
 
 <button type="button" class="btn btn-email"><i class="fa fa-envelope pr-1"></i> Email</button>
+<a href="https://twitter.com/intent/tweet?screen_name=Arif_Mandnrkhel&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @Arif_Mandnrkhel</a>
+	  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <button type="button" class="btn btn-ins"><i class="fa fa-instagram pr-1"></i> Instagram</button>
 <button type="button" class="btn btn-fb"><i class="fa fa-facebook pr-1"></i> Facebook</button>
-<button type="button" class="btn btn-tw"><i class="fa fa-twitter pr-1"></i> Twitter</button>
 <button type="button" class="btn btn-git"><i class="fa fa-github pr-1"></i> Github</button>
 <button type="button" class="btn btn-li"><i class="fa fa-linkedin pr-1"></i> Linkedin</button>
 
