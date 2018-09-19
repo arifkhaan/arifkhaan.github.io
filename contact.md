@@ -15,7 +15,7 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 ##### Phone:
 
 - Office: +92(938)281032 --Ext: 2684
-- Cell:
+- Cell: +92-344-9800377
 
 <button type="button" class="btn btn-email"><i class="fa fa-envelope pr-1"></i> Email</button>
 <a href="https://twitter.com/intent/tweet?screen_name=Arif_Mandnrkhel&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @Arif_Mandnrkhel</a>
