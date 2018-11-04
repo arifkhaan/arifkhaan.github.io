@@ -3,7 +3,7 @@ layout: post
 title: The Power of Patience and Preservance
 subtitle: Angelina Duckworth TED Talk
 bigimg: /img/path.jpg
-tags: [patience, preservance]
+tags: [patience, preservance] 
 ---
 
 Leaving a high-flying job in consulting, Angela Lee Duckworth took a job teaching math to seventh graders in a New York public school. 
