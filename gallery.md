@@ -36,3 +36,25 @@ subtitle:
     ...
 </div>
 
+$('.myExMul').justifiedGallery({
+    rowHeight : 50 
+}).on('jg.complete', function () {
+    $(this).find('a').colorbox({
+        maxWidth : '80%',
+        maxHeight : '80%',
+        opacity : 0.8,
+        transition : 'elastic',
+        current : ''
+    });
+});
+$('.myExMul').each(function (i, el) {
+    $(el).justifiedGallery({rel: 'myExMul-' + i}).on('jg.complete', function () {
+        $(this).find('a').colorbox({
+            maxWidth : '80%',
+            maxHeight : '80%',
+            opacity : 0.8,
+            transition : 'elastic',
+            current : ''
+        });
+    });
+});
