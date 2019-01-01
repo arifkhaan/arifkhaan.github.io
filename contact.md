@@ -7,10 +7,10 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 
 ##### Office:
 
-- F-09 Telecommunication and Networking ([TeleCoN](https://www.giki.edu.pk/telecon)) Lab
-  Faculty of Electrical Engineering
+- F-09 Telecommunication and Networking ([TeleCoN](https://www.giki.edu.pk/telecon)) Lab, 
+  Faculty of Electrical Engineering, 
   [Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology](http://giki.edu.pk) 
-  Topi-23640, Swabi, KPK, Pakistan
+  Topi-23640, Swabi, KPK, Pakistan.
 
 ##### Phone:
 
