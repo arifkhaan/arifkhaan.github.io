@@ -44,11 +44,6 @@ I did Bachelor of Science (BS) in Electronics Engineering from Balochistan Unive
 #### Awards and Membersips
 Scholorships:
 <br>
-Got Selected for for GIKI full scholorship during my PhD study.
-<br>
-\E9E8
-Got Selected for for GIKI full scholorship during my PhD study.
-<br>
 <br>
 Membership:
 <br>
