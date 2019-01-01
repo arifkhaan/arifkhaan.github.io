@@ -10,4 +10,6 @@ subtitle:
 
 ![Installation steps](img/photos/arif3.jpg)
 
-![Installation steps](img/photos/10437437_1237194076308109_352005160891353053_n.jpg)![Installation steps](img/photos/group1.jpg)
+![Installation steps](img/photos/10437437_1237194076308109_352005160891353053_n.jpg)
+
+![Installation steps](img/photos/group1.jpg)
