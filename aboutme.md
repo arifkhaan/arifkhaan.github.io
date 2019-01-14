@@ -47,7 +47,7 @@ Scholorships:
 <br>
 Membership:
 <br>
-Life time Menber of "Pakistan Engineering Council" (PEC).
+Life time Member of "Pakistan Engineering Council" (PEC Reg#: Electro/16479).
 
 
 
