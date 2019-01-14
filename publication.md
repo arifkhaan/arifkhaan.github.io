@@ -13,7 +13,7 @@ Ultra Thin Beam Splitter Design using a-Si:H based on Phase Gradient Metasurface
 SD Reciever for MIMO System (will be submitted soon)
 
 <img src="../img/journal-article.png" height="20px">
-Throughput Analysis and Energy Efficiency (will be submitted soon)
+Energy Efficiency Analysis of Heterogenous Cellular Network for 5G (will be submitted soon)
 
 
 <img src="../img/conference-paper.png" height="20px">
