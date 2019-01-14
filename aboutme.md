@@ -44,6 +44,8 @@ I did Bachelor of Science (BS) in Electronics Engineering from Balochistan Unive
 #### Awards and Membersips
 Scholorships:
 <br>
+- Prime Minister Full Fee Reimbursement Scheme during MS study
+- Full Scholorship/[Graduate Assistantship Scheme (GA-4)](https://www.giki.edu.pk/Admissions/Graduate/AidAndScholarships) during PhD 
 <br>
 Membership:
 <br>
