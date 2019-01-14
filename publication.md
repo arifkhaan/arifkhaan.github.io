@@ -6,21 +6,24 @@ subtitle:
 
 
 ### 2018
+<img src="../img/journal-article.png" height="20px">
+Ultra Thin Beam Splitter Design using a-Si:H based on Phase Gradient Metasurfaces
 
 <img src="../img/journal-article.png" height="20px">
+- SD Reciever for MIMO System (will be submitted soon)
 
-- LAS Augmented SD Reciever (will be submitted soon)
+<img src="../img/journal-article.png" height="20px">
 - Throughput Analysis and Energy Efficiency (Manuscipt writting)
 
 
 <img src="../img/conference-paper.png" height="20px">
 
-- a
+- Performance anlysis of Heterogenous cellular network
 
 
 <img src="../img/workshop-paper.png" height="20px">
 
-- a
+- 
 
 <img src="../img/book-chapter.png" height="20px">
 
