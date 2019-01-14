@@ -13,12 +13,12 @@ subtitle:
 - SD Reciever for MIMO System (will be submitted soon)
 
 <img src="../img/journal-article.png" height="20px">
-- Throughput Analysis and Energy Efficiency (Manuscipt writting)
+- Throughput Analysis and Energy Efficiency (will be submitted soon)
 
 
 <img src="../img/conference-paper.png" height="20px">
 
-- Performance anlysis of Heterogenous cellular network
+- Performance anlysis of Heterogenous cellular network (will be submitted soon)
 
 
 <img src="../img/workshop-paper.png" height="20px">
