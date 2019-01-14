@@ -16,12 +16,12 @@ bigimg:
 <span class="fa fa-briefcase"></span> Currently, I am working as Graduate Assistant at Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi Pakistan.
 <br>
 <br>
-Lab Teaching:
+Lab Engineer:
 
 I have taught the following Lab as Lab Engineer during my PhD study at Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi Pakistan.
 <br>
 <br>
-EE351L: Signal and System (Fall-2018).
+EE351L: Signal and System Lab (Fall-2018).
 <br>
 EE231L: Electronic devices and circuit Lab (Spring-2018).
 <br>
@@ -31,7 +31,7 @@ Teaching Assistant:
 I assisted the following courses as a teaching assistant during my PhD study at Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi Pakistan.
 <br>
 <br>
-EE231:  Electronic devices and circuit Lab (Fall 2017)
+EE211:  Electronics-I (Fall 2017)
 
 
 
