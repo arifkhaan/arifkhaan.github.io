@@ -50,7 +50,7 @@ Scholorships:
 <br>
 Membership:
 <br>
-Life time Member of "Pakistan Engineering Council" (PEC Reg#: Electro/16479).
+- Life time Member of "Pakistan Engineering Council" (PEC Reg#: Electro/16479).
 
 
 
