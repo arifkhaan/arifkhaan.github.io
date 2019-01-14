@@ -17,7 +17,6 @@ Throughput Analysis and Energy Efficiency (will be submitted soon)
 
 
 <img src="../img/conference-paper.png" height="20px">
-
 Performance anlysis of Heterogenous cellular network (will be submitted soon)
 
 
