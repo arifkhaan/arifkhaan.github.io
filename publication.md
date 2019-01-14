@@ -22,11 +22,9 @@ Performance anlysis of Heterogenous cellular network (will be submitted soon)
 
 <img src="../img/workshop-paper.png" height="20px">
 
-- 
 
 <img src="../img/book-chapter.png" height="20px">
 
-- a
 
 
 
