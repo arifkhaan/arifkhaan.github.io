@@ -31,7 +31,7 @@ Teaching Assistant:
 I assisted the following courses as a teaching assistant during my PhD study at Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi Pakistan.
 <br>
 <br>
-EE211:  Electronics-I (Fall 2017)
+EE211:  Electronics-I (Fall-2017)
 
 
 
