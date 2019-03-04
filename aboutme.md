@@ -51,6 +51,7 @@ Scholorships:
 Membership:
 <br>
 - Life time Member of "Pakistan Engineering Council" (PEC Reg#: Electro/16479).
+- Graduate Student Member IEEE
 
 
 
