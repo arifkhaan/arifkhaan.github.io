@@ -5,12 +5,12 @@ subtitle:
 ---
 
 
-### 2018
+### 2019
 <img src="../img/journal-article.png" height="20px">
-Ultra Thin Beam Splitter Design using a-Si:H based on Phase Gradient Metasurfaces (Under Riview)
+Ultra Thin Beam Splitter Design using a-Si:H based on Phase Gradient Metasurfaces (Accepted in Journal of Nanoelectronics and Optoelectronics)
 
 <img src="../img/journal-article.png" height="20px">
-SD Reciever for MIMO System (will be submitted soon)
+Likelihood Ascent Search Aided Sphere Decoding Reciever for M-QAM based MIMO System (Submitted to International Journal of Communication System)
 
 <img src="../img/journal-article.png" height="20px">
 Energy Efficiency Analysis of Heterogenous Cellular Network for 5G (will be submitted soon)
