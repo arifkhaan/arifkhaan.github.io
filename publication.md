@@ -13,8 +13,10 @@ Ultra Thin Beam Splitter Design using a-Si:H based on Phase Gradient Metasurface
 Likelihood Ascent Search Aided Sphere Decoding Reciever for M-QAM based MIMO System (Submitted to International Journal of Communication System)
 
 <img src="../img/journal-article.png" height="20px">
-Energy Efficiency Analysis of Heterogenous Cellular Network for 5G (will be submitted soon)
+Outage probability and Rate Coverage Analysis of Heterogenous Cellular Network for 5G (Submitted to Transaction on Emerging Telecommunication Technologies)
 
+<img src="../img/journal-article.png" height="20px">
+Rate Coverage Analysis of Heterogenous Cellular Network with Cell Range Expansion (will be submitted soon to Wireless Networks)
 
 <img src="../img/conference-paper.png" height="20px">
 Performance anlysis of Heterogenous cellular network (will be submitted soon)
