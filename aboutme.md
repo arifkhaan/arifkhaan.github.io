@@ -7,7 +7,14 @@ use-site-title: true
 bigimg:
   - "/img/swat4.jpg" : "The Helix Nebula"
 ---
-
+<!-- hitwebcounter Code START -->
+<a href="http://www.hitwebcounter.com" target="_blank">
+<img src="http://hitwebcounter.com/counter/counter.php?page=7065561&style=0025&nbdigits=6&type=page&initCount=0" title="install tracking codes" Alt="install tracking codes"   border="0" >
+</a>                                        <br/>
+                                        <!-- hitwebcounter.com --><a href="http://www.hitwebcounter.com" title="" 
+                                        target="_blank" style="font-family: ; 
+                                        font-size: px; color: #; text-decoration:  ;"><>                                        </>
+                                        </a> 
 
 #### Briefly
 I am a PhD student in Department of Electrical and Computer Engineering at [Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi](http://giki.edu.pk) Pakistan. My research is supervised by  [Dr. Zia ulhaq Abbas](https://www.giki.edu.pk/Faculty/Dr-Zia-ul-Haq-Abbas). My PhD thesis broadly focuses on modeling and Energy Efficiency based analysis of heterogeneous cellular networks using the tools of stochastic geometry and the theory of point processes. Prior to joining [TeleCoN Lab](https://www.giki.edu.pk/telecon) at GIKI, I worked as operation and maintaenance Engineering and also served as lecturer and visiting lecturer post.
