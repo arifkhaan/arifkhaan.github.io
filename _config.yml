@@ -32,7 +32,7 @@ navbar-links:
   - Linkedin: "https://www.linkedin.com/in/arifullah012/"
   Experience: "teaching"
   Resources:
-    - Resume/CV: "[go](https://arifullahkhan.github.io/modern-resume-theme/){:target="_blank"}"
+    - Resume/CV: "[go](https://arifullahkhan.github.io/modern-resume-theme/){:target="_blank" rel="noopener"}"
     - Gallery: "gallery"
     - Links: "link"
     - Books: "https://arifullahkhan.github.io/"
