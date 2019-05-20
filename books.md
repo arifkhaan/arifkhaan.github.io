@@ -9,5 +9,5 @@ bigimg:
 ---
 <script type="text/javascript" src="https://free-hit-counters.net/count/1xg8"></script><br>
 
-<img src="../img/peer-e-kamil.jpg" height="260px"><a href="arifullahkhan.github.io/books/peer-r-kamil.pdf" target="_blank">PDF.</a><br>
+<a href="arifullahkhan.github.io/books/peer-r-kamil.pdf" target="_blank"><img src="../img/peer-e-kamil.jpg" height="260px"></a><br>
 Peer-e-kamil (PBUH) by Humaira Ahmad
