@@ -26,7 +26,6 @@ bigimg:
   <a href="Sunnat ki aaeeni hayseeat.pdf" target="_blank"><img src="../img/Sunnat ki aaeeni hayseeat.jpg" height="260px"></a>
   <a href="Tauheed aur Rasaalat.pdf" target="_blank"><img src="../img/Tauheed aur Rasaalat.jpg" height="260px"></a>
   <a href="Zad-e-Rah.pdf" target="_blank"><img src="../img/Zad-e-Rah.jpg" height="260px"></a>
-  <a href="tazkia-e-nafs.pdf" target="_blank"><img src="../img/tazkia-e-nafs.jpeg" height="260px"></a>
 </p>
 <p float="left">
   <a href="tazkia-e-nafs.pdf" target="_blank"><img src="../img/tazkia-e-nafs.jpeg" height="260px"></a>
