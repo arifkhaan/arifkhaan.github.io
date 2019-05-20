@@ -1,1 +1,10 @@
-
+---
+layout: page
+title: Books
+subtitle:
+meta-title: "Books are the mirror of soul (virginia woolf)"
+use-site-title: true
+bigimg:
+  - "/img/swat4.jpg" : "The Helix Nebula"
+---
+<script type="text/javascript" src="https://free-hit-counters.net/count/1xg8"></script><br>
