@@ -6,17 +6,21 @@ subtitle:
 
 
 ### 2019
-<img src="../img/journal-article.png" height="20px">
-Ultra Thin Beam Splitter Design using a-Si:H based on Phase Gradient Metasurfaces (Accepted in Journal of Nanoelectronics and Optoelectronics)
 
 <img src="../img/journal-article.png" height="20px">
-Likelihood Ascent Search Aided Sphere Decoding Reciever for M-QAM based MIMO System (Submitted to International Journal of Communication System)
+Performance anlysis of Heterogenous cellular network in Rician-Rayleigh fading Environment (will be submitted soon to IEEE Communication Letters)
+
+<img src="../img/journal-article.png" height="20px">
+Rate Coverage Analysis of Heterogenous Cellular Network with Cell Range Expansion (will be submitted soon to Wireless Networks)
 
 <img src="../img/journal-article.png" height="20px">
 Outage probability and Rate Coverage Analysis of Heterogenous Cellular Network for 5G (Submitted to Transaction on Emerging Telecommunication Technologies)
 
 <img src="../img/journal-article.png" height="20px">
-Rate Coverage Analysis of Heterogenous Cellular Network with Cell Range Expansion (will be submitted soon to Wireless Networks)
+Likelihood Ascent Search Aided Sphere Decoding Reciever for M-QAM based MIMO System (Submitted to International Journal of Communication System)
+
+<img src="../img/journal-article.png" height="20px">
+Ultra Thin Beam Splitter Design using a-Si:H based on Phase Gradient Metasurfaces (Accepted in Journal of Nanoelectronics and Optoelectronics)
 
 <img src="../img/conference-paper.png" height="20px">
 Performance anlysis of Heterogenous cellular network (will be submitted soon)
