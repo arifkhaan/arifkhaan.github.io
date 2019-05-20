@@ -32,7 +32,7 @@ bigimg:
   <a href="Rizq e Halal Aur Uss Ke Asrat.pdf" target="_blank"><img src="../img/Rizq e Halal Aur Uss Ke Asrat.jpeg" height="260px"></a>
 </p>
 ## History
-</p>
 <p float="left">
   <a href="RIYASAT-E-SWAT.pdf" target="_blank"><img src="../img/RIYASAT-E-SWAT.jpg" height="260px"></a>
 </p>
+
