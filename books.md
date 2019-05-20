@@ -17,5 +17,6 @@ bigimg:
 ## General
 <p float="left">
   <a href="The 7 habits of highly effective people.pdf" target="_blank"><img src="../img/The 7 habits of highly effective people.jpg" height="260px"></a>
+  <a href="Struggling-to-Surrender-Dr-Jeffrey-Lang.pdf" target="_blank"><img src="../img/Struggling-to-Surrender-Dr-Jeffrey-Lang.jpg" height="260px"></a>
 </p>
 
