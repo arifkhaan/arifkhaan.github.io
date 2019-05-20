@@ -20,4 +20,9 @@ bigimg:
   <a href="Struggling-to-Surrender-Dr-Jeffrey-Lang.pdf" target="_blank"><img src="../img/Struggling-to-Surrender-Dr-Jeffrey-Lang.jpg" height="260px"></a>
   <a href="The-Kite-Runner.pdf" target="_blank"><img src="../img/The-Kite-Runner.jpg" height="260px"></a>
 </p>
-
+## Religious
+<p float="left">
+  <a href="Mohammad-e-Arbi PBUH.pdf" target="_blank"><img src="../img/Mohammad-e-Arbi PBUH.jpg" height="260px"></a>
+  <a href="Mohammad-e-Arbi PBUH.pdf" target="_blank"><img src="../img/Mohammad-e-Arbi PBUH.jpg" height="260px"></a>
+  <a href="Mohammad-e-Arbi PBUH.pdf" target="_blank"><img src="../img/Mohammad-e-Arbi PBUH.jpg" height="260px"></a>
+</p>
