@@ -14,5 +14,8 @@ bigimg:
   <a href="iman-umaeed-aur-muhabat.pdf" target="_blank"><img src="../img/iman-umaeed-aur-muhabat.jpg" height="260px"></a>
  <a href="maat honay tak.pdf" target="_blank"><img src="../img/maat honay tak.png" height="260px"></a>
 </p>
-
+# General
+<p float="left">
+  <a href="The 7 habits of highly effective people.pdf" target="_blank"><img src="../img/The 7 habits of highly effective people.jpg" height="260px"></a>
+</p>
 
