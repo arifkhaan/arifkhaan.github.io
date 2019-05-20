@@ -9,5 +9,5 @@ bigimg:
 ---
 <script type="text/javascript" src="https://free-hit-counters.net/count/1xg8"></script><br>
 
-<img src="../img/peer-e-kamil.jpg">
+<img src="../img/peer-e-kamil.jpg" height="40px">
 Peer-e-kamil (PBUH) by Humaira Ahmad
