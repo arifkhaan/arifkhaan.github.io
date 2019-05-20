@@ -29,4 +29,5 @@ bigimg:
 </p>
 <p float="left">
   <a href="tazkia-e-nafs.pdf" target="_blank"><img src="../img/tazkia-e-nafs.jpeg" height="260px"></a>
+  <a href="Rizq e Halal Aur Uss Ke Asrat.pdf" target="_blank"><img src="../img/Rizq e Halal Aur Uss Ke Asrat.jpeg" height="260px"></a>
 </p>
