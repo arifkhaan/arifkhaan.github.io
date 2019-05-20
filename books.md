@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Books
-subtitle:
+subtitle: "Books are the mirror of soul (virginia woolf)"
 meta-title: "Books are the mirror of soul (virginia woolf)"
 use-site-title: true
 bigimg:
