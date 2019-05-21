@@ -29,10 +29,8 @@ will update soon!!!!!
   <a href="Tauheed aur Rasaalat.pdf" target="_blank"><img src="../img/Tauheed aur Rasaalat.jpg" height="200px"></a>
   <a href="Zad-e-Rah.pdf" target="_blank"><img src="../img/Zad-e-Rah.jpg" height="200px"></a>
   <a href="tazkia-e-nafs.pdf" target="_blank"><img src="../img/tazkia-e-nafs.jpeg" height="200px"></a>
-  <a href="Rizq e Halal Aur Uss Ke Asrat.pdf" target="_blank"><img src="../img/Rizq e Halal Aur Uss Ke Asrat.jpeg" height="200px"></a>
 </p>
 <p float="left">
-  <a href="tazkia-e-nafs.pdf" target="_blank"><img src="../img/tazkia-e-nafs.jpeg" height="200px"></a>
   <a href="Rizq e Halal Aur Uss Ke Asrat.pdf" target="_blank"><img src="../img/Rizq e Halal Aur Uss Ke Asrat.jpeg" height="200px"></a>
 </p>
 ### History
