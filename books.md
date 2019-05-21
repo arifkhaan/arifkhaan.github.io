@@ -35,6 +35,6 @@ will update soon!!!!!
 </p>
 ### History
 <p float="left">
-  <a href="RIYASAT-E-SWAT.pdf" target="_blank"><img src="../img/RIYASAT-E-SWAT.jpg" height="260px"></a>
+  <a href="RIYASAT-E-SWAT.pdf" target="_blank"><img src="../img/RIYASAT-E-SWAT.jpg" height="200px"></a>
 </p>
 
