@@ -11,7 +11,7 @@ subtitle:
 Performance anlysis of Heterogenous cellular network in Rician-Rayleigh fading Environment (will be submitted soon to IEEE Communication Letters)
 
 <img src="../img/journal-article.png" height="20px">
-Rate Coverage Analysis of Heterogenous Cellular Network with Cell Range Expansion (will be submitted soon to Wireless Networks)
+Rate Coverage Analysis of Heterogenous Cellular Network with Cell Range Expansion (will be submitted to Computer Networks)
 
 <img src="../img/journal-article.png" height="20px">
 Outage probability and Rate Coverage Analysis of Heterogenous Cellular Network for 5G (Submitted to Transaction on Emerging Telecommunication Technologies)
