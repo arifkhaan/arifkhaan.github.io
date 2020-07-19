@@ -20,7 +20,7 @@ Outage probability and Rate Coverage Analysis of Heterogenous Cellular Network f
 Likelihood Ascent Search Aided Sphere Decoding Reciever for M-QAM based MIMO System (Submitted to International Journal of Communication System)
 
 <img src="../img/journal-article.png" height="20px">
-Ultra Thin Beam Splitter Design using a-Si:H based on Phase Gradient Metasurfaces (Accepted in Journal of Nanoelectronics and Optoelectronics)
+Hammad Ahmed, Muhammad Mahmood Ali, Arif Ullah, Arbab Abdur Rahim, Husnul Maab, Mahmood Khan, Ultra Thin Beam Splitter Design using a-Si:H based on Phase Gradient Metasurfaces, \textit{Journal of Nanoelectronics and Optoelectronics}, vol. 14, no. 9, pp. 1339-1343(5), , September 2019.
 
 <img src="../img/conference-paper.png" height="20px">
 Performance anlysis of Heterogenous cellular network (will be submitted soon)
