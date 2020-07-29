@@ -24,16 +24,16 @@ My interest includes
 #### Education
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I am currently PhD Student in Electronics Engineering at TeleCon Lab, Faculty of Electrical and Computer Engineering, [Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi](https://www.giki.edu.pk/) Pakistan.</p>
+I am currently PhD Student in Electronics Engineering at TeleCon Lab, Faculty of Electrical and Computer Engineering, Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Pakistan.</p>
  
  
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
- I did Master of Science (MS) in Electrical Engineering with major in Wireless communication & signal processing from [COMSATS Institute of Information technology Abbottabad,](https://http://www.cuiatd.edu.pk/) Pakistan.</p>
+ I did Master of Science (MS) in Electrical Engineering with major in Wireless communication & signal processing from COMSATS Institute of Information technology Abbottabad, Pakistan.</p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>  
-I did Bachelor of Science (BS) in Electronics Engineering from [Balochistan University of Information technology, Engineering & Management Sciences Quetta,](https://www.buitms.edu.pk//) Pakistan.</p>
+I did Bachelor of Science (BS) in Electronics Engineering from Balochistan University of Information technology, Engineering & Management Sciences Quetta, Pakistan.</p>
       
 
 
