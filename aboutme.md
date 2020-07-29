@@ -4,8 +4,7 @@ title:
 subtitle:
 meta-title: ""
 use-site-title: true
-bigimg:
-  - "/img/giki.jpg" : "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Topi, Pakistan"
+
 ---
 <script type="text/javascript" src="https://free-hit-counters.net/count/1xg8"></script><br>
 
