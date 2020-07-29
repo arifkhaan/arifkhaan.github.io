@@ -24,7 +24,7 @@ My interest includes
 #### Education
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I am currently PhD Student in Electronics Engineering at TeleCon Lab, Faculty of Electrical and Computer Engineering, Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Pakistan.</p>
+I am currently PhD Student in Electronics Engineering at TeleCon Lab, Faculty of Electrical and Computer Engineering, Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Pakistan.</p> 
  
  
 <p class="about-text">
