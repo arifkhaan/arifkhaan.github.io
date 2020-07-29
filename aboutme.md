@@ -31,8 +31,9 @@ I am currently PhD Student in Electronics Engineering at TeleCon Lab, Faculty of
 <span class="fa fa-graduation-cap about-icon"></span>
  I did Master of Science (MS) in Electrical Engineering with major in Wireless communication & signal processing from COMSATS Institute of Information technology Abbottabad, Pakistan.</p>
 
+ 
 <p class="about-text">
-<span class="fa-award' style='font-size:48px;color:red"></span>  
+<span class="fa fa-graduation-cap about-icon"></span> 
 I did Bachelor of Science (BS) in Electronics Engineering from Balochistan University of Information technology, Engineering & Management Sciences Quetta, Pakistan.</p>
       
 
