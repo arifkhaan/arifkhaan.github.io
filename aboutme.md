@@ -3,7 +3,7 @@ layout: page
 title: 
 subtitle:
 meta-title: ""
-use-site-title: 
+use-site-title: true
 bigimg:
   - "/img/giki.jpg" : "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Topi, Pakistan"
 ---
