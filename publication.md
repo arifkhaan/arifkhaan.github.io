@@ -4,13 +4,15 @@ title: Publications
 subtitle: 
 ---
 
+### Under Review
 
-### 2020
 <img src="../img/journal-article.png" height="20px">
 Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Sungwan Kim, Uplink Performance Analysis of Dense HCNet with Upink/Downlink Decoupling, (Under Review In IEEE Access).
 
 <img src="../img/journal-article.png" height="20px">
 Likelihood Ascent Search Aided Sphere Decoding Reciever for M-QAM based MIMO System (Under Review in IET Communications)
+
+### 2020
 
 <img src="../img/journal-article.png" height="20px">
 Ziaul Haq Abbas, Arif Ullah, Ghulam Abbas, Fazal Muhammad, Frank Yong Li, Outage Probability Analysis of User-Centric SBS based HCNets under Hybrid Rician/Rayleigh Fading, IEEE Commun. Letters, vol. 24, no. 2, pp. 297-301, 2020.
