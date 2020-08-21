@@ -17,3 +17,8 @@ My interest includes
 - UAV assisted communication
 - Machine learning in communication
 - I am also interested in performance-complexity analysis of detection algorithms and channel coding for MIMO-OFDM system.
+
+
+[<img src="../img/googlescholor.png" height="30px">](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876)
+[<img src="../img/researchgate.png" height="30px">](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876)
+[<img src="../img/orcid.png" height="30px">](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876)
