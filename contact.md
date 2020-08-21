@@ -14,8 +14,8 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 
 ##### Phone:
 
-- Office: +92(938)281032 --Ext: 2684
-- Cell: +92-344-9800377
+[<img src="../img/telephone.png" height="40px">]() +92(938)281032 --Ext: 2684
+[<img src="../img/mobile.png" height="40px">]() +92-344-9800377
 
 ##### Email:
 [<img src="../img/email.png" height="40px">](mailto:arifullah@giki.edu.pk) [arifullah@giki.edu.pk](mailto:arifullah@giki.edu.pk)
