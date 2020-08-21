@@ -16,7 +16,7 @@ Likelihood Ascent Search Aided Sphere Decoding Reciever for M-QAM based MIMO Sys
 #### 2020
 
 <img src="../img/journal-article.png" height="20px">
-Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Sungwan Kim, Uplink Performance Analysis of Dense HCNet with Upink/Downlink Decoupling, in IEEE Access, vol. 8, pp. 148460-148474, 2020. [[Link](https://ieeexplore.ieee.org/document/9164920)]
+Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Sungwan Kim, Uplink Performance Analysis of Dense HCNet with Upink/Downlink Decoupling, in IEEE Access, vol. 8, pp. 148460-148474, 2020. [[Link](https://ieeexplore.ieee.org/document/9164920)] [<img src="../img/pdf.png" height="30px">](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876) [<img src="../img/bib.png" height="30px">](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876) [<img src="../img/abstract.png" height="28px">](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876) 
 
 <img src="../img/journal-article.png" height="20px">
 Ziaul Haq Abbas, Arif Ullah, Ghulam Abbas, Fazal Muhammad, Frank Yong Li, Outage Probability Analysis of User-Centric SBS based HCNets under Hybrid Rician/Rayleigh Fading, IEEE Commun. Letters, vol. 24, no. 2, pp. 297-301, 2020.[[Link](https://ieeexplore.ieee.org/document/8932550)]
@@ -30,7 +30,7 @@ Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Lei Jiao, Capacity dr
 #### 2019
 
 <img src="../img/journal-article.png" height="20px">
-Hammad Ahmed, Muhammad Mahmood Ali, Arif Ullah, Arbab Abdur Rahim, Husnul Maab, Mahmood Khan, Ultra Thin Beam Splitter Design using a-Si:H based on Phase Gradient Metasurfaces, Jour. of Nanoelec. and Optoelec., vol. 14, no. 9, pp. 1339-1343(5), 2019. [[Link](https://www.ingentaconnect.com/content/asp/jno/2019/00000014/00000009/art00016)]
+Hammad Ahmed, Muhammad Mahmood Ali, Arif Ullah, Arbab Abdur Rahim, Husnul Maab, Mahmood Khan, Ultra Thin Beam Splitter Design using a-Si:H based on Phase Gradient Metasurfaces, Jour. of Nanoelec. and Optoelec., vol. 14, no. 9, pp. 1339-1343(5), 2019. [<img src="../img/pdf.png" height="30px">](https://www.ingentaconnect.com/content/asp/jno/2019/00000014/00000009/art00016) [<img src="../img/bib.png" height="30px">](https://www.ingentaconnect.com/content/asp/jno/2019/00000014/00000009/art00016) [<img src="../img/abstract.png" height="28px">](https://www.ingentaconnect.com/content/asp/jno/2019/00000014/00000009/art00016) 
 
 <img src="../img/conference-paper.png" height="20px">
 Arif Ullah, Ziaul Haq Abbas, Ghulam Abbas, Fazal Muhammad, Analysis of Outage Probability and Rate Coverage in Heterogeneous Cellular Network with Joint Uniform and Clustered Users, 22nd International Multitopic Conference (INMIC), Islamabad, 2019. [[Link](https://ieeexplore.ieee.org/document/9022767)]
