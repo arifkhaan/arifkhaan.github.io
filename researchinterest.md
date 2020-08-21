@@ -19,7 +19,7 @@ My interest includes
 - I am also interested in performance-complexity analysis of detection algorithms and channel coding for MIMO-OFDM system.
 
 
-Complete list of my publications can also be accessed using
+Complete list of my publications can also be accessed on google scholor.
 
 
 [<img src="../img/googlescholor.png" height="98px">](https://scholar.google.com/citations?user=gktHbTcAAAAJ&hl=en)
