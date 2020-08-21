@@ -7,7 +7,7 @@ subtitle:
 ### Under Review
 
 <img src="../img/journal-article.png" height="20px">
-Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Sungwan Kim, Uplink Performance Analysis of Dense HCNet with Upink/Downlink Decoupling, (Accepted in IEEE Access). [[Link](https://ieeexplore.ieee.org/document/9164920)]
+Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Sungwan Kim, Uplink Performance Analysis of Dense HCNet with Upink/Downlink Decoupling, in IEEE Access, vol. 8, pp. 148460-148474, 2020. [[Link](https://ieeexplore.ieee.org/document/9164920)]
 
 <img src="../img/journal-article.png" height="20px">
 Likelihood Ascent Search Aided Sphere Decoding Reciever for M-QAM based MIMO System (Under Review in IET Communications)
