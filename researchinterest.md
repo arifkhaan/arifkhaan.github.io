@@ -20,5 +20,5 @@ My interest includes
 
 
 [<img src="../img/googlescholor.png" height="75px">](https://scholar.google.com/citations?user=gktHbTcAAAAJ&hl=en)
-[<img src="../img/researchgate.png" height="750px">](https://www.researchgate.net/profile/Arif_Ullah_Khan3)
+[<img src="../img/researchgate.png" height="75px">](https://www.researchgate.net/profile/Arif_Ullah_Khan3)
 [<img src="../img/orcid.png" height="80px">](https://orcid.org/0000-0002-0555-6644)
