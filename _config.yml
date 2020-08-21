@@ -27,10 +27,10 @@ navbar-links:
   Research: 
   - Research Interest: "researchinterest"
   - Publications: "publication"
-  - Google Scholor: "https://scholar.google.com/citations?hl=en&user=gktHbTcAAAAJ"
-  - Orcid: "https://orcid.org/0000-0002-0555-6644"
-  - Researchgate: "https://www.researchgate.net/profile/Arif_Ullah_Khan3"
-  - Linkedin: "https://www.linkedin.com/in/arifullah012/"
+#  - Google Scholor: "https://scholar.google.com/citations?hl=en&user=gktHbTcAAAAJ"
+#  - Orcid: "https://orcid.org/0000-0002-0555-6644"
+#  - Researchgate: "https://www.researchgate.net/profile/Arif_Ullah_Khan3"
+#  - Linkedin: "https://www.linkedin.com/in/arifullah012/"
   Resources:
     - Resume/CV: "https://arifullahkhan.github.io/books/arifcv.pdf"
     - Gallery: "gallery"
