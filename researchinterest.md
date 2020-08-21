@@ -19,6 +19,6 @@ My interest includes
 - I am also interested in performance-complexity analysis of detection algorithms and channel coding for MIMO-OFDM system.
 
 
-[<img src="../img/googlescholor.png" height="60px">](https://scholar.google.com/citations?user=gktHbTcAAAAJ&hl=en)
-[<img src="../img/researchgate.png" height="60px">](https://www.researchgate.net/profile/Arif_Ullah_Khan3)
-[<img src="../img/orcid.png" height="60px">](https://orcid.org/0000-0002-0555-6644)
+[<img src="../img/googlescholor.png" height="75px">](https://scholar.google.com/citations?user=gktHbTcAAAAJ&hl=en)
+[<img src="../img/researchgate.png" height="750px">](https://www.researchgate.net/profile/Arif_Ullah_Khan3)
+[<img src="../img/orcid.png" height="80px">](https://orcid.org/0000-0002-0555-6644)
