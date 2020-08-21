@@ -17,12 +17,13 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 - Office: +92(938)281032 --Ext: 2684
 - Cell: +92-344-9800377
 
-<button type="button" class="btn btn-email"><i class="fa fa-envelope pr-1"></i> Email</button>
-<a href="https://twitter.com/intent/tweet?screen_name=Arif_Mandnrkhel&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @Arif_Mandnrkhel</a>
-	  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+##### Email:
+-[arifullah@giki.edu.pk](mailto:arifullah@giki.edu.pk)
   
-<button type="button" class="btn btn-ins"><i class="fa fa-instagram pr-1"></i> Instagram</button>
-<button type="button" class="btn btn-git"><i class="fa fa-github pr-1"></i> Github</button>
-<button type="button" class="btn btn-li"><i class="fa fa-linkedin pr-1"></i> Linkedin</button>
+
+[<img src="../img/googlescholor.png" height="98px">](https://scholar.google.com/citations?user=gktHbTcAAAAJ&hl=en)
+[<img src="../img/researchgate.png" height="98px">](https://www.researchgate.net/profile/Arif_Ullah_Khan3)
+[<img src="../img/orcid.png" height="90px">](https://orcid.org/0000-0002-0555-6644)
+[<img src="../img/linkedin.png" height="90px">](https://www.linkedin.com/in/arifullah012/)
 
 You can also send me a quick message using the form below:
