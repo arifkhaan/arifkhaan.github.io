@@ -25,7 +25,7 @@ Ziaul Haq Abbas, Arif Ullah, Ghulam Abbas, Fazal Muhammad, Frank Yong Li, Outage
 Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Lei Jiao, Performance Analysis of User-Centric SBS Deployment with Load Balancing in Heterogeneous Cellular Networks: A Thomas Cluster Process Approach, Computer Networks, vol. 170, 2020. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S1389128619308874)]
 
 <img src="../img/journal-article.png" height="20px">
-Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Lei Jiao, Capacity driven small cell deployment in heterogeneous cellular networks: Outage probability and rate coverage analysis, Trans. on Emer. Telecommun. Techno., e3876, 2020. [<img src="../img/pdf.png" height="30px">](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876) [<img src="../img/bib.png" height="30px">](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876) [<img src="../img/abstract.png" height="30px">](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876) 
+Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Lei Jiao, Capacity driven small cell deployment in heterogeneous cellular networks: Outage probability and rate coverage analysis, Trans. on Emer. Telecommun. Techno., e3876, 2020. [<img src="../img/pdf.png" height="30px">](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876) [<img src="../img/bib.png" height="30px">](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876) [<img src="../img/abstract.png" height="28px">](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876) 
 
 #### 2019
 
