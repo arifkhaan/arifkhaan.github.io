@@ -19,7 +19,6 @@ Have a question, an exciting new idea or need to discuss matters? I'm always loo
 
 ##### Email:
 [<img src="../img/email.png" height="40px">](mailto:arifullah@giki.edu.pk) [arifullah@giki.edu.pk](mailto:arifullah@giki.edu.pk)
-
 [<img src="../img/gmail.png" height="40px">](mailto:arifullah@giki.edu.pk) [engrz.ciit@gmail.com](mailto:engrz.ciit@gmail.com)
   
 
