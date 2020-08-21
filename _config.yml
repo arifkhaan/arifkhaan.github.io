@@ -25,8 +25,8 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Research: 
-  - Publications: "publication"
   - Research Interest: "Research Interest"
+  - Publications: "publication"
   - Google Scholor: "https://scholar.google.com/citations?hl=en&user=gktHbTcAAAAJ"
   - Orcid: "https://orcid.org/0000-0002-0555-6644"
   - Researchgate: "https://www.researchgate.net/profile/Arif_Ullah_Khan3"
