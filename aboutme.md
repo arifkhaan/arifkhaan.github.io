@@ -12,6 +12,7 @@ I am a PhD student in Department of Electrical and Computer Engineering at [Ghul
 
 Keeping aside all the jargons, maths and information, I love to spend my leisure on reading about photography and experimenting with my camera.
  
+ ----
 
 #### Education
 <p class="about-text">
@@ -28,7 +29,7 @@ I am currently PhD Student in Electronics Engineering at TeleCon Lab, Faculty of
 <span class="fa fa-graduation-cap about-icon"></span> 
 I did Bachelor of Science (BS) in Electronics Engineering from Balochistan University of Information technology, Engineering & Management Sciences Quetta, Pakistan.</p>
       
-
+----
 
 #### Awards and Membersips
 
@@ -43,7 +44,7 @@ Membership:
 - Life time Member of "Pakistan Engineering Council" (PEC Reg#: Electro/16479).
 - Graduate Student Member IEEE
 
-
+----
 
 
 
