@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Publications
-subtitle: 
+subtitle: ''
+head-title: ""
+css: "../css/custom.css"
 ---
 
 
@@ -10,6 +12,8 @@ subtitle:
 
 <img src="../img/journal-article.png" height="20px">
 Likelihood Ascent Search Aided Sphere Decoding Reciever for M-QAM based MIMO System (Under Review in IET Communications)
+
+----
 
 ### Published articles
 
@@ -27,6 +31,8 @@ Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Lei Jiao, Performance
 
 <img src="../img/journal-article.png" height="20px">
 Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Lei Jiao, Capacity driven small cell deployment in heterogeneous cellular networks: Outage probability and rate coverage analysis, Trans. on Emer. Telecommun. Techno., e3876, 2020. [<img src="../img/link.png" height="30px">](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876)
+
+----
 
 #### 2019
 
