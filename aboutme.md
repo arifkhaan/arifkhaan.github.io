@@ -31,6 +31,11 @@ I did Bachelor of Science (BS) in Electronics Engineering from Balochistan Unive
       
 ----
 
+#### Employment History
+
+
+----
+
 #### Awards and Membersips
 
 Scholorships:
