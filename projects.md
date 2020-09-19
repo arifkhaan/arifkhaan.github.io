@@ -7,14 +7,18 @@ css: "../css/custom.css"
 ---
 
 #### Soft Output Sphere Decoding Reciever for MIMO System
-<p align="center">
-  <a href="https://www.paypal.me/daattali">
-    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
-  </a>
-</p>
-<p float="left">
-  <a><img src="../_data/model111(2).pdf" height="200px"></a>
-</p>
+<table id="repo-table">
+<tbody>
+<tr>
+    <td id="whereami"><center>
+      <a><img alt="whereami" width="180" height="90" style="object-fit: contain;" src="data/model111(2).pdf"></a>
+      <div style="margin-top: 0.5rem"><i class="fa fa-star"></i><span class="stars" style="margin-right: 1rem; margin-left: 0.5rem"></span><b>whereami</b></div>
+      <a class="repo-description"></a>
+    </center></td>
+</tr>
+</tbody>
+</table>
+
 
 #### Heterogeneous Cellular Networks
 
