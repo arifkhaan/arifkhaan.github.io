@@ -47,9 +47,9 @@ Arif Ullah, Ziaul Haq Abbas, Ghulam Abbas, Fazal Muhammad, Analysis of Outage Pr
 Complete list of my publications can also be accessed on google scholor.
 
 
-[<img src="../img/googlescholor.png" height="98px">](https://scholar.google.com/citations?user=gktHbTcAAAAJ&hl=en)
-[<img src="../img/researchgate.png" height="98px">](https://www.researchgate.net/profile/Arif_Ullah_Khan3)
-[<img src="../img/orcid.png" height="90px">](https://orcid.org/0000-0002-0555-6644)
+[<img src="../img/googlescholor.png" height="65px">](https://scholar.google.com/citations?user=gktHbTcAAAAJ&hl=en)
+[<img src="../img/researchgate.png" height="65px">](https://www.researchgate.net/profile/Arif_Ullah_Khan3)
+[<img src="../img/orcid.png" height="70px">](https://orcid.org/0000-0002-0555-6644)
 [<img src="../img/linkedin.png" height="90px">](https://www.linkedin.com/in/arifullah012/)
 
 
