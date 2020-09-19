@@ -6,7 +6,7 @@ head-title: ""
 css: "../css/custom.css"
 ---
 
-#### Soft Output Sphere Decoding Reciever
+#### Soft Output Sphere Decoding Reciever for MIMO System
 
 #### Heterogeneous Cellular Networks
 
