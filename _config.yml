@@ -56,7 +56,7 @@ navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#FF8C00"
+footer-col: "#0085A1"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
@@ -64,8 +64,8 @@ footer-link-col: "#404040"
 # instead of colour
 
 # navbar-img: "/img/swat.jpg"
-footer-img: "/img/swat.jpg"
-page-img: "/img/swat.jpg"
+# footer-img: "/img/swat.jpg"
+# page-img: "/img/swat.jpg"
 
 # --- Footer options --- #
 
