@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Links
-subtitle: 
+subtitle: 'For personal note'
+head-title: ""
+css: "../css/custom.css"
 ---
 
 
