@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Links
-subtitle: 'Projects'
+title: Projects
+subtitle: ''
 head-title: ""
 css: "../css/custom.css"
 ---
