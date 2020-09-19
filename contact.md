@@ -1,8 +1,11 @@
 ---
 layout: page
-title: 
-subtitle: 
+title: Contact detail
+subtitle: ''
+head-title: ""
+css: "../css/custom.css"
 ---
+
 Have a question, an exciting new idea or need to discuss matters? I'm always looking forward to friendly communication. You can find all the necessary details in order to make contact below.
 
 ##### Office:
