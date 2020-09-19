@@ -17,7 +17,7 @@ baseurl: ""
 title: Arif Ullah Khan
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: webpage
 
 # --- Navigation bar options --- #
 
@@ -43,7 +43,7 @@ avatar: "/img/arif11.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: "/img/arif11.jpeg"
 
 # --- Background colour/image options --- #
 
