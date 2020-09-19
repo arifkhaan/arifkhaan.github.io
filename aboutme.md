@@ -53,7 +53,7 @@ Membership:
 
 ----
 #### Detail CV:
-[<img src="../img/linkedin.png" height="40px">](https://www.linkedin.com/in/arifullah012/)
+[<img src="../img/cvicon.jpg" height="40px">](https://arifullahkhan.github.io/books/arifcv.pdf)
 
 
 
