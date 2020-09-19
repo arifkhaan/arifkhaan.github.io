@@ -48,7 +48,7 @@ Arif Ullah, Ziaul Haq Abbas, Ghulam Abbas, Fazal Muhammad, Analysis of Outage Pr
 
 <img src="../img/book-chapter.png" height="20px">
 
-
+----
 
 Complete list of my publications can also be accessed on google scholor.
 
