@@ -53,7 +53,7 @@ Membership:
 
 ----
 #### Detail CV:
-[<img src="../img/cvicon.jpg" height="40px">](https://arifullahkhan.github.io/books/arifcv.pdf)
+[<img src="../img/cvicon.jpg" height="65px">](https://arifullahkhan.github.io/books/arifcv.pdf)
 
 
 
