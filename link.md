@@ -18,3 +18,5 @@ css: "../css/custom.css"
 - [Scientific Journals ranking](http://www.scimagojr.com/journalrank.php?category=1705)
 - [SCI Journals list](http://sci-thomsonreuters.org/)
 - [SCIE Journals list](http://scie-thomsonreuters.org/)
+
+----
