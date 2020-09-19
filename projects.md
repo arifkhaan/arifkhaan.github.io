@@ -8,7 +8,7 @@ css: "../css/custom.css"
 
 #### Soft Output Sphere Decoding Reciever for MIMO System
 <p float="left">
-  <a href="model111(2).pdf" target="_blank"><img src="../data/model111(2).pdf" height="200px"></a>
+  <a><img src="../data/model111(2).pdf" height="200px"></a>
 </p>
 
 #### Heterogeneous Cellular Networks
