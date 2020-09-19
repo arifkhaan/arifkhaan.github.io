@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Gallery
-subtitle: 
+subtitle: ''
+head-title: ""
+css: "../css/custom.css"
 ---
 
 
