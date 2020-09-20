@@ -12,23 +12,12 @@ css: "../css/custom.css"
 </p>F-09 Telecommunication and Networking (TeleCoN Lab), Faculty of Electrical Engineering, Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi-23640, Swabi, KPK, Pakistan.<p>
 <p>If you want to get in touch. Don't hesitate to send a message as I love meeting new people.</p>
 
-<form action="https://formspree.io/arifullah@giki.edu.pk" method="POST" class="form" id="contact-form">
-  <p>You can also send me a quick message using the form below:</p>
-  <div class="row">
-    <div>
-      <input type="email" name="_replyto" required="required" class="form-control form-control-lg" placeholder="Email" title="Email">
-    </div>
-    <br/>
-    <div>
-      <input type="text" name="name" class="form-control form-control-lg" placeholder="Name" title="Name">
-    </div>
-    <br/>
-  </div>
-  <input type="hidden" name="_subject" value="New submission from github page">
-  <textarea type="text" name="content" class="form-control form-control-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
-  <input type="text" name="_gotcha" style="display:none">
-  <input type="hidden" name="_next" value="?message=Your message was sent successfully, thanks!" />
-  
-  
-  <button type="submit" class="btn btn-lg btn-primary">Submit</button>
+<form method="post" action="contact.php">
+	<label for="name">Name:</label>
+	<input type="text" class="text" name="cf_name" id="name" />
+	<label for="email">email:</label>
+	<input type="text" class="text" name="cf_email" id="email" />
+	<label for="text">Message:</label>
+	<textarea class="text" name="cf_message" id="message"></textarea>
+	<input type="submit" class="submit" value="Send" />
 </form>
