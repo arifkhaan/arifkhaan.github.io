@@ -35,10 +35,16 @@ I did Bachelor of Science (BS) in Electronics Engineering from Balochistan Unive
 
 ### Employment History
 
-- Graduate Assistant/Lab Instructor (2017 - 2020): I have Assisted as a Teaching Assistant (TA) in Linear Circuit Analysis (EE-211) course (Fall
-2017), as an instructor in Electronics Devices and Circuit Lab (EE-231L) (Spring 2018 and Spring 2019), as an instructor in Signal and System Lab (EE-351L) (Fall 2018 and Fall 2019) and as an instructor in communication system lab (Sprin 2020) at Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Topi, Pakistan.
-- Lecturer (2015 - 2016): COMWAVE Institute of Information Technology, Abbotabad, Pakistan.
-- Engineer Trainee (2013 - 2014): Egyptian-Pakistani Telecommunication Company Limited.
+<p class="about-text">
+<span class="fa fa-briefcase about-icon"></span>
+Graduate Assistant/Lab Instructor (2017 - 2020): I have Assisted as a Teaching Assistant (TA) in Linear Circuit Analysis (EE-211) course (Fall
+2017), as an instructor in Electronics Devices and Circuit Lab (EE-231L) (Spring 2018 and Spring 2019), as an instructor in Signal and System Lab (EE-351L) (Fall 2018 and Fall 2019) and as an instructor in communication system lab (Sprin 2020) at Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Topi, Pakistan.</p>
+<p class="about-text">
+<span class="fa fa-briefcase about-icon"></span>
+Lecturer (2015 - 2016): COMWAVE Institute of Information Technology, Abbotabad, Pakistan.</p>
+<p class="about-text">
+<span class="fa fa-briefcase about-icon"></span>
+Engineer Trainee (2013 - 2014): Egyptian-Pakistani Telecommunication Company Limited.</p>
 
 ----
 
