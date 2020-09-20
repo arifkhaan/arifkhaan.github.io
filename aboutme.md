@@ -19,7 +19,7 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 ### Education
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I am currently PhD Student in Electronics Engineering at TeleCon Lab, Faculty of Electrical and Computer Engineering, Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Pakistan from fall 2017 till date.</p> 
+I am currently PhD Student in Electronics Engineering at TeleCon Lab, Faculty of Electrical and Computer Engineering, Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Pakistan :de: from fall 2017 till date.</p> 
  
  
 <p class="about-text">
