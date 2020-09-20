@@ -16,7 +16,7 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
  
  ----
 
-#### Education
+### Education
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
 I am currently PhD Student in Electronics Engineering at TeleCon Lab, Faculty of Electrical and Computer Engineering, Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Pakistan from fall 2017 till date.</p> 
@@ -33,7 +33,7 @@ I did Bachelor of Science (BS) in Electronics Engineering from Balochistan Unive
       
 ----
 
-#### Employment History
+### Employment History
 
 - Graduate Assistant/Lab Instructor (2017 - 2020): I have Assisted as a Teaching Assistant (TA) in Linear Circuit Analysis (EE-211) course (Fall
 2017), as an instructor in Electronics Devices and Circuit Lab (EE-231L) (Spring 2018 and Spring 2019), as an instructor in Signal and System Lab (EE-351L) (Fall 2018 and Fall 2019) and as an instructor in communication system lab (Sprin 2020) at Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Topi, Pakistan.
@@ -42,7 +42,7 @@ I did Bachelor of Science (BS) in Electronics Engineering from Balochistan Unive
 
 ----
 
-#### Awards and Membersips
+### Awards and Membersips
 
 Scholorships:
 - Prime Minister Full Fee Reimbursement Scheme during MS study
@@ -54,7 +54,7 @@ Membership:
 .
 
 ----
-#### Detail CV:
+### Detail CV:
 [<img src="../img/cvicon.jpg" height="65px">](https://arifullahkhan.github.io/books/arifcv.pdf)
 
 
