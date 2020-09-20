@@ -3,6 +3,7 @@ layout: page
 title: Arif Ullah Khan
 subtitle: 'PhD. Fellow, GIKI'
 head-title: "Arif Ullah Khan - PhD Fellow, GIKI"
+css: "../css/custom.css"
 ---
 
 <img align="right" src="https://github.com/arifullahkhan/arifullahkhan.github.io/blob/master/Anudit-Coffee.png" alt="Anudit's Avatar with a Coffee Mug"/>
