@@ -12,17 +12,22 @@ css: "../css/custom.css"
 </p>F-09 Telecommunication and Networking (TeleCoN Lab), Faculty of Electrical Engineering, Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi-23640, Swabi, KPK, Pakistan.<p>
 <p>If you want to get in touch. Don't hesitate to send a message as I love meeting new people.</p>
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/arifullah@giki.edu.pk" method="post">
-  <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-    <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-    <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Message" required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-  </fieldset>
-  <input type="submit" value="Submit">
+<form action="https://formspree.io/daattali@gmail.com" method="POST" class="form" id="contact-form">
+  <p>You can also send me a quick message using the form below:</p>
+  <div class="row">
+    <div class="col-6">
+      <input type="email" name="_replyto" required="required" class="form-control form-control-lg" placeholder="Email" title="Email">
+    </div>
+    <div class="col-6">
+      <input type="text" name="name" class="form-control form-control-lg" placeholder="Name" title="Name">
+    </div>
+  </div>
+  <input type="hidden" name="_subject" value="New submission from deanattali.com">
+  <textarea type="text" name="content" class="form-control form-control-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
+  <input type="text" name="_gotcha" style="display:none">
+  <input type="hidden" name="_next" value="?message=Your message was sent successfully, thanks!" />
+  
+  <div style="font-size: 12px; margin: -10px 0 10px;">Please do not use this form to send me full code samples or ask me to fix an app for free. Due to the volume of questions I receive I unfortuantely cannot offer free support.</div>
+  
+  <button type="submit" class="btn btn-lg btn-primary">Submit</button>
 </form>
-
-</div>
