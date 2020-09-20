@@ -21,7 +21,7 @@ Likelihood Ascent Search Aided Sphere Decoding Reciever for M-QAM based MIMO Sys
 
 <img src="../img/journal-article.png" height="20px">
 Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Sungwan Kim, Uplink Performance Analysis of User- Centric
-Small Cell Aided Dense HCNets With Uplink-Downlink Decoupling, in IEEE Access, vol. 8, pp. 148460-148474, 2020.  [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/document/9164920) [[IEEE&#8594;]](https://ieeexplore.ieee.org/document/9164920) 
+Small Cell Aided Dense HCNets With Uplink-Downlink Decoupling, <em>.in IEEE Access,</em> vol. 8, pp. 148460-148474, 2020.  [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/document/9164920) [[IEEE&#8594;]](https://ieeexplore.ieee.org/document/9164920) 
 
 <img src="../img/journal-article.png" height="20px">
 Ziaul Haq Abbas, Arif Ullah, Ghulam Abbas, Fazal Muhammad, Frank Yong Li, Outage Probability Analysis of User-Centric SBS based HCNets under Hybrid Rician/Rayleigh Fading, IEEE Commun. Letters, vol. 24, no. 2, pp. 297-301, 2020. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/document/8932550) [[IEEE&#8594;]](https://ieeexplore.ieee.org/document/8932550)
