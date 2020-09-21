@@ -14,7 +14,7 @@ css: "../css/custom.css"
 #### Heterogeneous Cellular Networks
 
 #### Soft Output Sphere Decoding Reciever for MIMO System
-<img src="../img/model111.png" height="300px">
+<img src="../img/model111.PNG" height="300px">
 
 
 
