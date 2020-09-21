@@ -5,7 +5,7 @@ subtitle: ''
 head-title: ""
 css: "../css/custom.css"
 ---
-<img align="center" src="../img/unerconst.jpg" height="300px">
+<img align="right" src="../img/unerconst.jpg" height="300px">
 
 #### 1. AI Enabled Wireless Systems
 
@@ -15,7 +15,7 @@ css: "../css/custom.css"
 
 #### 4. Soft Output Sphere Decoding Reciever for MIMO System
 
-<img align="right" src="../img/model111.PNG" height="300px">
+<img align="center" src="../img/model111.PNG" height="300px">
 
 
 
