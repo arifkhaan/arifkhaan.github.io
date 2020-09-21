@@ -5,7 +5,7 @@ subtitle: ''
 head-title: ""
 css: "../css/custom.css"
 ---
-<img align="right" src="../img/Coffee.png" height="250px">
+<img align="right" src="../img/unerconst.jpg" height="250px">
 
 #### AI Enabled Wireless Systems
 
