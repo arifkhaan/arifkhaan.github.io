@@ -9,11 +9,11 @@ css: "../css/custom.css"
 
 #### 1. AI Enabled Wireless Systems
 
-#### Millimeter Wave Communications
+#### 2. Millimeter Wave Communications
 
-#### Heterogeneous Cellular Networks
+#### 3. Heterogeneous Cellular Networks
 
-#### Soft Output Sphere Decoding Reciever for MIMO System
+#### 4. Soft Output Sphere Decoding Reciever for MIMO System
 <img src="../img/model111.PNG" height="300px">
 
 
