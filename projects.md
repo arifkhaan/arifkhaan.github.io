@@ -30,15 +30,9 @@ css: "../css/custom.css"
     <p>
     <img align="right" src="../img/unerconst.jpg" height="300px">
     </p>
-    <p>
-      Will be updated soon
-    <\p>
   </div>
   <h3>Millimeter Wave (mmWave) Communication</h3>
   <div>
-    <p>
-      <img align="right" src="../img/unerconst.jpg" height="300px">
-    <\p>
     <p>
     Sed non urna. Donec et ante. Phasellus eu ligula. Vestibulum sit amet
     purus. Vivamus hendrerit, dolor at aliquet laoreet, mauris turpis porttitor
@@ -48,9 +42,6 @@ css: "../css/custom.css"
   </div>
   <h3>Heterogeneous Cellular Networks (HCNets)</h3>
   <div>
-    <p>
-      <img align="right" src="../img/unerconst.jpg" height="300px">
-    <\p>
     <p>
     Nam enim risus, molestie et, porta ac, aliquam ac, risus. Quisque lobortis.
     Phasellus pellentesque purus in massa. Aenean in pede. Phasellus ac libero
