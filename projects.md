@@ -35,19 +35,14 @@ css: "../css/custom.css"
   <div>
     <p>
       <img align="right" src="../img/unerconst.jpg" height="300px">
-    Sed non urna. Donec et ante. Phasellus eu ligula. Vestibulum sit amet
-    purus. Vivamus hendrerit, dolor at aliquet laoreet, mauris turpis porttitor
-    velit, faucibus interdum tellus libero ac justo. Vivamus non quam. In
-    suscipit faucibus urna.
+    Will ve updated soon
     </p>
   </div>
   <h3>Heterogeneous Cellular Networks (HCNets)</h3>
   <div>
     <p>
-    Nam enim risus, molestie et, porta ac, aliquam ac, risus. Quisque lobortis.
-    Phasellus pellentesque purus in massa. Aenean in pede. Phasellus ac libero
-    ac tellus pellentesque semper. Sed ac felis. Sed commodo, magna quis
-    lacinia ornare, quam ante aliquam nisi, eu iaculis leo purus venenatis dui.
+      <img align="right" src="../img/unerconst.jpg" height="300px">
+    Will be updated soon
     </p>
     <ul>
       <li>List item one</li>
@@ -58,14 +53,10 @@ css: "../css/custom.css"
   <h3>Soft Output Sphere Decoding for MIMO OFDM System</h3>
   <div>
     <p>
-    Cras dictum. Pellentesque habitant morbi tristique senectus et netus
-    et malesuada fames ac turpis egestas. Vestibulum ante ipsum primis in
-    faucibus orci luctus et ultrices posuere cubilia Curae; Aenean lacinia
-    mauris vel est.
+    Will be updated soon
     </p>
     <p>
-    <img align="center" src="../img/model111.PNG" height="300px">
-    </p>
+    <img align="right" src="../img/model111.PNG" height="300px">
   </div>
 </div>
  
