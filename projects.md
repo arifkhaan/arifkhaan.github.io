@@ -53,10 +53,9 @@ css: "../css/custom.css"
   <h3>Soft Output Sphere Decoding for MIMO OFDM System</h3>
   <div>
     <p>
+      <img align="right" src="../img/model111.PNG" height="300px">
     Will be updated soon
     </p>
-    <p>
-    <img align="right" src="../img/model111.PNG" height="300px">
   </div>
 </div>
  
