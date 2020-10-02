@@ -27,7 +27,7 @@ css: "../css/custom.css"
 <body>
  
 <div id="accordion">
-  <h3>AI Enabled Wireless Communication System</h3>
+  <h3 style="background-color: #129dbf;">AI Enabled Wireless Communication System</h3>
   <div>
     <p>
     <img align="right" src="../img/unerconst.jpg" height="300px">
