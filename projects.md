@@ -18,7 +18,7 @@ css: "../css/custom.css"
 
 
 <details open>
-<summary>Soft Output Sphere Decoding Reciever for MIMO System</summary>
+<summary><h2>Soft Output Sphere Decoding Reciever for MIMO System</summary>
 <!--All you need is a blank line-->
 <img align="center" src="../img/model111.PNG" height="300px">
 </details>
