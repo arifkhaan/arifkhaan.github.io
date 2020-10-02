@@ -5,7 +5,7 @@ subtitle: ''
 head-title: ""
 css: "../css/custom.css"
 ---
-<img align="center" src="../img/model111.PNG" height="300px">
+
 <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">
