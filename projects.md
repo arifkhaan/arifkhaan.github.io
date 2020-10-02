@@ -18,7 +18,9 @@ css: "../css/custom.css"
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
   <script>
   $( function() {
-    $( "#accordion" ).accordion();
+    $( "#accordion" ).accordion({
+    collapsible: true
+    });
   } );
   </script>
 </head>
