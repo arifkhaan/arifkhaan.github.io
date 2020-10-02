@@ -27,20 +27,21 @@ css: "../css/custom.css"
 <body>
  
 <div id="accordion">
-  <h3 style="background-color: #129dbf;">AI Enabled Wireless Communication System</h3>
+  <h3 style="background-color: #8F1515;">AI Enabled Wireless Communication System</h3>
   <div>
     <p>
     <img align="right" src="../img/unerconst.jpg" height="300px">
+      Will be updated soon
     </p>
   </div>
-  <h3>Millimeter Wave (mmWave) Communication</h3>
+  <h3 style="background-color: #8F1515;">Millimeter Wave (mmWave) Communication</h3>
   <div>
     <p>
       <img align="right" src="../img/unerconst.jpg" height="300px">
     Will ve updated soon
     </p>
   </div>
-  <h3>Heterogeneous Cellular Networks (HCNets)</h3>
+  <h3 style="background-color: #8F1515;">Heterogeneous Cellular Networks (HCNets)</h3>
   <div>
     <p>
       <img align="right" src="../img/unerconst.jpg" height="300px">
@@ -52,7 +53,7 @@ css: "../css/custom.css"
       <li>List item three</li>
     </ul>
   </div>
-  <h3>Soft Output Sphere Decoding for MIMO OFDM System</h3>
+  <h3 style="background-color: #8F1515;">Soft Output Sphere Decoding for MIMO OFDM System</h3>
   <div>
     <p>
       <img align="right" src="../img/model111.PNG" height="300px">
