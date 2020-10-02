@@ -52,4 +52,35 @@ css: "../css/custom.css"
   </div>
 </div>
 
+<template>
+  <Collapsible class="example-collapsible">
+    <div slot="trigger">
+      <div class="customTrigger">
+        <h2>Custom open trigger element</h2>
+      </div>
+    </div>
 
+    <div slot="closedTrigger">
+      <div class="customTrigger">
+        <h2>Custom closed trigger element</h2>
+      </div>
+    </div>
+
+    <div id="example2">
+      <p>
+        Lorem ipsum dolor sit ...
+      </p>
+    </div>
+  </Collapsible>
+</template>
+
+<script>
+  import 'vue-collapsible-component/lib/vue-collapsible.css';
+  import Collapsible from 'vue-collapsible-component';
+
+  export default {
+    components: {
+      Collapsible,
+    },
+  };
+</script>
