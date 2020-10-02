@@ -13,20 +13,19 @@ css: "../css/custom.css"
 
 #### 4. Soft Output Sphere Decoding Reciever for MIMO System
 <img align="center" src="../img/model111.PNG" height="300px">
-
 <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">
       <h2 class="mb-0">
         <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-          Collapsible Group Item #1
+          AI Enabled Wireless Systen
         </button>
       </h2>
     </div>
 
-    <div id="AI Enabled Wireless Systems" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div class="card-body">
-        will be updated soon
+        <img align="center" src="../img/model111.PNG" height="300px">
       </div>
     </div>
   </div>
@@ -59,36 +58,5 @@ css: "../css/custom.css"
     </div>
   </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
