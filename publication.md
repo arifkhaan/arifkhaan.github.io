@@ -8,14 +8,17 @@ css: "../css/custom.css"
 
 
 
-### Articles under review
+### Submitted Articles
+
+<img src="../img/conference-paper.png" height="20px">
+Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Analysis of millimeter wave cellular networks, to be submitted to WCNC
 
 <img src="../img/journal-article.png" height="20px">
-Likelihood Ascent Search Aided Sphere Decoding Reciever for M-QAM based MIMO System (Under Review in IET Communications)
+Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Alam Zeb, Irfanullah, Shahid Khattak, Likelihood Ascent Search Aided Sphere Decoding Reciever for M-QAM based MIMO System (Under Review in IET Communications)
 
 ----
 
-### Published articles
+### Published Articles
 
 #### 2020
 
