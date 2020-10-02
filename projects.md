@@ -74,13 +74,4 @@ css: "../css/custom.css"
   </Collapsible>
 </template>
 
-<script>
-  import 'vue-collapsible-component/lib/vue-collapsible.css';
-  import Collapsible from 'vue-collapsible-component';
 
-  export default {
-    components: {
-      Collapsible,
-    },
-  };
-</script>
