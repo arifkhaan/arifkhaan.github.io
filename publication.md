@@ -8,7 +8,7 @@ css: "../css/custom.css"
 
 
 
-### Submitted Articles
+### Submitted/Accepted Articles
 
 <img src="../img/conference-paper.png" height="20px">
 Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Analysis of millimeter wave cellular networks, to be submitted to WCNC
