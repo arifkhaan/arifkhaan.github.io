@@ -47,9 +47,9 @@ avatar: "/img/arif111.jpeg"
 
 # --- Background colour/image options --- #
 
-# Personalize the colors in your website. Colour values can be any valid CSS colour
+# Personalize the colors in your website. Colour values can be any valid CSS colour "#8F1515"
 
-navbar-col: "#8F1515"
+navbar-col: "#1e2f41" 
 navbar-text-col: "#FFFFFF"
 navbar-children-col: "#8F1515"
 page-col: "#FFFFFF"
