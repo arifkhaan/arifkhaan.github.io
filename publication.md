@@ -10,6 +10,9 @@ css: "../css/custom.css"
 
 ### Submitted/Accepted Articles
 
+<img src="../img/journal-article.png" height="20px">
+Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas and Shanshan Tu, Analysis of millimeter-wave cellular networks, to be submitted to IEEE Transactions on Wireless Communications.  
+
 <img src="../img/conference-paper.png" height="20px">
 Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas and Shanshan Tu, Analysis of millimeter wave cellular networks, Submitted to WCNC, China.
 
