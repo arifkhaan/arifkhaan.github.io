@@ -51,11 +51,11 @@ Engineer Trainee (2013 - 2014): Egyptian-Pakistani Telecommunication Company Lim
 
 ### Awards and Membersips
 
-Scholorships:
+**Scholorships:**
 - Prime Minister Full Fee Reimbursement Scheme during MS study
 - Full Scholorship/[Graduate Assistantship Scheme (GA-4)](https://www.giki.edu.pk/Admissions/Graduate/AidAndScholarships) during PhD 
 
-Membership:
+**Membership:**
 - Life time Member of Pakistan Engineering Council (PEC), Reg#: Electro/16479.
 - Graduate Student Member, Institute od Electrical and Electronics Engineers (IEEE), Membership number: 95038221.
 .
