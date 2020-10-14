@@ -14,10 +14,10 @@ css: "../css/custom.css"
 **Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas and Shanshan Tu, Analysis of millimeter-wave cellular networks, to be submitted to IEEE Transactions on Wireless Communications.  
 
 <img src="../img/conference-paper.png" height="20px">
-Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas and Shanshan Tu, Analysis of millimeter wave cellular networks, Submitted to WCNC, China.
+**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas and Shanshan Tu, Analysis of millimeter wave cellular networks, Submitted to WCNC, China.
 
 <img src="../img/journal-article.png" height="20px">
-Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Alam Zeb, Irfanullah, Shahid Khattak, Likelihood Ascent Search Aided Sphere Decoding Reciever for M-QAM based MIMO System (Under Review in IET Communications)
+**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Alam Zeb, Irfanullah, Shahid Khattak, Likelihood Ascent Search Aided Sphere Decoding Reciever for M-QAM based MIMO System (Under Review in IET Communications)
 
 ----
 
@@ -26,27 +26,27 @@ Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Alam Zeb, Irfanullah, Shahid Khatta
 #### 2020
 
 <img src="../img/journal-article.png" height="20px">
-Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Sungwan Kim, Uplink Performance Analysis of User- Centric
+**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Sungwan Kim, Uplink Performance Analysis of User- Centric
 Small Cell Aided Dense HCNets With Uplink-Downlink Decoupling, <em> in IEEE Access,</em> vol. 8, pp. 148460-148474, 2020.  [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/document/9164920) [[IEEE&#8594;]](https://ieeexplore.ieee.org/document/9164920) 
 
 <img src="../img/journal-article.png" height="20px">
-Ziaul Haq Abbas, Arif Ullah, Ghulam Abbas, Fazal Muhammad, Frank Yong Li, Outage Probability Analysis of User-Centric SBS based HCNets under Hybrid Rician/Rayleigh Fading, <em>IEEE Commun. Letters,</em> vol. 24, no. 2, pp. 297-301, 2020. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/document/8932550) [[IEEE&#8594;]](https://ieeexplore.ieee.org/document/8932550)
+Ziaul Haq Abbas, **Arif Ullah**, Ghulam Abbas, Fazal Muhammad, Frank Yong Li, Outage Probability Analysis of User-Centric SBS based HCNets under Hybrid Rician/Rayleigh Fading, <em>IEEE Commun. Letters,</em> vol. 24, no. 2, pp. 297-301, 2020. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/document/8932550) [[IEEE&#8594;]](https://ieeexplore.ieee.org/document/8932550)
 
 <img src="../img/journal-article.png" height="20px">
-Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Lei Jiao, Performance Analysis of User-Centric SBS Deployment with Load Balancing in Heterogeneous Cellular Networks: A Thomas Cluster Process Approach, <em>Computer Networks,</em> vol. 170, 2020. [[PDF Preprint&#8594;]](https://www.sciencedirect.com/science/article/abs/pii/S1389128619308874) [[Elsveir&#8594;]](https://www.sciencedirect.com/science/article/abs/pii/S1389128619308874)
+**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Lei Jiao, Performance Analysis of User-Centric SBS Deployment with Load Balancing in Heterogeneous Cellular Networks: A Thomas Cluster Process Approach, <em>Computer Networks,</em> vol. 170, 2020. [[PDF Preprint&#8594;]](https://www.sciencedirect.com/science/article/abs/pii/S1389128619308874) [[Elsveir&#8594;]](https://www.sciencedirect.com/science/article/abs/pii/S1389128619308874)
 
 <img src="../img/journal-article.png" height="20px">
-Arif Ullah, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Lei Jiao, Capacity driven small cell deployment in heterogeneous cellular networks: Outage probability and rate coverage analysis, <em>Trans. on Emer. Telecommun. Techno.,</em> e3876, 2020. [[PDF Preprint&#8594;]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876) [[Springer&#8594;]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876)
+**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Lei Jiao, Capacity driven small cell deployment in heterogeneous cellular networks: Outage probability and rate coverage analysis, <em>Trans. on Emer. Telecommun. Techno.,</em> e3876, 2020. [[PDF Preprint&#8594;]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876) [[Springer&#8594;]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876)
 
 ----
 
 #### 2019
 
 <img src="../img/journal-article.png" height="20px">
-Hammad Ahmed, Muhammad Mahmood Ali, Arif Ullah, Arbab Abdur Rahim, Husnul Maab, Mahmood Khan, Ultra Thin Beam Splitter Design using a-Si:H based on Phase Gradient Metasurfaces, <em>Jour. of Nanoelec. and Optoelec.,</em> vol. 14, no. 9, pp. 1339-1343(5), 2019. [[PDF Preprint&#8594;]](https://www.ingentaconnect.com/content/asp/jno/2019/00000014/00000009/art00016) [[JNO&#8594;]](https://www.ingentaconnect.com/content/asp/jno/2019/00000014/00000009/art00016)
+Hammad Ahmed, Muhammad Mahmood Ali, **Arif Ullah**, Arbab Abdur Rahim, Husnul Maab, Mahmood Khan, Ultra Thin Beam Splitter Design using a-Si:H based on Phase Gradient Metasurfaces, <em>Jour. of Nanoelec. and Optoelec.,</em> vol. 14, no. 9, pp. 1339-1343(5), 2019. [[PDF Preprint&#8594;]](https://www.ingentaconnect.com/content/asp/jno/2019/00000014/00000009/art00016) [[JNO&#8594;]](https://www.ingentaconnect.com/content/asp/jno/2019/00000014/00000009/art00016)
 
 <img src="../img/conference-paper.png" height="20px">
-Arif Ullah, Ziaul Haq Abbas, Ghulam Abbas, Fazal Muhammad, Analysis of Outage Probability and Rate Coverage in Heterogeneous Cellular Network with Joint Uniform and Clustered Users, <em>22nd International Multitopic Conference (INMIC),</em> Islamabad, 2019. [[IEEE Explore&#8594;]](https://ieeexplore.ieee.org/abstract/document/9022767) 
+**Arif Ullah**, Ziaul Haq Abbas, Ghulam Abbas, Fazal Muhammad, Analysis of Outage Probability and Rate Coverage in Heterogeneous Cellular Network with Joint Uniform and Clustered Users, <em>22nd International Multitopic Conference (INMIC),</em> Islamabad, 2019. [[IEEE Explore&#8594;]](https://ieeexplore.ieee.org/abstract/document/9022767) 
 
 
 <img src="../img/workshop-paper.png" height="20px">
