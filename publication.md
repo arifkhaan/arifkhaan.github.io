@@ -17,6 +17,9 @@ css: "../css/custom.css"
 **Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas and Shanshan Tu, Analysis of millimeter wave cellular networks, Submitted to WCNC, China.
 
 <img src="../img/journal-article.png" height="20px">
+Fazal Muhammad, Samar Khan, M.Ss Haroon, **Arif Ullah** and Nasim Ullah, Interference Mitigation in Intentional Jammers Aided Non-uniform Heterogeneous Cellular Networks, submitted to ELsvier Computer Communications.
+
+<img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Alam Zeb, Irfanullah, Shahid Khattak, Likelihood Ascent Search Aided Sphere Decoding Reciever for M-QAM based MIMO System **(Accepted in IET Communications)**
 
 ----
