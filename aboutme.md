@@ -62,7 +62,7 @@ Engineer Trainee (2013 - 2014): Egyptian-Pakistani Telecommunication Company Lim
 
 ----
 ### Detail CV:
-[<img src="../img/cvicon.jpg" height="65px">](https://arifkhaan.github.io/books/arifcv.pdf)
+[<img src="../img/cvicon.jpg" height="65px">](https://arifkhaan.github.io/books/updated-cv.pdf)
 
 
 <a href="https://info.flagcounter.com/YLXy"><img src="https://s11.flagcounter.com/count/YLXy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
