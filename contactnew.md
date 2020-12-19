@@ -12,6 +12,8 @@ css: "../css/custom.css"
 <p>You can visit me in office hours at</p>
 <p>F-09 Telecommunication and Networking (TeleCoN Lab), Faculty of Electrical Engineering, Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi-23640, Swabi, KPK, Pakistan.</p>
 <hr>
+[<img src="../img/researchgate.png" height="65px">](https://www.researchgate.net/profile/Arif_Ullah_Khan3)
+
 <p>If you want to get in touch. You can also send me a quick message using the form below:</p>
   
 <form method="post" action="">
