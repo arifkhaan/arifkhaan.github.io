@@ -17,27 +17,11 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
  
  ----
 
-### Education
-<p class="about-text">
-<span class="fa fa-graduation-cap about-icon"></span>
-I am currently PhD Student in Electronics Engineering at TeleCon Lab, Faculty of Electrical and Computer Engineering, Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Pakistan from fall 2017 till date.</p> 
- 
- 
-<p class="about-text">
-<span class="fa fa-graduation-cap about-icon"></span>
- I did Master of Science (MS) in Electrical Engineering with major in Wireless communication & signal processing from COMSATS Institute of Information technology Abbottabad, Pakistan in 2016.</p>
-
- 
-<p class="about-text">
-<span class="fa fa-graduation-cap about-icon"></span> 
-I did Bachelor of Science (BS) in Electronics Engineering from Balochistan University of Information technology, Engineering & Management Sciences Quetta, Pakistan in 2012.</p>
-      
-----
-
 ### Curriculum Vitae
 The PDF version of my CV can be found here.
 [<img src="../img/cvicon.jpg" height="65px">](https://arifkhaan.github.io/books/updated-cv.pdf)
 
+ ----
 ### News and Updates
 
 
