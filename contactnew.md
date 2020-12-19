@@ -14,6 +14,8 @@ css: "../css/custom.css"
 <hr>
 [<img src="../img/researchgate.png" height="65px">](https://www.researchgate.net/profile/Arif_Ullah_Khan3)
 [<img src="../img/linkedin.png" height="60px">](https://www.linkedin.com/in/arifullah012/)
+[<img src="../img/twitter.png" height="65px">](https://twitter.com/Arif_Mandnrkhel)
+[<img src="../img/fb.png" height="65px">](https://www.facebook.com/arifkhan014/)
 
 <p>If you want to get in touch. You can also send me a quick message using the form below:</p>
   
