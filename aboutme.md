@@ -34,35 +34,13 @@ I did Bachelor of Science (BS) in Electronics Engineering from Balochistan Unive
       
 ----
 
-### Employment History
-
-<p class="about-text">
-<span class="fa fa-briefcase about-icon"></span>
-Graduate Assistant/Lab Instructor (2017 - 2020): I have Assisted as a Teaching Assistant (TA) in Linear Circuit Analysis (EE-211) course (Fall
-2017), as an instructor in Electronics Devices and Circuit Lab (EE-231L) (Spring 2018 and Spring 2019), as an instructor in Signal and System Lab (EE-351L) (Fall 2018 and Fall 2019) and as an instructor in communication system lab (Sprin 2020) at Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Topi, Pakistan.</p>
-<p class="about-text">
-<span class="fa fa-briefcase about-icon"></span>
-Lecturer (2015 - 2016): COMWAVE Institute of Information Technology, Abbotabad, Pakistan.</p>
-<p class="about-text">
-<span class="fa fa-briefcase about-icon"></span>
-Engineer Trainee (2013 - 2014): Egyptian-Pakistani Telecommunication Company Limited.</p>
-
-----
-
-### Awards and Membersips
-
-**Scholorships:**
-- Prime Minister Full Fee Reimbursement Scheme during MS study
-- Full Scholorship/[Graduate Assistantship Scheme (GA-4)](https://www.giki.edu.pk/Admissions/Graduate/AidAndScholarships) during PhD 
-
-**Membership:**
-- Life time Member of Pakistan Engineering Council (PEC), Reg#: Electro/16479.
-- Graduate Student Member, Institute od Electrical and Electronics Engineers (IEEE), Membership number: 95038221.
-.
-
-----
-### Detail CV:
+### Curriculum Vitae
+The PDF version of my CV can be found here.
 [<img src="../img/cvicon.jpg" height="65px">](https://arifkhaan.github.io/books/updated-cv.pdf)
 
+### News and Updates
 
+
+
+----
 <a href="https://info.flagcounter.com/YLXy"><img src="https://s11.flagcounter.com/count/YLXy/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
