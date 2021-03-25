@@ -27,11 +27,11 @@ Fazal Muhammad, Samar Khan, M.Ss Haroon, **Arif Ullah** and Nasim Ullah, Interfe
 #### 2020
 
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Alam Zeb, Irfanullah, Shahid Khattak, ``Likelihood Ascent Search Aided Sphere Decoding Reciever for M-QAM based MIMO System", in IET Communications, vol. 14(22), pp. 4152-4158, December 2020. [[PDF Preprint&#8594;]](https://digital-library.theiet.org/content/journals/10.1049/iet-com.2019.1316) [[IEEE&#8594;]](https://ieeexplore.ieee.org/document/9164920) 
+**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Alam Zeb, Irfanullah, Shahid Khattak, ``Likelihood Ascent Search Aided Sphere Decoding Reciever for M-QAM based MIMO System", in IET Communications, vol. 14(22), pp. 4152-4158, December 2020. [[PDF Preprint&#8594;]](https://digital-library.theiet.org/content/journals/10.1049/iet-com.2019.1316) [[IET&#8594;]](https://ieeexplore.ieee.org/document/9164920) 
 
 <img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, Sungwan Kim, Uplink Performance Analysis of User- Centric
-Small Cell Aided Dense HCNets With Uplink-Downlink Decoupling, <em> in IEEE Access,</em> vol. 8, pp. 148460-148474, 2020.  [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/document/9164920) [[IET&#8594;]](https://digital-library.theiet.org/content/journals/10.1049/iet-com.2019.1316) 
+Small Cell Aided Dense HCNets With Uplink-Downlink Decoupling, <em> in IEEE Access,</em> vol. 8, pp. 148460-148474, 2020.  [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/document/9164920) [[IEEE&#8594;]](https://digital-library.theiet.org/content/journals/10.1049/iet-com.2019.1316) 
 
 <img src="../img/journal-article.png" height="20px">
 Ziaul Haq Abbas, **Arif Ullah**, Ghulam Abbas, Fazal Muhammad, Frank Yong Li, Outage Probability Analysis of User-Centric SBS based HCNets under Hybrid Rician/Rayleigh Fading, <em>IEEE Commun. Letters,</em> vol. 24, no. 2, pp. 297-301, 2020. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/document/8932550) [[IEEE&#8594;]](https://ieeexplore.ieee.org/document/8932550)
