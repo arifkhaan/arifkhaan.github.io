@@ -25,6 +25,6 @@ Writting good research paper
 - How to Write Good Technical Papers by George M. Whitesides [[Link](https://intra.ece.ucr.edu/~rlake/Whitesides_writing_res_paper.pdf)]
 - How to Write Good Technical Papers by Henning Schulzrinne [[Link](http://www.cs.columbia.edu/~hgs/etc/writing-style.html)]
 Research startup
-- [PhD Advice](http://www.eecs.harvard.edu/htk/phdadvice/)
-- [A Personal Note on How to Start Research in Computer Networks: (Seven Steps on road to success)](https://www.cise.ufl.edu/~helmy/cis6930/research-start.html)
+- PhD Advice [[Link]](http://www.eecs.harvard.edu/htk/phdadvice/)
+- A Personal Note on How to Start Research in Computer Networks: (Seven Steps on road to success) [[Link]](https://www.cise.ufl.edu/~helmy/cis6930/research-start.html)
 ----
