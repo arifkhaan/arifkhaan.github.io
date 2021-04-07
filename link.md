@@ -17,7 +17,7 @@ Reading/Writting good research paper
 Research startup
 - PhD Advice [[Link]](http://www.eecs.harvard.edu/htk/phdadvice/)
 - A Personal Note on How to Start Research in Computer Networks: (Seven Steps on road to success) [[Link]](https://www.cise.ufl.edu/~helmy/cis6930/research-start.html)
-- 
+
 ### General
 - [CoreLab KoC University, Turkey](https://corelab.ku.edu.tr/tools/)
 - [Machine Learning Reseach Library](https://mlc.committees.comsoc.org/research-library/)
