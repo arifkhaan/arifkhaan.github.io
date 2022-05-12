@@ -9,13 +9,12 @@ css: "../css/custom.css"
 
 
 ### Submitted/Accepted Articles
+<img src="../img/journal-article.png" height="20px">
+**Arif Ullah**, and Wooyeol Choi, Massive MIMO Assisted Aerial-Terrestrial Network: How Many UAVs Need to Be Deployed?, _Submitted to Trrsaction on WIreless Communication_, 2022.  
 
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas and Jae-Mo Kang, Analysis of millimeter-wave cellular networks, _Submitted to IEEE digital
+**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas and Jae-Mo Kang, Analysis of millimeter-wave cellular networks, _Accepted in digital
 communication and networks_, 2021.  
-
-<img src="../img/journal-article.png" height="20px">
-Fazal Muhammad, Samar Khan, M.Ss Haroon, **Arif Ullah** and Nasim Ullah, Interference Mitigation in Intentional Jammers Aided Non-uniform Heterogeneous Cellular Networks, _submitted to ELsvier Computer Communications_, 2021.
 
 ----
 
