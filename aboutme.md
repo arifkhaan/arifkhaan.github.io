@@ -2,7 +2,7 @@
 layout: page
 title: Arif Ullah Khan
 subtitle: 'PhD. Fellow, GIKI'
-head-title: "Arif Ullah Khan - PhD Fellow, GIKI"
+head-title: "Arif Ullah (Khan) - PhD Fellow, GIKI"
 css: "../css/custom.css"
 ---
 
