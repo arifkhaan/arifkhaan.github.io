@@ -7,7 +7,7 @@ css: "../css/custom.css"
 ---
 
 <p>Have a question, an exciting new idea or need to discuss matters? I'm always looking forward to friendly communication. You can find all the necessary details in order to make contact below.</p>
-<p>You can email me on <img src="../img/email.png" height="40px"> <a href="mailto:arifullah@giki.edu.pk">arifullah@giki.edu.pk</a> or <img src="../img/gmail.png" height="40px"><a href="mailto:arifkhaan.ciit@gmail.com">arifkhaan.ciit@gmail.com</a></p>
+<p>You can email me on <img src="../img/email.png" height="40px"> <a href="mailto:arifullah@chosun.ac.kr">arifullah@giki.edu.pk</a> or <img src="../img/gmail.png" height="40px"><a href="mailto:arifkhaan.ciit@gmail.com">arifkhaan.ciit@gmail.com</a></p>
 <hr>
 <p>You can visit me in office hours at</p>
 <p>F-09 Telecommunication and Networking (TeleCoN Lab), Faculty of Electrical Engineering, Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi-23640, Swabi, KPK, Pakistan.</p>
