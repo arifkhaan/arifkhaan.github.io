@@ -10,11 +10,10 @@ css: "../css/custom.css"
 
 ### Submitted/Accepted Articles
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, and Wooyeol Choi, Massive MIMO Assisted Aerial-Terrestrial Network: How Many UAVs Need to Be Deployed?, _Submitted to Trrsaction on WIreless Communication_, 2022.  
+**Arif Ullah**, and Wooyeol Choi, Massive MIMO Assisted Aerial-Terrestrial Network: How Many UAVs Need to Be Deployed?, _Submitted to IEEE Transaction on Wireless Communications_, 2022.  
 
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas and Jae-Mo Kang, Analysis of millimeter-wave cellular networks, _Accepted in digital
-communication and networks_, 2021.  
+**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas and Jae-Mo Kang, Analysis of millimeter-wave cellular networks, _Accepted in Digital Communications and Networks_, 2021.  
 
 ----
 
