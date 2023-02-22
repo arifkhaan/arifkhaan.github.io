@@ -10,14 +10,18 @@ css: "../css/custom.css"
 
 ### Submitted/Accepted Articles
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, and Wooyeol Choi, Massive MIMO Assisted Aerial-Terrestrial Network: How Many UAVs Need to Be Deployed?, _Submitted to IEEE Transaction on Wireless Communications_, 2022.  
+**Arif Ullah**, Wooyeol Choi, Yusuf Sambo, and Muhammad Ali Imran, Soft-Output Deep-LAS Detection for Coded MIMO System: A Learning-Aided LLR Approximation, _Submitted for peer review, 2022.  
 
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas and Jae-Mo Kang, Analysis of millimeter-wave cellular networks, _Accepted in Digital Communications and Networks_, 2021.  
+**Arif Ullah**, and Wooyeol Choi, Massive MIMO Assisted Aerial-Terrestrial Network: How Many UAVs Need to Be Deployed?, _Submitted for review_, 2022. 
 
 ----
 
 ### Published Articles
+
+#### 2021
+<img src="../img/journal-article.png" height="20px">
+**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas and Jae-Mo Kang, Analysis of millimeter-wave cellular networks, _Accepted in Digital Communications and Networks_, 2021.  
 
 #### 2020
 
