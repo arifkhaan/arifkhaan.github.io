@@ -28,7 +28,7 @@ Fawad, Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``Machine Learning Fram
 
 #### 2023
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Wooyeol Choi, Ziaul Haq Abbass, and Ghulam Abbas, ``Aerial-Terrestrial Networks with Multi-antenna Transmission: How Many UAVs Need to Be Deployed?," _IEEE Transactions on Vehicular Technology_, pp. 1-15, early access Sep. 2023. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/abstract/document/10254357) [[TV&#8594;]](https://ieeexplore.ieee.org/abstract/document/10254357)
+**Arif Ullah**, Wooyeol Choi, Ziaul Haq Abbass, and Ghulam Abbas, ``Aerial-Terrestrial Networks with Multi-antenna Transmission: How Many UAVs Need to Be Deployed?," _IEEE Transactions on Vehicular Technology_, pp. 1-15, early access Sep. 2023. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/abstract/document/10254357) [[TVT&#8594;]](https://ieeexplore.ieee.org/abstract/document/10254357)
 
 <img src="../img/conference-paper.png" height="20px">
 Fawad, **Arif Ullah**, Iftikhar Ahmad, Wooyeol Choi, ``RS-DeepNet: A Machine Learning Aided RSSI Fingerprinting for Precise Indoor Localization," <em>In 2nd International Conference on Maritime IT Convergence (ICMIC),</em> Jeju Island, South Korea, 2019. (**Outstanding paper award**)
