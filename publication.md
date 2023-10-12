@@ -12,14 +12,16 @@ css: "../css/custom.css"
 <img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Wooyeol Choi, Yusuf Sambo, and Muhammad Ali Imran, Soft-Output Deep-LAS Detection for Coded MIMO System: A Learning-Aided LLR Approximation, _Submitted for peer review, 2022.  
 
-<img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, and Wooyeol Choi, Massive MIMO Assisted Aerial-Terrestrial Network: How Many UAVs Need to Be Deployed?, _Submitted for review_, 2022. 
-
 ----
 
 ### Published Articles
 
-#### 2021
+#### 2023
+<img src="../img/journal-article.png" height="20px">
+**Arif Ullah**, and Wooyeol Choi, Aerial-Terrestrial Networks with Multi-antenna Transmission: How Many UAVs Need to Be Deployed?, _IEEE Transactions on Vehicular Technology_, pp. 1-15, early access Sep. 2023. 
+
+
+#### 2021-2022
 <img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas and Jae-Mo Kang, Analysis of millimeter-wave cellular networks, _Accepted in Digital Communications and Networks_, 2021.  [[PDF Preprint&#8594;]](https://reader.elsevier.com/reader/sd/pii/S2352864822002310?token=950D2900EB6B02778A8591ACB777ABB98A5F3055EA1E90A2208DCF4C99D6B18EF216C0A5818FA918E6089CE58985A341&originRegion=us-east-1&originCreation=20230222085942) [[DCN&#8594;]]([[[https://ieeexplore.ieee.org/document/9164920](https://www.sciencedirect.com/science/article/pii/S2352864822002310)](https://www.sciencedirect.com/science/article/pii/S2352864822002310)](https://www.sciencedirect.com/science/article/pii/S2352864822002310))
 
