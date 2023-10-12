@@ -7,7 +7,7 @@ css: "../css/custom.css"
 ---
 
 
-My interest include 5G and beyond 5G networks, especially focsing on
+My interest include 5G and beyond 5G networks, especially focusing on
 - Performance analysis of cellular networks ussing Stochastic geometery toolss
 - Energy efficient resource allocation in heterogeneous cellular networks, 
 - Full duplex MIMO, massive MIMO. 
