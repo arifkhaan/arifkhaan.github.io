@@ -7,7 +7,7 @@ css: "../css/custom.css"
 css: "../css/hovereffect.css"
 ---
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-2">
         <div class="hovereffect">
             <div class="thumbnail">
                 <img class="img-responsive" src="/img/arif-new2.jpg">
@@ -21,7 +21,7 @@ css: "../css/hovereffect.css"
             </div>
         </div>
     </div>
-  <div class="col-md-4">
+  <div class="col-md-2">
       <div class="hovereffect">
           <div class="thumbnail">
               <img class="img-responsive" src="/img/arifnnew.jpg">
