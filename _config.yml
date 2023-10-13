@@ -26,11 +26,11 @@ navbar-links:
   About Me: "aboutme"
   Research: 
   - Research Interest: "researchinterest"
-  - Publications: "publication"
-  - Project Page: "projects"
+  - Representative Research: "projects"
 #  - Orcid: "https://orcid.org/0000-0002-0555-6644"
 #  - Researchgate: "https://www.researchgate.net/profile/Arif_Ullah_Khan3"
 #  - Linkedin: "https://www.linkedin.com/in/arifullah012/"
+  Publications: "publication"
   Resources:
     - Gallery: "gallery"
     - Links: "link"
