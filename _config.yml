@@ -23,7 +23,7 @@ description: webpage
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Home: "aboutme"
   Research: 
   - Research Interest: "researchinterest"
   - Representative Research: "projects"
