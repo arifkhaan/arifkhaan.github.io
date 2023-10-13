@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Representative Research
 subtitle: ''
 head-title: ""
 css: "../css/custom.css"
