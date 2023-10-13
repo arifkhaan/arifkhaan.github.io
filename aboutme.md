@@ -57,32 +57,24 @@ Last updated on: Jun 10, 2023
 
 ----
 <div class="row">
-    <div class="col-md-2">
+    <div class="col-md-1">
         <div class="hovereffect">
-            <div class="thumbnail">
                 <img class="img-responsive" src="/img/Chosun_logo.png">
-            </div>
         </div>
     </div>
-  <div class="col-md-2">
+  <div class="col-md-1">
       <div class="hovereffect">
-          <div class="thumbnail">
               <img class="img-responsive" src="/img/Giki_logo.png">
-          </div>
       </div>
   </div>
-   <div class="col-md-2">
+   <div class="col-md-1">
       <div class="hovereffect">
-          <div class="thumbnail">
               <img class="img-responsive" src="/img/COMSATS_logo.jpeg">
-          </div>
       </div>
   </div>
-   <div class="col-md-2">
+   <div class="col-md-1">
       <div class="hovereffect">
-          <div class="thumbnail">
               <img class="img-responsive" src="/img/BUITEMS_logo.png">
-          </div>
       </div>
   </div>
 </div>
