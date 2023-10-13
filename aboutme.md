@@ -5,18 +5,23 @@ subtitle: 'Ph.D. (Elect. & Com. Engg.), MIEEE'
 head-title: "Arif Ullah (Khan) - PhD Fellow, GIKI"
 css: "../css/custom.css"
 ---
-<div class="container">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-1 col-md-10 col-md-offset-1">
-      {{ Assistant Professor, 
-Department of Computer Engineering, College og IT Covegence,
-Chosun University
-IT Building 146 Chosundae-gil, Seoseok-dong, Dong-gu, Gwangju, South Korea
-Email: arifullah[at]chosun[dot]ac[dot]kr
-Tel: (000)1111-2222 }}
-    </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</head>
+<body>
+  
+  <div class="col-md-12">
+    <div class="col-md-2">Assistant Professor, Department of Computer Engineering, College og IT Covegence, Chosun University IT Building 146 Chosundae-gil, Seoseok-dong, Dong-gu, Gwangju, South Korea Email: arifullah[at]chosun[dot]ac[dot]kr Tel: (000)1111-2222</div>
+    <div class="col-md-2 col-md-offset-2"> col-md-2 with offset 2</div>
   </div>
-</div>
+</body>
+</html>
 
 ### Hi, I'm Arif!! 👋
 
