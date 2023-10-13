@@ -36,9 +36,13 @@ Fawad, **Arif Ullah**, Iftikhar Ahmad, Wooyeol Choi, ``RS-DeepNet: A Machine Lea
 <img src="../img/journal-article.png" height="20px">
 Li Bin, Muhammad Shahzad, Hira Khan, Muhammad Mehran Bashir, **Arif Ullah**, and Muhammad Siddique, ``Sustainable Smart Agriculture Farming for Cotton Crop: A Fuzzy Logic Rule Based Methodology," _MDPI Sustainability_, vol. 15(18), pp. 13874, 2023. [[PDF Preprint&#8594;]](https://www.mdpi.com/2071-1050/15/18/13874) [[MDPI&#8594;]](https://www.mdpi.com/2071-1050/15/18/13874)
 
+----
+
 #### 2021-2022
 <img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas and Jae-Mo Kang, ``Hybrid Millimeter Wave Heterogeneous Network with Spatially Correlated User Equipments," _Digital Communications and Networks_, 2021_ (in press).  [[PDF Preprint&#8594;]](https://reader.elsevier.com/reader/sd/pii/S2352864822002310?token=950D2900EB6B02778A8591ACB777ABB98A5F3055EA1E90A2208DCF4C99D6B18EF216C0A5818FA918E6089CE58985A341&originRegion=us-east-1&originCreation=20230222085942) [[DCN&#8594;]](https://www.sciencedirect.com/science/article/pii/S2352864822002310))
+
+----
 
 #### 2020
 
