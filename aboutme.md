@@ -6,10 +6,9 @@ head-title: "Arif Ullah (Khan) - PhD Fellow, GIKI"
 css: "../css/custom.css"
 ---
 Assistant Professor, 
-College og IT Covegence, Department of Computer Science
+Department of Computer Engineering, College og IT Covegence,
 Chosun University
-IT Building
-146 Chosundae-gil, Seoseok-dong, Dong-gu, Gwangju, South Korea
+IT Building 146 Chosundae-gil, Seoseok-dong, Dong-gu, Gwangju, South Korea
 Email: arifullah@chosun.ac.kr
 Tel: (000)1111-2222
 
