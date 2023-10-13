@@ -12,7 +12,7 @@ css: "../css/hovereffect.css"
         <img class="img-responsive" src="/img/arif-new2.jpg">
         <div class="overlay">
            <h2>Arif Img</h2>
-           <a class="info" href="https://eng.chosun.ac.kr/eng/index.do">zoom it</a>
+           <a class="info" href="[https://eng.chosun.ac.kr/eng/index.do](https://arifkhaan.github.io/img/arif-new2.jpg)">zoom it</a>
         </div>
     </div>
 </div>
