@@ -16,7 +16,10 @@ css: "../css/custom.css"
 <body>
     <div class="row">
         <div class="col-md-3"></div>
-        <div class="col-md-7">Assistant Professor, [Department of Computer Engineering, Chosun University](https://eng.chosun.ac.kr/eng/index.do),  146 Chosundae-gil, Seoseok-dong, Dong-gu, Gwangju, South Korea Email: arifullah[at]chosun[dot]ac[dot]kr Tel: (000)1111-2222</div>
+        <div class="col-md-7">
+          Assistant Professor, <a href="#" class="https://eng.chosun.ac.kr/eng/index.do">Department of Computer Engineering, Chosun University</a>,  146 Chosundae- 
+          gil, Seoseok-dong, Dong-gu, Gwangju, South Korea. Email: <a href="#" class="mailto: arifullag@chosun.ac.kr">arifullah[at]chosun[dot]ac[dot]kr</a>, Tel: (000) 1111-2222
+        </div>
   </div>
 </body>
 </html>
