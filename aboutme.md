@@ -28,6 +28,8 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 The PDF version of my CV can be found here.
 [<img src="../img/cvicon.jpg" height="65px">](https://arifkhaan.github.io/books/Arif-CV.pdf)
 
+Last updated on: Sep 10, 2022
+
  ----
 ### News and Updates
 
