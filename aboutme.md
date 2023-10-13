@@ -64,7 +64,7 @@ Last updated on: Jun 10, 2023
     </div>
   <div class="col-md-1">
       <div class="hovereffect">
-              <img class="img-responsive" src="/img/Giki_logo.png">
+              <img class="img-responsive" src="/img/GIKI_logo.png">
       </div>
   </div>
    <div class="col-md-1">
