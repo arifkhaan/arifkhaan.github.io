@@ -18,7 +18,7 @@ css: "../css/custom.css"
   <div class="container">
     <div class="row justify-content-md-center">
   <div class="row">
-    <div class="col col-lg-6">
+    <div class="col col-sm-5 offset-sm-3">
       Assistant Professor, Department of Computer Engineering, College og IT Covegence, Chosun University IT Building 146 Chosundae-gil, Seoseok-dong, Dong-gu, Gwangju, South Korea Email: arifullah[at]chosun[dot]ac[dot]kr Tel: (000)1111-2222</div>
   </div>
     </div>
