@@ -16,3 +16,12 @@ css: "../css/hovereffect.css"
         </div>
     </div>
 </div>
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+    <div class="hovereffect">
+        <img class="img-responsive" src="/img/arifnnew.jpg">
+        <div class="overlay">
+           <h2>Arif</h2>
+           <a class="info" href="https://arifkhaan.github.io/img/arifnnew.jpg">Zoom</a>
+        </div>
+    </div>
+</div>
