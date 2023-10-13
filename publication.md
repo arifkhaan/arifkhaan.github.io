@@ -31,7 +31,7 @@ Fawad, Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``Machine Learning Fram
 **Arif Ullah**, Wooyeol Choi, Ziaul Haq Abbass, and Ghulam Abbas, ``Aerial-Terrestrial Networks with Multi-antenna Transmission: How Many UAVs Need to Be Deployed?," _IEEE Transactions on Vehicular Technology_, pp. 1-15, early access Sep. 2023. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/abstract/document/10254357) [[TVT&#8594;]](https://ieeexplore.ieee.org/abstract/document/10254357)
 
 <img src="../img/conference-paper.png" height="20px">
-Fawad, **Arif Ullah**, Iftikhar Ahmad, Wooyeol Choi, ``RS-DeepNet: A Machine Learning Aided RSSI Fingerprinting for Precise Indoor Localization," <em>In 2nd International Conference on Maritime IT Convergence (ICMIC),</em> Jeju Island, South Korea, 2019. (**Outstanding paper award**)
+Fawad, **Arif Ullah**, Iftikhar Ahmad, Wooyeol Choi, ``RS-DeepNet: A Machine Learning Aided RSSI Fingerprinting for Precise Indoor Localization," <em>In 2nd International Conference on Maritime IT Convergence (ICMIC),</em> Jeju Island, South Korea, 2023. (**Outstanding paper award**)
 
 <img src="../img/journal-article.png" height="20px">
 Li Bin, Muhammad Shahzad, Hira Khan, Muhammad Mehran Bashir, **Arif Ullah**, and Muhammad Siddique, ``Sustainable Smart Agriculture Farming for Cotton Crop: A Fuzzy Logic Rule Based Methodology," _MDPI Sustainability_, vol. 15(18), pp. 13874, 2023. [[PDF Preprint&#8594;]](https://www.mdpi.com/2071-1050/15/18/13874) [[MDPI&#8594;]](https://www.mdpi.com/2071-1050/15/18/13874)
