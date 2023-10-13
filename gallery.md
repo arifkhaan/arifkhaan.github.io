@@ -11,8 +11,8 @@ css: "../css/hovereffect.css"
     <div class="hovereffect">
         <img class="img-responsive" src="/img/arif-new2.jpg">
         <div class="overlay">
-           <h2>Hover effect 4</h2>
-           <a class="info" href="#">link here</a>
+           <h2>Arif Img</h2>
+           <a class="info" href="#">zoom it</a>
         </div>
     </div>
 </div>
