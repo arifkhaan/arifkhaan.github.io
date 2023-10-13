@@ -9,7 +9,7 @@ Assistant Professor,
 Department of Computer Engineering, College og IT Covegence,
 Chosun University
 IT Building 146 Chosundae-gil, Seoseok-dong, Dong-gu, Gwangju, South Korea
-Email: arifullah@chosun.ac.kr
+Email: arifullah[at]chosun[dot]ac[dot]kr
 Tel: (000)1111-2222
 
 ### Hi, I'm Arif!! 👋
