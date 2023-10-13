@@ -8,8 +8,8 @@ css: "../css/hovereffect.css"
 ---
 <div class="row">
     <div class="col-md-4">
-        <div class="thumbnail">
-            <div class="hovereffect">
+        <div class="hovereffect">
+            <div class="thumbnail">
                 <img class="img-responsive" src="/img/arif-new2.jpg">
                 <div class="overlay">
                     <h2>Arif</h2>
@@ -22,8 +22,8 @@ css: "../css/hovereffect.css"
         </div>
     </div>
   <div class="col-md-4">
-      <div class="thumbnail">
-          <div class="hovereffect">
+      <div class="hovereffect">
+          <div class="thumbnail">
               <img class="img-responsive" src="/img/arifnnew.jpg">
               <div class="overlay">
                   <h2>Arif</h2>
