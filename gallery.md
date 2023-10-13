@@ -72,13 +72,8 @@ body {
     <img src="/img/arif-new2.jpg" style="width:100%">
     <img src="/img/arif-new2.jpg" style="width:100%">
     <img src="/img/arif-new2.jpg" style="width:100%">
-    <img src="/img/arif-new2.jpg" style="width:100%">
-    <img src="/img/arif-new2.jpg" style="width:100%">
-    <img src="/img/arif-new2.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="/img/arif-new2.jpg" style="width:100%">
-    <img src="/img/arif-new2.jpg" style="width:100%">
     <img src="/img/arif-new2.jpg" style="width:100%">
     <img src="/img/arif-new2.jpg" style="width:100%">
     <img src="/img/arif-new2.jpg" style="width:100%">
@@ -89,13 +84,8 @@ body {
     <img src="/img/arif-new2.jpg" style="width:100%">
     <img src="/img/arif-new2.jpg" style="width:100%">
     <img src="/img/arif-new2.jpg" style="width:100%">
-    <img src="/img/arif-new2.jpg" style="width:100%">
-    <img src="/img/arif-new2.jpg" style="width:100%">
-    <img src="/img/arif-new2.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="/img/arif-new2.jpg" style="width:100%">
-    <img src="/img/arif-new2.jpg" style="width:100%">
     <img src="/img/arif-new2.jpg" style="width:100%">
     <img src="/img/arif-new2.jpg" style="width:100%">
     <img src="/img/arif-new2.jpg" style="width:100%">
