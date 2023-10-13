@@ -4,6 +4,7 @@ title: Gallery
 subtitle: ''
 head-title: ""
 css: "../css/custom.css"
+css: "../css/hovereffect.css"
 ---
 
 .hovereffect {
