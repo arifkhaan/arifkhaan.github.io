@@ -5,7 +5,6 @@ subtitle: 'Ph.D. (Elect. & Com. Engg.), MIEEE'
 head-title: "Arif Ullah (Khan) - PhD Fellow, GIKI"
 css: "../css/custom.css"
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
 
@@ -18,7 +17,6 @@ css: "../css/custom.css"
   
   <div class="col-md-12">
     <div class="col-md-2">Assistant Professor, Department of Computer Engineering, College og IT Covegence, Chosun University IT Building 146 Chosundae-gil, Seoseok-dong, Dong-gu, Gwangju, South Korea Email: arifullah[at]chosun[dot]ac[dot]kr Tel: (000)1111-2222</div>
-    <div class="col-md-2 col-md-offset-2"> col-md-2 with offset 2</div>
   </div>
 </body>
 </html>
