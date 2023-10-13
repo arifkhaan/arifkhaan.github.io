@@ -57,18 +57,10 @@ Last updated on: Jun 10, 2023
 
 ----
 <div class="row">
-    <div class="col-md-1">
         <img src="/img/Chosun_logo.png" height="80px">
-    </div>
-  <div class="col-md-1">
       <img src="/img/GIKI_logo.png" height="80px">
-  </div>
-   <div class="col-md-1">
       <img src="/img/COMSATS_logo.jpeg" height="80px">
-  </div>
-   <div class="col-md-1">
       <img src="/img/BUITEMS_logo.png"> height="80px"
-  </div>
 </div>
 
 <a href="https://info.flagcounter.com/2S2r"><img src="https://s04.flagcounter.com/count/2S2r/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_40/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
