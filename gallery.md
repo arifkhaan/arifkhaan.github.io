@@ -15,9 +15,6 @@ css: "../css/hovereffect.css"
                     <h2>Arif</h2>
                     <a class="info" href="https://arifkhaan.github.io/img/arif-new2.jpg">Zoom</a>
                 </div>
-                <div class="caption">
-                    <p>Lorem ipsum...</p>
-                </div>
             </div>
         </div>
     </div>
@@ -25,9 +22,6 @@ css: "../css/hovereffect.css"
       <div class="hovereffect">
           <div class="thumbnail">
               <img class="img-responsive" src="/img/arifnnew.jpg">
-              <div class="caption">
-                  <p>Lorem ipsum...</p>
-              </div>
               <div class="overlay">
                   <h2>Arif</h2>
                   <a class="info" href="https://arifkhaan.github.io/img/arifnnew.jpg">Zoom</a>
