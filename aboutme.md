@@ -5,12 +5,24 @@ subtitle: 'Ph.D. (Elect. & Com. Engg.), MIEEE'
 head-title: "Arif Ullah (Khan) - PhD Fellow, GIKI"
 css: "../css/custom.css"
 ---
-Assistant Professor, 
+<div class="container-fluid" role="main">
+  <div class="row">
+    <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
+      {{ Assistant Professor, 
 Department of Computer Engineering, College og IT Covegence,
 Chosun University
 IT Building 146 Chosundae-gil, Seoseok-dong, Dong-gu, Gwangju, South Korea
 Email: arifullah[at]chosun[dot]ac[dot]kr
-Tel: (000)1111-2222
+Tel: (000)1111-2222 }}
+	    {% if page.comments %}
+        <div class="disqus-comments">
+	        {% include disqus.html %}
+        </div>
+	        {% include fb-comment.html %}
+	    {% endif %}
+    </div>
+  </div>
+</div>
 
 ### Hi, I'm Arif!! 👋
 
