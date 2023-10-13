@@ -6,7 +6,6 @@ head-title: ""
 css: "../css/custom.css"
 ---
 
-<!DOCTYPE html>
 <html>
 <style>
 * {
