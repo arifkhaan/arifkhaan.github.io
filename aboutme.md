@@ -92,9 +92,17 @@ Last updated on: Jun 10, 2023
  ----
 ### News and Updates
 
-#### 2020
-
-#### 2019
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="d-flex justify-content-between align-items-center breaking-news bg-white">
+                <div class="d-flex flex-row flex-grow-1 flex-fill justify-content-center bg-danger py-2 text-white px-1 news"><span class="d-flex align-items-center">&nbsp;Recevt News</span></div>
+                <marquee class="news-scroll" behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();"> <a href="#">Recently our paper title "Aerial Terrestrial Networks with Multi-antenna Transmissions: How  Many UAVs Need to be Deployyed" has been accepted in IEEE Transactions on Vehicluar Technoology.
+                </marquee>
+            </div>
+        </div>
+    </div>
+</div>
 
 ----
 
