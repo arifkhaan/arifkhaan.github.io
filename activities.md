@@ -15,18 +15,18 @@ css: "../css/custom.css"
   - Computer Communications and Networks
 
 #### Teaching Assistant        
-Department of Electronics Engineering, GIK Institute of Engineering Sciences and Technology, Pakistan
-- Linear Circuit Analysis (EE-211) course (Fall 2017)
-- Digital Control System (EE-444) course (Spring 2021)
+- Department of Electronics Engineering, GIK Institute of Engineering Sciences and Technology, Pakistan
+  - Linear Circuit Analysis (EE-211) course (Fall 2017)
+  - Digital Control System (EE-444) course (Spring 2021)
 
 #### Lab Instructor        
-Department of Electronics Engineering, GIK Institute of Engineering Sciences and Technology, Pakistan
-- Electronics Devices and Circuit Lab (EE-231L) (Spring 2018-2019)
-- Signal and System Lab (EE-351L) (Fall 2018-2019)
-- Communication System Lab (EE-361L) (Spring 2020)
+- Department of Electronics Engineering, GIK Institute of Engineering Sciences and Technology, Pakistan
+  - Electronics Devices and Circuit Lab (EE-231L) (Spring 2018-2019)
+  - Signal and System Lab (EE-351L) (Fall 2018-2019)
+  - Communication System Lab (EE-361L) (Spring 2020)
 
 #### Visiting Instructor        
-COMWAVE Institute of Information Sci. and Techno., Abbotabad, Pakistan
+- COMWAVE Institute of Information Sci. and Techno., Abbotabad, Pakistan
   
 ### Professional Activities
 
