@@ -33,11 +33,36 @@ css: "../css/custom.css"
 
 ### Hi, I'm Arif!! 👋
 
-
 <html> 
+<head> 
+  <title> 
+    Wrapping an Image with the text 
+  </title> 
+  <style> 
+    body { 
+      margin: 20px; 
+      text-align: center; 
+    } 
+  
+    h1 { 
+      color: green; 
+    } 
+  
+    img { 
+      float: left; 
+      margin: 5px; 
+    } 
+  
+    p { 
+      text-align: justify; 
+    } 
+  </style> 
+</head> 
 <body> 
-  <h1>Hi, I'm Arif!! 👋</h1> 
+  <h1>GeeksforGeeks</h1> 
   <b> 
+    A Computer Science 
+    Portal for Geeks 
   </b> 
   <div class="square"> 
     <div> 
