@@ -35,7 +35,7 @@ css: "../css/custom.css"
 #### Membership
 - Member IEEE (Since 2021)
 - Student Member IEEE (Since 2019)
-- Member Pakistan Engineering Council (PEC)
+- Member Pakistan Engineering Council (PEC) (Since 2013)
 
 #### Reviewer 
 - IEEE Wireless Communications Letter
