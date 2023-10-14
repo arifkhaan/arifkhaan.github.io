@@ -61,15 +61,14 @@ css: "../css/custom.css"
   <h1>Hi, I'm Arif!! 👋</h1> 
   <b> 
   </b> 
-      
+  <div class="square"> 
+    <div> 
+      <img align="right" src="../img/arifnnew.jpg" height="270px">
+    </div>   
 <p> 
 I am graduated with master of science (MS) degree in Electrical Engineeriing from COMSATS University and P.hD. degree in Electronics and Commuication Engineering from <a href="https://www.giki.edu.pk/">Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi</a> Pakistan, in 2016 and 2021, respectively. During my MS research, I worked on the performance analysis of detection algorithms for MIMO-OFDM receivers under the supervision of <a href="https://www.giki.edu.pk/">Prof. Dr Shahid Khattak</a>. I carried out my PhD research in the supervision of <a href="https://www.giki.edu.pk/Faculty/Dr Ziaul Haq Abbas">Prof. Dr Zia-ul-Haq-Abbas</a>  and <a href="https://giki.edu.pk/personnel/abbas/">Prof. Dr Ghulam Abbas</a> . My PhD thesis broadly focuses on performance analysis of user-centric small cell aided heterogeneous cellular networks using the tools of stochastic geometry and the theory of point processes. Prior to joining <a href="https://www.giki.edu.pk/telecon">TeleCoN Lab</a> at GIKI, I worked as operation and maintaenance engineer and also served as visiting lecturer at COMWAVE Institute (part time).
     </p> 
 
-    <div class="square"> 
-    <div> 
-      <img align="right" src="../img/arifnnew.jpg" height="270px">
-    </div> 
   </div> 
 </body> 
 </html>
