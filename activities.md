@@ -37,6 +37,10 @@ css: "../css/custom.css"
 - Student Member IEEE (Since 2019)
 - Member Pakistan Engineering Council (PEC) (Since 2013)
 
+#### TPC Mmeber
+- 2nd International Conference on Maritime IT Convergence, Jeju South Korea (link)
+- International Conference on Recent Advances in Information Technology for Sustainable Development (ICRAIS), Manipal India (link)
+
 #### Reviewer 
 - IEEE Wireless Communications Letter
 - IEEE Transactions on Vehicular Technology
@@ -45,10 +49,5 @@ css: "../css/custom.css"
 - RS Open Journal on Innovative Communication Technologies
 - International Conference on Engineering Applications of Artificial Intelligence (ICEAAI), 2022 (link)
 - 3rd International Conference on Computing and Information Technology (ICCIT), University of Tabuk, KSA, 2023 (link)
-
-
-#### TPC Mmeber
-- 2nd International Conference on Maritime IT Convergence, Jeju South Korea (link)
-- International Conference on Recent Advances in Information Technology for Sustainable Development (ICRAIS), Manipal India (link)
 
 ----
