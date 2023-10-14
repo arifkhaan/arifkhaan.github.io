@@ -84,15 +84,13 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
  ----
  
 ### Curriculum Vitae
-<div class="square"> 
+
   <div> 
     <a href="https://arifkhaan.github.io/books/Arif-CV.pdf"><img src="../img/cvicon.jpg" height="65px"></a>
   </div>   
   <p> 
     The PDF version of my CV can be found here.
   </p> 
-</div> 
-
 
  ----
 ### News and Updates
