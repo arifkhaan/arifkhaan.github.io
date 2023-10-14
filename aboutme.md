@@ -60,12 +60,10 @@ css: "../css/custom.css"
 <body> 
   <h1>Hi, I'm Arif!! 👋</h1> 
   <b> 
-    A Computer Science 
-    Portal for Geeks 
   </b> 
   <div class="square"> 
     <div> 
-      <img align="right" src="../img/arifnnew.jpg" height="250px">
+      <img align="left" src="../img/arifnnew.jpg" height="250px">
     </div> 
       
 <p> 
