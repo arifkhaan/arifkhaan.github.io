@@ -93,6 +93,7 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
   </p> 
 
  ----
+ 
 ### News and Updates
 
 <div class="container mt-5">
