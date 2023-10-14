@@ -41,7 +41,7 @@ css: "../css/custom.css"
   <style> 
     body { 
       margin: 20px; 
-      text-align: center; 
+      text-align: left; 
     } 
   
     h1 { 
