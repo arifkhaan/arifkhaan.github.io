@@ -63,7 +63,7 @@ css: "../css/custom.css"
   </b> 
   <div class="square"> 
     <div> 
-      <img align="right" src="../img/arifnnew.jpg" height="250px">
+      <img align="right" src="../img/arifnnew.jpg" height="270px">
     </div> 
       
 <p> 
