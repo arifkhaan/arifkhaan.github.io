@@ -6,15 +6,49 @@ head-title: ""
 css: "../css/custom.css"
 ---
 
+### Teaching Experience
 
-My interest include 5G and beyond 5G networks, especially focusing on
-- Performance analysis of cellular networks ussing Stochastic geometery toolss
-- Energy efficient resource allocation in heterogeneous cellular networks, 
-- Full duplex MIMO, massive MIMO. 
-- Millimeter wave and Teraherz communications
-- Aerial-terratrial Networks
-- Machine learning aided wireless communications
-- Performance-complexity analysis of detection algorithms and channel coding for MIMO-OFDM system.
+#### Instructor        
+Department of Computer Engineering, Chosun University, South Korea
+- Advanced Wireless Access Networks
+- Digital Communications
+- Computer Communications and Networks
+
+#### Teaching Assistant        
+Department of Electronics Engineering, GIK Institute of Engineering Sciences and Technology, Pakistan
+- Linear Circuit Analysis (EE-211) course (Fall 2017)
+- Digital Control System (EE-444) course (Spring 2021)
+
+#### Lab Instructor        
+Department of Electronics Engineering, GIK Institute of Engineering Sciences and Technology, Pakistan
+- Electronics Devices and Circuit Lab (EE-231L) (Spring 2018-2019)
+- Signal and System Lab (EE-351L) (Fall 2018-2019)
+- Communication System Lab (EE-361L) (Spring 2020)
+
+#### Visiting Instructor        
+COMWAVE Institute of Information Sci. and Techno., Abbotabad, Pakistan
+  
+### Professional Activities
+
+#### Membership
+- Member IEEE (Since 2021)
+- Student Member IEEE (Since 2019)
+- Member Pakistan Engineering Council (PEC)
+
+#### Reviewer 
+- IEEE Wireless Communications Letter
+- IEEE Transactions on Vehicular Technology
+- IEEE Transactions on Intelligent Transportation System
+- MDPI Drones, Sensors, Applied Sciences, Information
+- RS Open Journal on Innovative Communication Technologies
+- International Conference on Engineering Applications of Artificial Intelligence (ICEAAI), 2022 (link)
+- 3rd International Conference on Computing and Information Technology (ICCIT), University of Tabuk, KSA, 2023 (link)
+
+
+#### TPC Mmeber
+- 2nd International Conference on Maritime IT Convergence, Jeju South Korea (link)
+- International Conference on Recent Advances in Information Technology for Sustainable Development (ICRAIS), Manipal India (link)
+
 
 
 Complete list of my publications can be accessed on google scholor.
