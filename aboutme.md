@@ -127,7 +127,7 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
             <div class="breaking-box pt-2 pb-1">
                 <!--marque-->
                 <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseleave="this.start();">
-                  <a class="h6 font-weight-light" href="https://bootstrap.news/bootstrap-4-template-news-portal-magazine/"><span class="position-relative mx-2 badge badge-primary rounded-0">Technology</span> Google Employees Protest Secret Work on Censored Search Engine for China</a>
+                  <a class="h6 href="https://bootstrap.news/bootstrap-4-template-news-portal-magazine/"><span class="position-relative mx-2 badge badge-primary rounded-0">Technology</span> Google Employees Protest Secret Work on Censored Search Engine for China</a>
                   <a class="h6 href="https://bootstrap.news/bootstrap-4-template-news-portal-magazine/"><span class="position-relative mx-2 badge badge-primary rounded-0">Automotive</span> Investors Betting Against Tesla Made $1 Billion on Friday</a>
                   <a class="h6 href="https://bootstrap.news/bootstrap-4-template-news-portal-magazine/.html"><span class="position-relative mx-2 badge badge-primary rounded-0">Football</span> World cup 2050 will release in Dubay</a>
                   <a class="h6 href="https://bootstrap.news/bootstrap-4-template-news-portal-magazine/"><span class="position-relative mx-2 badge badge-primary rounded-0">Beauty</span> Lemon make your skin fresh and glowing</a>
