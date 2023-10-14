@@ -37,12 +37,12 @@ css: "../css/custom.css"
 
 I am graduated with master of science (MS) degree in Electrical Engineeriing from COMSATS University and P.hD. degree in Electronics and Commuication Engineering from [Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi](https://www.giki.edu.pk/) Pakistan, in 2016 and 2021, respectively. During my MS research, I worked on the performance analysis of detection algorithms for MIMO-OFDM receivers in the supervision of Prof. Dr Shahid Khattak. I carried out my PhD research in the supervision of [Prof. Dr. Ziaul Haq Abbas](https://www.giki.edu.pk/Faculty/Dr-Zia-ul-Haq-Abbas) and [Prof. Dr. Ghulam Abbas](https://www.giki.edu.pk/Faculty/Dr-Zia-ul-Haq-Abbas). My PhD thesis broadly focuses on performance analysis of user-centric small cell aided heterogeneous cellular networks using the tools of stochastic geometry and the theory of point processes. Prior to joining [TeleCoN Lab](https://www.giki.edu.pk/telecon) at GIKI, I worked as operation and maintaenance engineer and also served as visiting lecturer at COMWAVE Institute (Part time).
 
-After completing my PhD, I worked as a Post-Doc fellow at the Smart Networing Laboratory (SNL) at Chosun University from Nov. 2021 to Mar. 2022. My Post-Doc work was mainly focusing on the modelling and performance analysis of the flying adhoc/aerial-terrestrail networks and the use of machine learning techniques in wireless communications and networks. 
+After completing my PhD, I worked as a Post-Doc fellow at the Smart Networing Laboratory (SNL) at Chosun University from Nov. 2021 to Mar. 2022. My Post-Doc work was mainly focusing on the 1) modelling and performance analysis of the flying adhoc/aerial-terrestrail networks and 2) the use of machine learning techniques in wireless networks. 
 
-Then I joined the Department of Computer Engineering at Chosun University in Apr. 2022 as an Assistant Professor. My current research is mainly span in the intelligent 5G and beyon networks.
+Then I joined the Department of Computer Engineering at Chosun University in Apr. 2022 as an Assistant Professor. My current research mainly span in the area of intelligent 5G and beyond networks.
 
 
-Keeping aside all the jargons, maths and information, I love to spend my leisure in reading and exploring nature with my nearest buddies.
+Keeping aside all the jargons, maths and information, I love to spend my leisure time in reading, exploring nature, and outing with my nearest friends.
  
  ----
 
