@@ -83,7 +83,7 @@ Hammad Ahmed, Muhammad Mahmood Ali, **Arif Ullah**, Arbab Abdur Rahim, Husnul Ma
 Complete list of my publications can also be accessed on google scholor.
 
 
-[<img src="../img/googlescholor.png" height="65px">](https://scholar.google.com/citations?user=gktHbTcAAAAJ&hl=en)
+[<img src="../img/googlescholor.png" height="65px">](https://scholar.google.com/citations?user=D3rq6oEAAAAJ&hl=en)
 [<img src="../img/researchgate.png" height="65px">](https://www.researchgate.net/profile/Arif_Ullah_Khan3)
 [<img src="../img/orcid.png" height="62px">](https://orcid.org/0000-0002-0555-6644)
 
