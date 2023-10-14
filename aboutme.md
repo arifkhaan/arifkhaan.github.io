@@ -35,30 +35,6 @@ css: "../css/custom.css"
 
 
 <html> 
-<head> 
-  <title> 
-    Wrapping an Image with the text 
-  </title> 
-  <style> 
-    body { 
-      margin: 20px; 
-      text-align: left; 
-    } 
-  
-    h1 { 
-      color: green; 
-    } 
-  
-    img { 
-      float: left; 
-      margin: 5px; 
-    } 
-  
-    p { 
-      text-align: justify; 
-    } 
-  </style> 
-</head> 
 <body> 
   <h1>Hi, I'm Arif!! 👋</h1> 
   <b> 
