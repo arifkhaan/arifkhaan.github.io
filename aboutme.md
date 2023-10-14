@@ -66,7 +66,7 @@ css: "../css/custom.css"
       <img align="right" src="../img/arifnnew.jpg" height="270px">
     </div>   
 <p> 
-I am graduated with master of science (MS) degree in Electrical Engineeriing from COMSATS University and P.hD. degree in Electronics and Commuication Engineering from <a href="https://www.giki.edu.pk/">Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi</a> Pakistan, in 2016 and 2021, respectively. During my MS research, I worked on the performance analysis of detection algorithms for MIMO-OFDM receivers under the supervision of <a href="https://www.giki.edu.pk/">Prof. Dr Shahid Khattak</a>. I carried out my PhD research in the supervision of <a href="https://www.giki.edu.pk/Faculty/Dr Ziaul Haq Abbas">Prof. Dr Zia-ul-Haq-Abbas</a>  and <a href="https://giki.edu.pk/personnel/abbas/">Prof. Dr Ghulam Abbas</a> . My PhD thesis broadly focuses on performance analysis of user-centric small cell aided heterogeneous cellular networks using the tools of stochastic geometry and the theory of point processes. Prior to joining <a href="https://www.giki.edu.pk/telecon">TeleCoN Lab</a> at GIKI, I worked as operation and maintaenance engineer and also served as visiting lecturer at COMWAVE Institute (part time).
+I am graduated with master of science (MS) degree in Electrical Engineeriing from COMSATS University and P.hD. degree in Electronics and Commuication Engineering from <a href="https://www.giki.edu.pk/">Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi</a> Pakistan, in 2016 and 2021, respectively. During my MS research, I worked on the performance analysis of detection algorithms for MIMO-OFDM receivers under the supervision of <a href="https://www.giki.edu.pk/">Prof. Dr Shahid Khattak</a>. I carried out my PhD research under the supervision of <a href="https://www.giki.edu.pk/Faculty/Dr Ziaul Haq Abbas">Prof. Dr Zia-ul-Haq-Abbas</a>  and <a href="https://giki.edu.pk/personnel/abbas/">Prof. Dr Ghulam Abbas</a> . My PhD thesis broadly focuses on the performance analysis of user-centric small cell aided heterogeneous cellular networks using stochastic geometry and the theory of point processes. Prior to joining <a href="https://www.giki.edu.pk/telecon">TeleCoN Lab</a> at GIK Institute, I worked as operation and maintaenance engineer and also as visiting lecturer at COMWAVE Institute (part time) in different span of time.
     </p> 
 
   </div> 
@@ -74,10 +74,9 @@ I am graduated with master of science (MS) degree in Electrical Engineeriing fro
 </html>
 
 
-After completing my PhD, I worked as a Post-Doc fellow at [Smart Networing Laboratory (SNL)](https://www.giki.edu), Chosun University from Nov. 2021 to Mar. 2022. My Post-Doc work was mainly focusing on the 1) modelling and performance analysis of the flying adhoc/aerial-terrestrail networks and 2) the use of machine learning techniques in wireless networks. 
+After completing my PhD, I worked as a Post-Doc fellow at [Smart Networing Laboratory (SNL)](https://www.giki.edu), Chosun University from Nov. 2021 to Mar. 2022. During Post-Doc, I worked on the 1) modelling and performance analysis of the flying adhoc/aerial-terrestrail networks and 2) machine learning empowered wireless networks. 
 
 Then I joined the [Department of Computer Engineering at Chosun University](https://www.chosun.ac.kr) in Apr. 2022 as an Assistant Professor. My current research mainly span in the area of intelligent 5G and beyond networks.
-
 
 Keeping aside all the jargons, maths and information, I love to spend my leisure time in reading, exploring nature, and outing with my nearest friends.
  
@@ -85,12 +84,12 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
  
 ### Curriculum Vitae
 
-  <div> 
-    <a href="https://arifkhaan.github.io/books/Arif-CV.pdf"><img src="../img/cvicon.jpg" height="65px"></a>
-  </div>   
   <p> 
     The PDF version of my CV can be found here.
   </p> 
+  <div> 
+    <a href="https://arifkhaan.github.io/books/Arif-CV.pdf"><img src="../img/cvicon.jpg" height="65px"></a>
+  </div>   
 
  ----
  
