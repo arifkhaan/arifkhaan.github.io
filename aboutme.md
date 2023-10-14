@@ -85,7 +85,7 @@ Then I joined the [Department of Computer Engineering at Chosun University](http
 Keeping aside all the jargons, maths and information, I love to spend my leisure time in reading, exploring nature, and outing with my nearest friends.
  
  ----
-
+ 
 ### Curriculum Vitae
 The PDF version of my CV can be found here.
 [<img src="../img/cvicon.jpg" height="65px">](https://arifkhaan.github.io/books/Arif-CV.pdf)
