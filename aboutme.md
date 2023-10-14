@@ -63,11 +63,11 @@ css: "../css/custom.css"
   </b> 
   <div class="square"> 
     <div> 
-      <img align="left" src="../img/arifnnew.jpg" height="250px">
+      <img align="right" src="../img/arifnnew.jpg" height="250px">
     </div> 
       
 <p> 
-I am graduated with master of science (MS) degree in Electrical Engineeriing from COMSATS University and P.hD. degree in Electronics and Commuication Engineering from <a href="https://www.giki.edu.pk/">Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi</a> Pakistan, in 2016 and 2021, respectively. During my MS research, I worked on the performance analysis of detection algorithms for MIMO-OFDM receivers in the supervision of [Prof. Dr Shahid Khattak](https://www.giki.edu). I carried out my PhD research in the supervision of [Prof. Dr. Ziaul Haq Abbas](https://www.giki.edu.pk/Faculty/Dr-Zia-ul-Haq-Abbas) and [Prof. Dr. Ghulam Abbas](https://www.giki.edu.pk/). My PhD thesis broadly focuses on performance analysis of user-centric small cell aided heterogeneous cellular networks using the tools of stochastic geometry and the theory of point processes. Prior to joining [TeleCoN Lab](https://www.giki.edu.pk/telecon) at GIKI, I worked as operation and maintaenance engineer and also served as visiting lecturer at COMWAVE Institute (Part time).
+I am graduated with master of science (MS) degree in Electrical Engineeriing from COMSATS University and P.hD. degree in Electronics and Commuication Engineering from <a href="https://www.giki.edu.pk/">Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi</a> Pakistan, in 2016 and 2021, respectively. During my MS research, I worked on the performance analysis of detection algorithms for MIMO-OFDM receivers under the supervision of <a href="https://www.giki.edu.pk/">Prof. Dr Shahid Khattak</a>. I carried out my PhD research in the supervision of <a href="https://www.giki.edu.pk/Faculty/Dr Ziaul Haq Abbas">Prof. Dr Zia-ul-Haq-Abbas</a>  and <a href="https://giki.edu.pk/personnel/abbas/">Prof. Dr Ghulam Abbas</a> . My PhD thesis broadly focuses on performance analysis of user-centric small cell aided heterogeneous cellular networks using the tools of stochastic geometry and the theory of point processes. Prior to joining <a href="https://www.giki.edu.pk/telecon">TeleCoN Lab</a> at GIKI, I worked as operation and maintaenance engineer and also served as visiting lecturer at COMWAVE Institute (Part time).
     </p> 
   
   </div> 
