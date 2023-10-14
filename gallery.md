@@ -3,6 +3,7 @@ layout: page
 title: Gallery
 subtitle: ''
 head-title: ""
+bigimg: "../img/mokpo.jpeg" 
 css: "../css/custom.css"
 css: "../css/hovereffect.css"
 ---
