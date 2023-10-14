@@ -97,7 +97,7 @@ Last updated on: Jun 10, 2023
         <div class="col-md-12">
             <div class="d-flex justify-content-between align-items-center breaking-news bg-white">
                 <div class="d-flex flex-row flex-grow-1 flex-fill justify-content-center bg-danger py-2 text-white px-1 news"><span class="d-flex align-items-center">&nbsp;CNN News</span></div>
-                <marquee class="news-scroll" behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();"> <a href="#">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </a> <span class="dot"></span> <a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut </a> <span class="dot"></span> <a href="#">Duis aute irure dolor in reprehenderit in voluptate velit esse </a>
+                <marquee class="news-scroll" behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();"> <a href="#">[2023] Recently our paper titled "Aerial-terrestrial Networks with Multi-antenna Transmissions has been accepted in IEEE Transactions on Vehicular Technologgy". </a> <span class="dot"></span> <a href="#">2023] Recently our paper titled "Aerial-terrestrial Networks with Multi-antenna Transmissions has been accepted in IEEE Transactions on Vehicular Technologgy </a> <span class="dot"></span> <a href="#">2023] Recently our paper titled "Aerial-terrestrial Networks with Multi-antenna Transmissions has been accepted in IEEE Transactions on Vehicular Technologgy </a>
                 </marquee>
             </div>
         </div>
