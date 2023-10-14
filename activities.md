@@ -26,7 +26,7 @@ css: "../css/custom.css"
   - Communication System Lab (EE-361L) (Spring 2020)
 
 #### Visiting Instructor        
-- COMWAVE Institute of Information Sci. and Techno., Abbotabad, Pakistan
+- COMWAVE Institute of Information Science and Technology Abbotabad, Pakistan
 
 ----
   
