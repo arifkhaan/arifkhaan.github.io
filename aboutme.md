@@ -84,10 +84,15 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
  ----
  
 ### Curriculum Vitae
-The PDF version of my CV can be found here.
-[<img src="../img/cvicon.jpg" height="65px">](https://arifkhaan.github.io/books/Arif-CV.pdf)
+<div class="square"> 
+  <div> 
+    <a href="https://arifkhaan.github.io/books/Arif-CV.pdf">img src="../img/cvicon.jpg" height="65px"</a>
+  </div>   
+  <p> 
+    The PDF version of my CV can be found here.
+  </p> 
+</div> 
 
-Last updated on: Jun 10, 2023
 
  ----
 ### News and Updates
@@ -107,3 +112,5 @@ Last updated on: Jun 10, 2023
 ----
 
 <a href="https://info.flagcounter.com/2S2r"><img src="https://s04.flagcounter.com/count/2S2r/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_40/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+Last updated on: Jun 10, 2023
