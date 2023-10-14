@@ -96,48 +96,6 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
  
 ### News and Updates
 
-<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<!------ Include the above in your HEAD tag ---------->
-
-<!--head-->
-<div class="container">
-    <div class="row mb-5">
-        <div class="col-12 text-center pt-3">
-            <h1>Breaking News Marque Bootstrap 4</h1>
-            <p>This is a basic bootstrap sorce code for make responsive magazine breaking news marque</p>
-            <h4>You like this snippet ? click like button</h4>
-        </div>
-    </div>
-    
-    <!--start code-->
-    <div class="row py-2">
-        <!--Breaking box-->
-        <div class="col-1 col-md-3 col-lg-2 py-1 pr-md-0 mb-md-1">
-            <div class="d-inline-block d-md-block bg-primary text-white text-center breaking-caret py-1 px-2">
-                <span class="fas fa-bolt" title="Breaking News"></span>
-                <span class="d-none d-md-inline-block">Breaking</span>
-            </div>
-        </div>
-        <!--Breaking content-->
-        <div class="col-11 col-md-9 col-lg-10 pl-1 pl-md-2">
-            <div class="breaking-box pt-2 pb-1">
-                <!--marque-->
-                <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseleave="this.start();">
-                  <a class="h6 href="https://bootstrap.news/bootstrap-4-template-news-portal-magazine/"><span class="position-relative mx-2 badge badge-primary rounded-0">Sport</span> Aerial-terrestrial Networks with Multi-antenna Transmissions has been accepted in IEEE Transactions on Vehicular Technologg</a>
-                </marquee>
-            </div>
-        </div>
-    </div>
-	<!--end code-->
-	
-	<div class="row mb-4">
-        <div class="col-12 text-center">
-            <p>Design by Ari Budin <a target="_blank" href="https://bootstrap.news/bootstrap-4-template-news-portal-magazine/">Bootstrap.News</a> | Font by Font Awesome 5</p>
-        </div>
-    </div>
-</div>
 
 
 ----
