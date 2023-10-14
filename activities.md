@@ -9,10 +9,10 @@ css: "../css/custom.css"
 ### Teaching Experience
 
 #### Instructor        
-Department of Computer Engineering, Chosun University, South Korea
-- Advanced Wireless Access Networks
-- Digital Communications
-- Computer Communications and Networks
+- Department of Computer Engineering, Chosun University, South Korea
+  - Advanced Wireless Access Networks
+  - Digital Communications
+  - Computer Communications and Networks
 
 #### Teaching Assistant        
 Department of Electronics Engineering, GIK Institute of Engineering Sciences and Technology, Pakistan
