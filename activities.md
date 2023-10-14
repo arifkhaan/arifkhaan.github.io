@@ -27,6 +27,8 @@ css: "../css/custom.css"
 
 #### Visiting Instructor        
 - COMWAVE Institute of Information Sci. and Techno., Abbotabad, Pakistan
+
+----
   
 ### Professional Activities
 
@@ -49,11 +51,4 @@ css: "../css/custom.css"
 - 2nd International Conference on Maritime IT Convergence, Jeju South Korea (link)
 - International Conference on Recent Advances in Information Technology for Sustainable Development (ICRAIS), Manipal India (link)
 
-
-
-Complete list of my publications can be accessed on google scholor.
-
-
-[<img src="../img/googlescholor.png" height="65px">](https://scholar.google.com/citations?user=D3rq6oEAAAAJ&hl=en)
-[<img src="../img/researchgate.png" height="65px">](https://www.researchgate.net/profile/Arif_Ullah_Khan3)
-[<img src="../img/orcid.png" height="65px">](https://orcid.org/0000-0002-0555-6644)
+----
