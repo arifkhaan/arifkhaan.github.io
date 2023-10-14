@@ -31,7 +31,6 @@ css: "../css/custom.css"
 </body>
 </html>
 
-### Hi, I'm Arif!! 👋
 
 <html> 
 <head> 
@@ -59,7 +58,7 @@ css: "../css/custom.css"
   </style> 
 </head> 
 <body> 
-  <h1>GeeksforGeeks</h1> 
+  <h1>Hi, I'm Arif!! 👋</h1> 
   <b> 
     A Computer Science 
     Portal for Geeks 
