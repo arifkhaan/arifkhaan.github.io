@@ -102,8 +102,6 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 <!------ Include the above in your HEAD tag ---------->
 
 <!--head-->
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
-
 <div class="container">
     <div class="row mb-5">
         <div class="col-12 text-center pt-3">
