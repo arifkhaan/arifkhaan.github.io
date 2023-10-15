@@ -140,6 +140,7 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 </html>
 
 - (Aug 2023) Our paper title "RS-DeepNet: A Machine Learning Aided RSSI Fingerprinting for Precise Indoor Localization" got outstanding paper award in international conference on martime and IT convergence held in Jeju island South Korea.
+  
 ----
 
 <a href="https://info.flagcounter.com/2S2r"><img src="https://s04.flagcounter.com/count/2S2r/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_40/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
