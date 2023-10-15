@@ -41,4 +41,15 @@ css: "../css/hovereffect.css"
           </div>
       </div>
   </div>
+     <div class="col-md-3">
+      <div class="hovereffect">
+          <div class="thumbnail">
+              <img class="img-responsive" src="/img/IMG_9144.jpeg">
+              <div class="overlay">
+                  <h2>Arif</h2>
+                  <a class="info" href="https://arifkhaan.github.io/img/arifnnew.jpg">Zoom</a>
+              </div>
+          </div>
+      </div>
+  </div>
 </div>
