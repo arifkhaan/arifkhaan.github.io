@@ -95,7 +95,6 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
  
 ### News and Updates
 
-
 <html>
 <head>
 <title> Horizontal Marquee News ticker using Html & Css </title>
@@ -105,9 +104,9 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 }
 
 .news {
-    box-shadow: inset 0 -15px 30px rgba(0,0,0,0.4), 0 5px 10px rgba(0,0,0,0.5);
+    box-shadow: inset 0 -5px 10px rgba(0,0,0,0.4), 0 3px 10px rgba(0,0,0,0.5);
        width: 890px;
-    margin: 20px auto;
+    margin: 10px auto;
     overflow: hidden;
     border-radius: 4px;
     padding: 1px;
@@ -133,13 +132,11 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
     width: 750px;
 }
 </style>
-</head>
 <body>
 <div class="news blue">
-<span>Latest News</span><span class="text1" ><marquee>[Sep 22023] Our paper title "Aerial terrestrian networks with multi-antenna transmissions" has been accepted in IEEE transactions on vehicular technology.</marquee></span>
+<span>Latest News</span><span class="text1" ><marquee>[Sep 2023] Our paper title "Aerial-terrestrial networks with multi-antenna transmissions: How many UAVs need to be deployed?" has been accepted in IEEE transactions on vehicular technology.</marquee></span>
 </div>
 </body>
-</head>
 </html>
 ----
 
