@@ -98,7 +98,7 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 
 <div class="container"> 
   <div class="ticker"> 
-    <div class="title"><h5><span class="underline">Recent News</span> </h5></div> <div class="news"> <marquee class="news-content"> 
+    <div class="title"><h5><span class="underline">Recent News</span></h5></div> <div class="news"> <marquee class="news-content"> 
       <p><p style="color:blue;">[Sep 2023] Our paper title "Aerial-terrestrial networks with multi-antenna transmissions: How many UAVs need to be deployed?" has been accepted in IEEE transactions on vehicular technology.</p>
       </p> </marquee> </div> </div> </div>
 ----
