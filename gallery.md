@@ -76,26 +76,4 @@ css: "../css/hovereffect.css"
           </div>
       </div>
   </div>
-    <div class="col-md-3">
-      <div class="hovereffect">
-          <div class="thumbnail">
-              <img class="img-responsive" src="/img/IMG_8751.jpeg">
-              <div class="overlay">
-                  <h2>Haeundae beach</h2>
-                  <a class="info" href="https://arifkhaan.github.io/img/IMG_8751.jpeg">Zoom</a>
-              </div>
-          </div>
-      </div>
-  </div>
-     <div class="col-md-3">
-      <div class="hovereffect">
-          <div class="thumbnail">
-              <img class="img-responsive" src="/img/IMG_9144.jpeg">
-              <div class="overlay">
-                  <h2>Geoje island</h2>
-                  <a class="info" href="https://arifkhaan.github.io/img/IMG_9144.jpeg">Zoom</a>
-              </div>
-          </div>
-      </div>
-  </div>
 </div>
