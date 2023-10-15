@@ -134,12 +134,12 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 </head>
 <body>
 <div class="news blue">
-<span>Latest News</span><span class="text1" ><marquee>[Sep 2023] Our paper title "Aerial-terrestrial networks with multi-antenna transmissions: How many UAVs need to be deployed?" has been accepted for publication in IEEE transactions on vehicular technology.</marquee></span>
+<span>Latest News</span><span class="text1" ><marquee> (Sep 2023) Our paper title "Aerial-terrestrial networks with multi-antenna transmissions: How many UAVs need to be deployed?" has been accepted for publication in IEEE transactions on vehicular technology.</marquee></span>
 </div>
 </body>
 </html>
 
-- [Aug 2023] Our paper title "RS-DeepNet: A Machine Learning Aided RSSI Fingerprinting for Precise Indoor Localization" got outstanding paper award in international conference on martime and IT convergence held in Jeju island South Korea.
+- (Aug 2023) Our paper title "RS-DeepNet: A Machine Learning Aided RSSI Fingerprinting for Precise Indoor Localization" got outstanding paper award in international conference on martime and IT convergence held in Jeju island South Korea.
 ----
 
 <a href="https://info.flagcounter.com/2S2r"><img src="https://s04.flagcounter.com/count/2S2r/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_40/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
