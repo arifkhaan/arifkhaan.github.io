@@ -24,7 +24,7 @@ css: "../css/hovereffect.css"
           <div class="thumbnail">
               <img class="img-responsive" src="/img/arifnnew.jpg">
               <div class="overlay">
-                  <h2>Arif</h2>
+                  <h2>Haeundae beach</h2>
                   <a class="info" href="https://arifkhaan.github.io/img/arifnnew.jpg">Zoom</a>
               </div>
           </div>
