@@ -98,7 +98,7 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 
 <div class="container"> 
   <div class="ticker"> 
-    <div class="title"><h5>Breaking News</h5></div> <div class="news"> <marquee class="news-content"> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud</p> <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto </p> <p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam </p> </marquee> </div> </div> </div>
+    <div class="title"><h5>Breaking News</h5></div> <div class="news"> <marquee class="news-content"> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud</p> </marquee> </div> </div> </div>
 ----
 
 <a href="https://info.flagcounter.com/2S2r"><img src="https://s04.flagcounter.com/count/2S2r/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_40/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
