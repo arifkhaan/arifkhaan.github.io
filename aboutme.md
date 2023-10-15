@@ -44,7 +44,6 @@ css: "../css/custom.css"
     } 
   
     h1 { 
-      color: green; 
     } 
   
     img { 
@@ -132,6 +131,7 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
     width: 750px;
 }
 </style>
+</head>
 <body>
 <div class="news blue">
 <span>Latest News</span><span class="text1" ><marquee>[Sep 2023] Our paper title "Aerial-terrestrial networks with multi-antenna transmissions: How many UAVs need to be deployed?" has been accepted in IEEE transactions on vehicular technology.</marquee></span>
