@@ -96,11 +96,51 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 ### News and Updates
 
 
-<div class="container"> 
-  <div class="ticker"> 
-    <div class="title"><h5><span class="underline">Recent News</span></h5></div> <div class="news"> <marquee class="news-content"> 
-      <p><p style="color:blue;">[Sep 2023] Our paper title "Aerial-terrestrial networks with multi-antenna transmissions: How many UAVs need to be deployed?" has been accepted in IEEE transactions on vehicular technology.</p>
-      </p> </marquee> </div> </div> </div>
+<html>
+<head>
+<title> Horizontal Marquee News ticker using Html & Css </title>
+<style>
+.blue {
+    background: #347fd0;
+}
+
+.news {
+    box-shadow: inset 0 -15px 30px rgba(0,0,0,0.4), 0 5px 10px rgba(0,0,0,0.5);
+       width: 890px;
+    margin: 20px auto;
+    overflow: hidden;
+    border-radius: 4px;
+    padding: 1px;
+    -webkit-user-select: none;
+}
+
+.news span {
+    float: left;
+    color: #fff;
+    padding: 9px;
+    position: relative;
+    top: 1%;
+    box-shadow: inset 0 -15px 30px rgba(0,0,0,0.4);
+    font: 16px 'Raleway', Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -webkit-user-select: none;
+    cursor: pointer;
+}
+
+.text1{
+
+ box-shadow:none !important;
+    width: 750px;
+}
+</style>
+</head>
+<body>
+<div class="news blue">
+<span>Latest News</span><span class="text1" ><marquee>[Sep 22023] Our paper title "Aerial terrestrian networks with multi-antenna transmissions" has been accepted in IEEE transactions on vehicular technology.</marquee></span>
+</div>
+</body>
+</head>
+</html>
 ----
 
 <a href="https://info.flagcounter.com/2S2r"><img src="https://s04.flagcounter.com/count/2S2r/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_40/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
