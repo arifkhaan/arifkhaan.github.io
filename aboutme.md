@@ -47,7 +47,6 @@ css: "../css/custom.css"
     } 
   
     img { 
-      float: left; 
       margin: 10px; 
     } 
   
