@@ -104,7 +104,7 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
     position: relative;
     top: 1%;
     box-shadow: inset 0 -15px 30px rgba(0,0,0,0.4);
-    font: 16px 'Raleway', Helvetica, Arial, sans-serif;
+    font: 16px 'Raleway', Helvetica, Arial, sans-serif; 
     -webkit-font-smoothing: antialiased;
     -webkit-user-select: none;
     cursor: pointer;
