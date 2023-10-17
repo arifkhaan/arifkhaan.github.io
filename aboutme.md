@@ -124,6 +124,16 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 </body>
 </html>
 
+<html>
+<body>
+<ul>
+  <li> </li>
+  <li>Our paper title "Aerial-terrestrial networks with multi-antenna transmissions: How many UAVs need to be deployed?" has been accepted for publication in IEEE transactions on vehicular technology.</li>
+  <li>(Aug 2023) Our paper title "RS-DeepNet: A Machine Learning Aided RSSI Fingerprinting for Precise Indoor Localization" got outstanding paper award in international conference on martime and IT convergence held in Jeju island South Korea.</li>
+</ul>  
+</body>
+</html>
+
 - (Aug 2023) Our paper title "RS-DeepNet: A Machine Learning Aided RSSI Fingerprinting for Precise Indoor Localization" got outstanding paper award in international conference on martime and IT convergence held in Jeju island South Korea.
   
 ----
