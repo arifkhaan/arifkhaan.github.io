@@ -119,7 +119,7 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 </head>
 <body>
 <div class="news blue">
-<span>Latest News</span><span class="text1" ><marquee> (Sep 2023) Our paper title <a href="">"Aerial-terrestrial networks with multi-antenna transmissions: How many UAVs need to be deployed?"</a> has been accepted for publication in IEEE transactions on vehicular technology.</marquee></span>
+<span>Latest News</span><span class="text1" ><marquee> (Sep 2023) Our paper title "Aerial-terrestrial networks with multi-antenna transmissions: How many UAVs need to be deployed?" has been accepted for publication in IEEE transactions on vehicular technology.</marquee></span>
 </div>
 </body>
 </html>
