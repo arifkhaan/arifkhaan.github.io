@@ -48,6 +48,7 @@ css: "../css/custom.css"
   
     img { 
       margin: 10px; 
+      align: left;
     } 
   
     p { 
