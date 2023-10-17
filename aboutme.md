@@ -40,7 +40,7 @@ css: "../css/custom.css"
   <style> 
     body { 
       margin: 20px; 
-      text-align: right; 
+      text-align: left; 
     } 
   
     h1 { 
