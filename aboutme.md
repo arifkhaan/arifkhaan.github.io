@@ -7,7 +7,6 @@ css: "../css/custom.css"
 ---
 <html lang="en">
 <head>
-
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -30,7 +29,6 @@ css: "../css/custom.css"
   </div>
 </body>
 </html>
-
 
 <html> 
 <head> 
@@ -67,11 +65,9 @@ css: "../css/custom.css"
 <p> 
 I am graduated with master of science (MS) degree in Electrical Engineeriing from COMSATS University and P.hD. degree in Electronics and Commuication Engineering from <a href="https://www.giki.edu.pk/">Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi</a> Pakistan, in 2016 and 2021, respectively. During my MS research, I worked on the performance analysis of detection algorithms for MIMO-OFDM receivers under the supervision of <a href="https://www.cuiatd.edu.pk/">Prof. Dr Shahid Khattak</a>. I carried out my PhD research under the supervision of <a href="https://giki.edu.pk/personnel/dr-zia-ul-haq-abbas/">Prof. Dr Zia-ul-Haq-Abbas</a>  and <a href="https://giki.edu.pk/personnel/abbas/">Prof. Dr Ghulam Abbas</a> . My PhD thesis broadly focuses on the performance analysis of user-centric small cell aided heterogeneous cellular networks using stochastic geometry and the theory of point processes. Prior to joining <a href="https://www.giki.edu.pk/telecon">TeleCoN Lab</a> at GIK Institute, I worked as operation and maintaenance engineer and also as visiting lecturer at COMWAVE Institute (part time) in different span of time.
     </p> 
-
   </div> 
 </body> 
 </html>
-
 
 After completing my PhD, I worked as a Post-Doc fellow at [Smart Networing Laboratory (SNL)](https://sites.google.com/view/smart-networking), Chosun University from Nov. 2021 to Mar. 2022. During Post-Doc, I worked on the 1) modelling and performance analysis of the flying adhoc/aerial-terrestrail networks and 2) machine learning empowered wireless networks. 
 
@@ -175,7 +171,3 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 </div>
 </body>
 </html>
-
-
-
-Last updated on: Jun 10, 2023
