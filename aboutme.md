@@ -63,13 +63,13 @@ css: "../css/custom.css"
       <img align= "left" src="../img/IMG_9411.jpeg" height="270px">
     </div>   
 <p> 
-I am graduated with master of science (MS) degree in Electrical Engineeriing from COMSATS University and P.hD. degree in Electronics and Commuication Engineering from <a href="https://www.giki.edu.pk/">Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi</a> Pakistan, in 2016 and 2021, respectively. During my MS research, I worked on the performance analysis of detection algorithms for MIMO-OFDM receivers under the supervision of <a href="https://www.cuiatd.edu.pk/">Prof. Dr Shahid Khattak</a>. I carried out my PhD research under the supervision of <a href="https://giki.edu.pk/personnel/dr-zia-ul-haq-abbas/">Prof. Dr Zia-ul-Haq-Abbas</a>  and <a href="https://giki.edu.pk/personnel/abbas/">Prof. Dr Ghulam Abbas</a> . My PhD thesis broadly focuses on the performance analysis of user-centric small cell aided heterogeneous cellular networks using stochastic geometry and the theory of point processes. Prior to joining <a href="https://www.giki.edu.pk/telecon">TeleCoN Lab</a> at GIK Institute, I worked as operation and maintaenance engineer and also as visiting lecturer at COMWAVE Institute (part time) in different span of time.
+I am graduated with master of science (MS) degree in Electrical Engineeriing from COMSATS University and Ph.D degree in Electronics and Commuication Engineering from <a href="https://www.giki.edu.pk/">Ghulam Ishaq Khan (GIK) Institute of Engineering Sciences and Technology Topi, Swabi</a> Pakistan, in 2016 and 2021, respectively. During my MS research, I worked on the performance analysis of detection algorithms for MIMO-OFDM receivers under the supervision of <a href="https://www.cuiatd.edu.pk/">Prof. Dr Shahid Khattak</a>. I carried out my PhD research under the supervision of <a href="https://giki.edu.pk/personnel/dr-zia-ul-haq-abbas/">Prof. Dr Zia-ul-Haq-Abbas</a>  and <a href="https://giki.edu.pk/personnel/abbas/">Prof. Dr Ghulam Abbas</a> . My PhD thesis broadly focuses on the performance analysis of user-centric small cell aided heterogeneous cellular networks using stochastic geometry and the theory of point processes. Prior to joining <a href="https://www.giki.edu.pk/telecon">TeleCoN Lab</a> at GIK Institute, I worked as operation and maintaenance engineer and also as visiting lecturer at COMWAVE Institute (part time) in different span of time.
     </p> 
   </div> 
 </body> 
 </html>
 
-After completing my PhD, I was a Post-Doc fellow at [Smart Networing Laboratory (SNL)](https://sites.google.com/view/smart-networking), Chosun University from Nov. 2021 to Mar. 2022. During Post-Doc, I worked on the 1) modelling and performance analysis of the flying adhoc/aerial-terrestrail networks and 2) machine learning empowered wireless networks. 
+After completing my Ph.D, I was a Post-Doc fellow at [Smart Networing Laboratory (SNL)](https://sites.google.com/view/smart-networking), Chosun University from Nov. 2021 to Mar. 2022. During Post-Doc, I worked on the 1) modelling and performance analysis of the flying adhoc/aerial-terrestrail networks and 2) machine learning empowered wireless networks. 
 
 Then I joined the [Department of Computer Engineering at Chosun University](https://www.chosun.ac.kr) in Apr. 2022 as an Assistant Professor. My current research mainly span in the area of intelligent 5G and beyond networks.
 
@@ -126,7 +126,7 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 
 <html>
 <body>
-<ul>
+<ul dir="rtl" style='text-align:right; width:100%;'>
   <li> </li>
   <li>Our paper title "Aerial-terrestrial networks with multi-antenna transmissions: How many UAVs need to be deployed?" has been accepted for publication in IEEE transactions on vehicular technology.</li>
   <li>(Aug 2023) Our paper title "RS-DeepNet: A Machine Learning Aided RSSI Fingerprinting for Precise Indoor Localization" got outstanding paper award in international conference on martime and IT convergence held in Jeju island South Korea.</li>
