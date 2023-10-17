@@ -128,7 +128,7 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 <body>
 <ul style='text-align: justify; width:100%;'>
   <li> </li>
-  <li>Our paper title <a href="">"Aerial-terrestrial networks with multi-antenna transmissions: How many UAVs need to be deployed?"</a> has been accepted for publication in IEEE transactions on vehicular technology.</li>
+  <li>(Sep 2023) Our paper title <a href="">"Aerial-terrestrial networks with multi-antenna transmissions: How many UAVs need to be deployed?"</a> has been accepted for publication in IEEE transactions on vehicular technology.</li>
   <li>(Aug 2023) Our paper title <a href="">"RS-DeepNet: A Machine Learning Aided RSSI Fingerprinting for Precise Indoor Localization"</a> got outstanding paper award in international conference on martime and IT convergence held in Jeju island South Korea.</li>
 </ul>  
 </body>
