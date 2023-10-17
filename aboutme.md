@@ -69,7 +69,7 @@ I am graduated with master of science (MS) degree in Electrical Engineeriing fro
 </body> 
 </html>
 
-After completing my PhD, I worked as a Post-Doc fellow at [Smart Networing Laboratory (SNL)](https://sites.google.com/view/smart-networking), Chosun University from Nov. 2021 to Mar. 2022. During Post-Doc, I worked on the 1) modelling and performance analysis of the flying adhoc/aerial-terrestrail networks and 2) machine learning empowered wireless networks. 
+After completing my PhD, I was a Post-Doc fellow at [Smart Networing Laboratory (SNL)](https://sites.google.com/view/smart-networking), Chosun University from Nov. 2021 to Mar. 2022. During Post-Doc, I worked on the 1) modelling and performance analysis of the flying adhoc/aerial-terrestrail networks and 2) machine learning empowered wireless networks. 
 
 Then I joined the [Department of Computer Engineering at Chosun University](https://www.chosun.ac.kr) in Apr. 2022 as an Assistant Professor. My current research mainly span in the area of intelligent 5G and beyond networks.
 
