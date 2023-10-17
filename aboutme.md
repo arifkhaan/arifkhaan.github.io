@@ -169,18 +169,14 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 </head>
 <body>
 
-<h2>Images Side by Side</h2>
-<p>How to create side-by-side images with the CSS float property:</p>
-
 <div class="row">
   <div class="column">
     <a href="https://info.flagcounter.com/2S2r"><img src="https://s04.flagcounter.com/count/2S2r/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_40/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="1"></a>
   </div>
   <div class="column">
-    <img src="../img/logo_com.pdf" alt="Logo" style="width:100%">
+    <embed src="../img/logo_com.pdf" type=”logopdf” width=”100%”>
   </div>
 </div>
-
 </body>
 </html>
 
