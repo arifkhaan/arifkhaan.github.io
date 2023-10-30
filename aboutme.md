@@ -119,7 +119,7 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 </head>
 <body>
 <div class="news blue">
-<span>Latest News</span><span class="text1" ><marquee> (Oct 2023) Our paper title <a href="">"Path Loss Estimation and Jamming Detection in Hybrid RF-VLC Vehicular Networks: A Machine Learning Framework"</a> has been accepted for publication in IEEE sensors journal.</marquee></span>
+<span>Latest News</span><span class="text1" ><marquee> (Oct 2023) Our paper title "Aerial-terrestrial networks with multi-antenna transmissions: How many UAVs need to be deployed?" has been accepted for publication in IEEE sensors journal.</marquee></span>
 </div>
 </body>
 </html>
