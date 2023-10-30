@@ -11,11 +11,11 @@ css: "../css/custom.css"
 ### Submitted/Accepted Articles
 
 <img src="../img/journal-article.png" height="20px">
-Aamir Nadeem, **Arif Ullah**, and Wooyeol Choi, ``Social-Aware Peer Selection for Energy Efficient D2D
-Communications in UAV-Assisted Networks: A Q-Learning Approach," _Submitted to IEEE Wireless Communications Letter_, 2023. 
+**Arif Ullah**, Wooyeol Choi, and Sinem Coleri, ``Path Loss Estimation and Jamming Detection in Heterogeneous Vehicular Networks: A Hybrid Machine Learning Framework," _Accepted for publications in IEEE Sensors Journal_, Oct. 2023.   
 
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Wooyeol Choi, and Sinem Coleri, ``Path Loss Estimation and Jamming Detection in Heterogeneous Vehicular Networks: A Hybrid Machine Learning Framework," _Submitted to IEEE Sensors Journal_, 2023.  
+Aamir Nadeem, **Arif Ullah**, and Wooyeol Choi, ``Social-Aware Peer Selection for Energy Efficient D2D
+Communications in UAV-Assisted Networks: A Q-Learning Approach," _Submitted to IEEE Wireless Communications Letter_, 2023. 
 
 <img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Wooyeol Choi, Teklu Merhawit Berhane, Yusuf Sambo, and Muhammad Ali Imran, ``Soft-Output Deep-LAS Detection for Coded MIMO System: A Learning-Aided LLR Approximation," _Submitted to IEEE Transactions on Vehicular Technology_, 2023.  
