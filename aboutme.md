@@ -119,7 +119,7 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 </head>
 <body>
 <div class="news blue">
-<span>Latest News</span><span class="text1" ><marquee> (Oct 2023) Our paper title "Path Loss Estimation and Jamming Detection in Hybrid RF-VLC Vehicular Networks: A Machine Learning Framework" has been accepted for publication in IEEE sensors journal.</marquee></span>
+<span>Latest News</span><span class="text1" ><marquee> (Dec 2023) Our paper title "Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off" has been accepted for publication in IEEE Access.</marquee></span>
 </div>
 </body>
 </html>
@@ -127,6 +127,7 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 <html>
 <body>
 <ul style='text-align: justify; width:100%;'>
+  <li>(Dec 2023) Our paper title <a href="">"Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off"</a> has been accepted for publication in IEEE Access.</li>
   <li>(Oct 2023) Our paper title <a href="">"Path Loss Estimation and Jamming Detection in Hybrid RF-VLC Vehicular Networks: A Machine Learning Framework"</a> has been accepted for publication in IEEE sensors journal.</li>
   <li>(Sep 2023) Our paper title <a href="">"Aerial-terrestrial networks with multi-antenna transmissions: How many UAVs need to be deployed?"</a> has been accepted for publication in IEEE transactions on vehicular technology.</li>
   <li>(Aug 2023) Our paper title <a href="">"RS-DeepNet: A Machine Learning Aided RSSI Fingerprinting for Precise Indoor Localization"</a> got outstanding paper award in international conference on martime and IT convergence held in Jeju island South Korea.</li>
