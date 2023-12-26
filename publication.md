@@ -26,13 +26,13 @@ Communications in UAV-Assisted Networks: A Q-Learning Approach," _Submitted to I
 
 #### 2023
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Wooyeol Choi, and Sinem Coleri, ``Path Loss Estimation and Jamming Detection in Heterogeneous Vehicular Networks: A Hybrid Machine Learning Framework," _IEEE Sensors Journal_, vol. 23(24), pp. 31325 - 31336, Oct. 2023. [[PDF Preprint&#8594;]]([https://ieeexplore.ieee.org/abstract/document/10254357]([https://ieeexplore.ieee.org/abstract/document/10313115](https://ieeexplore.ieee.org/abstract/document/10313115))) [[TVT&#8594;]]([https://ieeexplore.ieee.org/abstract/document/10254357]([https://ieeexplore.ieee.org/abstract/document/10313115](https://ieeexplore.ieee.org/abstract/document/10313115)))
+**Arif Ullah**, Wooyeol Choi, and Sinem Coleri, ``Path Loss Estimation and Jamming Detection in Heterogeneous Vehicular Networks: A Hybrid Machine Learning Framework," _IEEE Sensors Journal_, vol. 23(24), pp. 31325 - 31336, Oct. 2023. [[PDF Preprint&#8594;]]([https://ieeexplore.ieee.org/abstract/document/10254357]([https://ieeexplore.ieee.org/abstract/document/10313115](https://ieeexplore.ieee.org/abstract/document/10313115))) [[IEEE Explore&#8594;]]([https://ieeexplore.ieee.org/abstract/document/10254357]([https://ieeexplore.ieee.org/abstract/document/10313115](https://ieeexplore.ieee.org/abstract/document/10313115)))
 
 <img src="../img/journal-article.png" height="20px">
 Fawad, Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``Machine Learning Framework for Precise Localization of Bleached Corals Using Bag-of-Hybrid-Visual-Feature Classification," _Scientific Reports_, 13, 19461, 2023. [[PDF Preprint&#8594;]]([[https://ieeexplore.ieee.org/abstract/document/10254357](https://www.nature.com/articles/s41598-023-46971-7#citeas)](https://www.nature.com/articles/s41598-023-46971-7#citeas)) [[Sci-Rep.&#8594;]]([[https://ieeexplore.ieee.org/abstract/document/10254357](https://www.nature.com/articles/s41598-023-46971-7#citeas)](https://www.nature.com/articles/s41598-023-46971-7#citeas))
 
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Wooyeol Choi, Ziaul Haq Abbass, and Ghulam Abbas, ``Aerial-Terrestrial Networks with Multi-antenna Transmission: How Many UAVs Need to Be Deployed?," _IEEE Transactions on Vehicular Technology_, pp. 1-15, early access Sep. 2023. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/abstract/document/10254357) [[TVT&#8594;]](https://ieeexplore.ieee.org/abstract/document/10254357)
+**Arif Ullah**, Wooyeol Choi, Ziaul Haq Abbass, and Ghulam Abbas, ``Aerial-Terrestrial Networks with Multi-antenna Transmission: How Many UAVs Need to Be Deployed?," _IEEE Transactions on Vehicular Technology_, pp. 1-15, early access Sep. 2023. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/abstract/document/10254357) [[IEEE Explore&#8594;]](https://ieeexplore.ieee.org/abstract/document/10254357)
 
 <img src="../img/conference-paper.png" height="20px">
 Fawad, **Arif Ullah**, Iftikhar Ahmad, Wooyeol Choi, ``RS-DeepNet: A Machine Learning Aided RSSI Fingerprinting for Precise Indoor Localization," <em>In 2nd International Conference on Maritime IT Convergence (ICMIC),</em> Jeju Island, South Korea, 2023. (**Outstanding paper award**)
@@ -55,16 +55,16 @@ Li Bin, Muhammad Shahzad, Hira Khan, Muhammad Mehran Bashir, **Arif Ullah**, and
 
 <img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, and Sungwan Kim, ``Uplink Performance Analysis of User- Centric
-Small Cell Aided Dense HCNets With Uplink-Downlink Decoupling," <em> in IEEE Access,</em> vol. 8, pp. 148460-148474, 2020.  [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/document/9164920) [[IEEE&#8594;]](https://digital-library.theiet.org/content/journals/10.1049/iet-com.2019.1316) 
+Small Cell Aided Dense HCNets With Uplink-Downlink Decoupling," <em> in IEEE Access,</em> vol. 8, pp. 148460-148474, 2020.  [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/document/9164920) [[IEEE Explore&#8594;]](https://digital-library.theiet.org/content/journals/10.1049/iet-com.2019.1316) 
 
 <img src="../img/journal-article.png" height="20px">
-Ziaul Haq Abbas, **Arif Ullah**, Ghulam Abbas, Fazal Muhammad, and Frank Yong Li, ``Outage Probability Analysis of User-Centric SBS based HCNets under Hybrid Rician/Rayleigh Fading," <em>IEEE Commun. Letters,</em> vol. 24, no. 2, pp. 297-301, 2020. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/document/8932550) [[IEEE&#8594;]](https://ieeexplore.ieee.org/document/8932550)
+Ziaul Haq Abbas, **Arif Ullah**, Ghulam Abbas, Fazal Muhammad, and Frank Yong Li, ``Outage Probability Analysis of User-Centric SBS based HCNets under Hybrid Rician/Rayleigh Fading," <em>IEEE Commun. Letters,</em> vol. 24, no. 2, pp. 297-301, 2020. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/document/8932550) [[IEEE Explore&#8594;]](https://ieeexplore.ieee.org/document/8932550)
 
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, and Lei Jiao, ``Performance Analysis of User-Centric SBS Deployment with Load Balancing in Heterogeneous Cellular Networks: A Thomas Cluster Process Approach," <em>Computer Networks,</em> vol. 170, 2020. [[PDF Preprint&#8594;]](https://www.sciencedirect.com/science/article/abs/pii/S1389128619308874) [[Elsveir&#8594;]](https://www.sciencedirect.com/science/article/abs/pii/S1389128619308874)
+**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, and Lei Jiao, ``Performance Analysis of User-Centric SBS Deployment with Load Balancing in Heterogeneous Cellular Networks: A Thomas Cluster Process Approach," <em>Computer Networks,</em> vol. 170, 2020. [[PDF Preprint&#8594;]](https://www.sciencedirect.com/science/article/abs/pii/S1389128619308874) [[ELSVEIR&#8594;]](https://www.sciencedirect.com/science/article/abs/pii/S1389128619308874)
 
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, and Lei Jiao, ``Capacity driven small cell deployment in heterogeneous cellular networks: Outage probability and rate coverage analysis," <em>Trans. on Emer. Telecommun. Techno.,</em> e3876, 2020. [[PDF Preprint&#8594;]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876) [[Springer&#8594;]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876)
+**Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, and Lei Jiao, ``Capacity driven small cell deployment in heterogeneous cellular networks: Outage probability and rate coverage analysis," <em>Trans. on Emer. Telecommun. Techno.,</em> e3876, 2020. [[PDF Preprint&#8594;]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876) [[SPRINGER&#8594;]](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3876)
 
 ----
 
