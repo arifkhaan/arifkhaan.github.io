@@ -11,6 +11,9 @@ css: "../css/custom.css"
 ### Submitted/Accepted Articles
 
 <img src="../img/journal-article.png" height="20px">
+Youngwoo Oh, **Arif Ullah**, and Wooyeol Choi, ``Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off," _Accepted for publications in IEEE Access_, Dec. 2023.
+
+<img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Wooyeol Choi, and Sinem Coleri, ``Path Loss Estimation and Jamming Detection in Heterogeneous Vehicular Networks: A Hybrid Machine Learning Framework," _Accepted for publications in IEEE Sensors Journal_, Oct. 2023.   
 
 <img src="../img/journal-article.png" height="20px">
