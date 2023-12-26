@@ -11,26 +11,26 @@ css: "../css/custom.css"
 ### Submitted/Accepted Articles
 
 <img src="../img/journal-article.png" height="20px">
-Youngwoo Oh, **Arif Ullah**, and Wooyeol Choi, ``Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off," _Accepted for publications in IEEE Access_, Dec. 2023.
-
-<img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Wooyeol Choi, and Sinem Coleri, ``Path Loss Estimation and Jamming Detection in Heterogeneous Vehicular Networks: A Hybrid Machine Learning Framework," _Accepted for publications in IEEE Sensors Journal_, Oct. 2023.   
+Youngwoo Oh, **Arif Ullah**, and Wooyeol Choi, ``Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off," _Accepted for publications in IEEE Access_, Dec. 2023.   
 
 <img src="../img/journal-article.png" height="20px">
 Aamir Nadeem, **Arif Ullah**, and Wooyeol Choi, ``Social-Aware Peer Selection for Energy Efficient D2D
 Communications in UAV-Assisted Networks: A Q-Learning Approach," _Submitted to IEEE Wireless Communications Letter_, 2023. 
 
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Wooyeol Choi, Teklu Merhawit Berhane, Yusuf Sambo, and Muhammad Ali Imran, ``Soft-Output Deep-LAS Detection for Coded MIMO System: A Learning-Aided LLR Approximation," _Submitted to IEEE Transactions on Vehicular Technology_, 2023.  
-
-<img src="../img/journal-article.png" height="20px">
-Fawad, Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``Machine Learning Framework for Precise Localization of Bleached Corals Using Bag-of-Hybrid-Visual-Feature Classification," _Submitted to Scientific Reports_, 2023.  
+**Arif Ullah**, Wooyeol Choi, Teklu Merhawit Berhane, Yusuf Sambo, and Muhammad Ali Imran, ``Soft-Output Deep-LAS Detection for Coded MIMO System: A Learning-Aided LLR Approximation," _Submitted to IEEE Transactions on Vehicular Technology_, 2023.   
 
 ----
 
 ### Published Articles
 
 #### 2023
+<img src="../img/journal-article.png" height="20px">
+**Arif Ullah**, Wooyeol Choi, and Sinem Coleri, ``Path Loss Estimation and Jamming Detection in Heterogeneous Vehicular Networks: A Hybrid Machine Learning Framework," _IEEE Sensors Journal_, vol. 23(24), pp. 31325 - 31336, Oct. 2023. [[PDF Preprint&#8594;]]([https://ieeexplore.ieee.org/abstract/document/10254357]([https://ieeexplore.ieee.org/abstract/document/10313115](https://ieeexplore.ieee.org/abstract/document/10313115))) [[TVT&#8594;]]([https://ieeexplore.ieee.org/abstract/document/10254357]([https://ieeexplore.ieee.org/abstract/document/10313115](https://ieeexplore.ieee.org/abstract/document/10313115)))
+
+<img src="../img/journal-article.png" height="20px">
+Fawad, Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``Machine Learning Framework for Precise Localization of Bleached Corals Using Bag-of-Hybrid-Visual-Feature Classification," _Scientific Reports_, 13, 19461, 2023. [[PDF Preprint&#8594;]]([[https://ieeexplore.ieee.org/abstract/document/10254357](https://www.nature.com/articles/s41598-023-46971-7#citeas)](https://www.nature.com/articles/s41598-023-46971-7#citeas)) [[Sci-Rep.&#8594;]]([[https://ieeexplore.ieee.org/abstract/document/10254357](https://www.nature.com/articles/s41598-023-46971-7#citeas)](https://www.nature.com/articles/s41598-023-46971-7#citeas))
+
 <img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Wooyeol Choi, Ziaul Haq Abbass, and Ghulam Abbas, ``Aerial-Terrestrial Networks with Multi-antenna Transmission: How Many UAVs Need to Be Deployed?," _IEEE Transactions on Vehicular Technology_, pp. 1-15, early access Sep. 2023. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/abstract/document/10254357) [[TVT&#8594;]](https://ieeexplore.ieee.org/abstract/document/10254357)
 
