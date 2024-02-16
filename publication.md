@@ -23,10 +23,10 @@ Communications in UAV-Assisted Networks: A Q-Learning Approach," _Submitted to I
 
 #### 2023
 <img src="../img/journal-article.png" height="20px">
-Youngwoo Oh, **Arif Ullah**, and Wooyeol Choi, ``Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off," _IEEE Access_, vol. 12, pp. 1172 - 1188, Dec. 2023. [[PDF Preprint&#8594;]]([https://ieeexplore.ieee.org/abstract/document/10375483](https://ieeexplore.ieee.org/abstract/document/10375483) [[IEEE Explore&#8594;]](https://ieeexplore.ieee.org/abstract/document/10375483)
+Youngwoo Oh, **Arif Ullah**, and Wooyeol Choi, ``Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off," _IEEE Access_, vol. 12, pp. 1172 - 1188, Dec. 2023. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/abstract/document/10375483) [[IEEE Explore&#8594;]](https://ieeexplore.ieee.org/abstract/document/10375483)
 
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Wooyeol Choi, and Sinem Coleri, ``Path Loss Estimation and Jamming Detection in Heterogeneous Vehicular Networks: A Hybrid Machine Learning Framework," _IEEE Sensors Journal_, vol. 23(24), pp. 31325 - 31336, Oct. 2023. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/abstract/document/10254357) [[IEEE Explore&#8594;]](https://ieeexplore.ieee.org/abstract/document/10313115)
+**Arif Ullah**, Wooyeol Choi, and Sinem Coleri, ``Path Loss Estimation and Jamming Detection in Heterogeneous Vehicular Networks: A Hybrid Machine Learning Framework," _IEEE Sensors Journal_, vol. 23(24), pp. 31325 - 31336, Oct. 2023. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/abstract/document/10313115) [[IEEE Explore&#8594;]](https://ieeexplore.ieee.org/abstract/document/10313115)
 
 <img src="../img/journal-article.png" height="20px">
 Fawad, Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``Machine Learning Framework for Precise Localization of Bleached Corals Using Bag-of-Hybrid-Visual-Feature Classification," _Scientific Reports_, 13, 19461, 2023. [[PDF Preprint&#8594;]](https://www.nature.com/articles/s41598-023-46971-7#citeas) [[Sci-Rep.&#8594;]](https://www.nature.com/articles/s41598-023-46971-7#citeas))
