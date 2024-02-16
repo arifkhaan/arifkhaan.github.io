@@ -23,7 +23,7 @@ Communications in UAV-Assisted Networks: A Q-Learning Approach," _Submitted to I
 
 #### 2023
 <img src="../img/journal-article.png" height="20px">
-Youngwoo Oh, **Arif Ullah**, and Wooyeol Choi, ``Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off," _IEEE Access_, vol. 12, pp. 1172 - 1188, Dec. 2023. 
+Youngwoo Oh, **Arif Ullah**, and Wooyeol Choi, ``Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off," _IEEE Access_, vol. 12, pp. 1172 - 1188, Dec. 2023. [[PDF Preprint&#8594;]]([https://ieeexplore.ieee.org/abstract/document/10375483]([https://ieeexplore.ieee.org/abstract/document/10375483](https://ieeexplore.ieee.org/abstract/document/10375483))) [[IEEE Explore&#8594;]]([https://ieeexplore.ieee.org/abstract/document/10375483]([https://ieeexplore.ieee.org/abstract/document/10375483](https://ieeexplore.ieee.org/abstract/document/10375483)))
 
 <img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Wooyeol Choi, and Sinem Coleri, ``Path Loss Estimation and Jamming Detection in Heterogeneous Vehicular Networks: A Hybrid Machine Learning Framework," _IEEE Sensors Journal_, vol. 23(24), pp. 31325 - 31336, Oct. 2023. [[PDF Preprint&#8594;]]([https://ieeexplore.ieee.org/abstract/document/10254357]([https://ieeexplore.ieee.org/abstract/document/10313115](https://ieeexplore.ieee.org/abstract/document/10313115))) [[IEEE Explore&#8594;]]([https://ieeexplore.ieee.org/abstract/document/10254357]([https://ieeexplore.ieee.org/abstract/document/10313115](https://ieeexplore.ieee.org/abstract/document/10313115)))
