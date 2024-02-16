@@ -8,10 +8,7 @@ css: "../css/custom.css"
 
 
 
-### Submitted/Accepted Articles
-
-<img src="../img/journal-article.png" height="20px">
-Youngwoo Oh, **Arif Ullah**, and Wooyeol Choi, ``Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off," _Accepted for publications in IEEE Access_, Dec. 2023.   
+### Submitted/Accepted Articles  
 
 <img src="../img/journal-article.png" height="20px">
 Aamir Nadeem, **Arif Ullah**, and Wooyeol Choi, ``Social-Aware Peer Selection for Energy Efficient D2D
@@ -26,13 +23,16 @@ Communications in UAV-Assisted Networks: A Q-Learning Approach," _Submitted to I
 
 #### 2023
 <img src="../img/journal-article.png" height="20px">
+Youngwoo Oh, **Arif Ullah**, and Wooyeol Choi, ``Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off," _IEEE Access_, vol. 12, pp. 1172 - 1188, Dec. 2023. 
+
+<img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Wooyeol Choi, and Sinem Coleri, ``Path Loss Estimation and Jamming Detection in Heterogeneous Vehicular Networks: A Hybrid Machine Learning Framework," _IEEE Sensors Journal_, vol. 23(24), pp. 31325 - 31336, Oct. 2023. [[PDF Preprint&#8594;]]([https://ieeexplore.ieee.org/abstract/document/10254357]([https://ieeexplore.ieee.org/abstract/document/10313115](https://ieeexplore.ieee.org/abstract/document/10313115))) [[IEEE Explore&#8594;]]([https://ieeexplore.ieee.org/abstract/document/10254357]([https://ieeexplore.ieee.org/abstract/document/10313115](https://ieeexplore.ieee.org/abstract/document/10313115)))
 
 <img src="../img/journal-article.png" height="20px">
 Fawad, Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``Machine Learning Framework for Precise Localization of Bleached Corals Using Bag-of-Hybrid-Visual-Feature Classification," _Scientific Reports_, 13, 19461, 2023. [[PDF Preprint&#8594;]]([[https://ieeexplore.ieee.org/abstract/document/10254357](https://www.nature.com/articles/s41598-023-46971-7#citeas)](https://www.nature.com/articles/s41598-023-46971-7#citeas)) [[Sci-Rep.&#8594;]]([[https://ieeexplore.ieee.org/abstract/document/10254357](https://www.nature.com/articles/s41598-023-46971-7#citeas)](https://www.nature.com/articles/s41598-023-46971-7#citeas))
 
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Wooyeol Choi, Ziaul Haq Abbass, and Ghulam Abbas, ``Aerial-Terrestrial Networks with Multi-antenna Transmission: How Many UAVs Need to Be Deployed?," _IEEE Transactions on Vehicular Technology_, pp. 1-15, early access Sep. 2023. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/abstract/document/10254357) [[IEEE Explore&#8594;]](https://ieeexplore.ieee.org/abstract/document/10254357)
+**Arif Ullah**, Wooyeol Choi, Ziaul Haq Abbass, and Ghulam Abbas, ``Aerial-Terrestrial Networks with Multi-antenna Transmission: How Many UAVs Need to Be Deployed?," _IEEE Transactions on Vehicular Technology_, vol.73, no. 2, pp. 2212 - 2226, 2023. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/abstract/document/10254357) [[IEEE Explore&#8594;]](https://ieeexplore.ieee.org/abstract/document/10254357)
 
 <img src="../img/conference-paper.png" height="20px">
 Fawad, **Arif Ullah**, Iftikhar Ahmad, Wooyeol Choi, ``RS-DeepNet: A Machine Learning Aided RSSI Fingerprinting for Precise Indoor Localization," <em>In 2nd International Conference on Maritime IT Convergence (ICMIC),</em> Jeju Island, South Korea, 2023. (**Outstanding paper award**)
