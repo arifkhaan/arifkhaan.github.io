@@ -119,7 +119,7 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 </head>
 <body>
 <div class="news blue">
-<span>Latest News</span><span class="text1" ><marquee> (Mar 2024) Our paper title "Social-Aware Peer Selection for Energy Efficient D2D Communications in UAV-Assisted Networks: A Q-Learning Approach" has been accepted for publication in IEEE Wireless Communication Letters.</marquee></span>
+<span>Latest News</span><span class="text1" ><marquee> (Mar 2024) Our paper title "Social-Aware Peer Selection for Energy Efficient D2D Communications in UAV-Assisted Networks: A Q-Learning Approach" has been accepted for publication in IEEE Wireless Communications Letters.</marquee></span>
 </div>
 </body>
 </html>
@@ -127,7 +127,7 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 <html>
 <body>
 <ul style='text-align: justify; width:100%;'>
-  <li>(Mar 2024) Our paper title <a href="">"Social-Aware Peer Selection for Energy Efficient D2D Communications in UAV-Assisted Networks: A Q-Learning Approach"</a> has been accepted for publication in IEEE Wireless Communication Letters.</li>
+  <li>(Mar 2024) Our paper title <a href="">"Social-Aware Peer Selection for Energy Efficient D2D Communications in UAV-Assisted Networks: A Q-Learning Approach"</a> has been accepted for publication in IEEE Wireless Communications Letters.</li>
   <li>(Dec 2023) Our paper title <a href="">"Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off"</a> has been accepted for publication in IEEE Access.</li>
   <li>(Oct 2023) Our paper title <a href="">"Path Loss Estimation and Jamming Detection in Hybrid RF-VLC Vehicular Networks: A Machine Learning Framework"</a> has been accepted for publication in IEEE sensors journal.</li>
   <li>(Sep 2023) Our paper title <a href="">"Aerial-terrestrial networks with multi-antenna transmissions: How many UAVs need to be deployed?"</a> has been accepted for publication in IEEE transactions on vehicular technology.</li>
