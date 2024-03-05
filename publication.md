@@ -12,7 +12,7 @@ css: "../css/custom.css"
 
 <img src="../img/journal-article.png" height="20px">
 Aamir Nadeem, **Arif Ullah**, and Wooyeol Choi, ``Social-Aware Peer Selection for Energy Efficient D2D
-Communications in UAV-Assisted Networks: A Q-Learning Approach," _Submitted to IEEE Wireless Communications Letter_, 2023. 
+Communications in UAV-Assisted Networks: A Q-Learning Approach," _Accepted in IEEE Wireless Communications Letter_, 2023. 
 
 <img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Wooyeol Choi, Teklu Merhawit Berhane, Yusuf Sambo, and Muhammad Ali Imran, ``Soft-Output Deep-LAS Detection for Coded MIMO System: A Learning-Aided LLR Approximation," _Submitted to IEEE Transactions on Vehicular Technology_, 2023.   
