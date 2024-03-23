@@ -10,6 +10,12 @@ css: "../css/custom.css"
 
 ### Submitted/Accepted Articles  
 <img src="../img/journal-article.png" height="20px">
+Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``WiFi-Based Human Sensing with Deep Learning: Recent Advances, Challenges, and Opportunities," _Submitted to IEEE Open Journal of the Communication Society_, 2024. 
+
+<img src="../img/journal-article.png" height="20px">
+**Arif Ullah**, Fawad, Amir Nadeem, Muhammad Arif, Muhammad Mehran Bashir, and Wooyeol Choi, ``6G Internet-of-Things Assisted Smart Homes and Buildings: Enabling Technologies, Opportunities and Challenges," _Submitted to IEEE Internet of Things Journal_, 2023. 
+
+<img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Wooyeol Choi, Teklu Merhawit Berhane, Yusuf Sambo, and Muhammad Ali Imran, ``Soft-Output Deep-LAS Detection for Coded MIMO System: A Learning-Aided LLR Approximation," _Submitted to IEEE Transactions on Vehicular Technology_, 2023.   
 
 ----
