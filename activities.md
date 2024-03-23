@@ -38,6 +38,7 @@ css: "../css/custom.css"
 - Member Pakistan Engineering Council (PEC) (Since 2013)
 
 #### TPC Mmeber
+- 1st International Conference on Innovative Eng. Scis. & Techno. Research, Muscat, Oman (ICIESTR-2024)
 - 2nd International Conference on Maritime IT Convergence, Jeju South Korea (link)
 - International Conference on Recent Advances in Information Technology for Sustainable Development (ICRAIS), Manipal India (link)
 
