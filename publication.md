@@ -25,7 +25,7 @@ Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``WiFi-Based Human Sensing wit
 #### 2024
 <img src="../img/journal-article.png" height="20px">
 Aamir Nadeem, **Arif Ullah**, and Wooyeol Choi, ``Social-Aware Peer Selection for Energy Efficient D2D
-Communications in UAV-Assisted Networks: A Q-Learning Approach," _IEEE Wireless Communications Letter_, early access, 2023. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609) [[IEEE Explore&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609)
+Communications in UAV-Assisted Networks: A Q-Learning Approach," _IEEE Wireless Communications Letter_, early access, 2024. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609) [[IEEE Explore&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609)
 
 ----
 
