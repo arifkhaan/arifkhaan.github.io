@@ -45,6 +45,7 @@ css: "../css/custom.css"
 - IEEE Wireless Communications Letter
 - IEEE Transactions on Vehicular Technology
 - IEEE Transactions on Intelligent Transportation System
+- IEEE Communications Magazine
 - MDPI Drones, Sensors, Applied Sciences, Information
 - RS Open Journal on Innovative Communication Technologies
 - International Conference on Engineering Applications of Artificial Intelligence (ICEAAI), 2022 (link)
