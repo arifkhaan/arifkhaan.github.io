@@ -36,4 +36,6 @@ css: "../css/custom.css"
 - [English grammar basics](http://www.english-for-students.com/Grammar-2.html)
 - [IELTS/GRE/GMAT](https://drive.google.com/drive/folders/0B2jZERjUXCHhZnB5T0tpY2ZyRmc)
 
+### Islamic Literature
+- [Islamic studies](https://www.islamicstudies.info/)
 ----
