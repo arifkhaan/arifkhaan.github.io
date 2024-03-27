@@ -37,5 +37,6 @@ css: "../css/custom.css"
 - [IELTS/GRE/GMAT](https://drive.google.com/drive/folders/0B2jZERjUXCHhZnB5T0tpY2ZyRmc)
 
 ### Islamic Literature
-- [Islamic studies](https://www.islamicstudies.info/)
+- [Islamic studies (dot) info](https://www.islamicstudies.info/)
+
 ----
