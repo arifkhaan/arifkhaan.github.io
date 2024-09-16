@@ -17,13 +17,13 @@ css: "../css/custom.css"
         <div class="col-md-3"></div>
         <div class="col-md-7">
           <div class="row"> 
-          Assistant Professor, <a href="#" class="https://eng.chosun.ac.kr/eng/index.do">Department of Computer Engineering, Chosun University,</a>
+          Research Fellow, <a href="#" class="https://www.qub.ac.uk/ecit/CWI/">Center of Wireless Innovations (CWI),</a>
             </div>
           <div class="row"> 
-          146 Chosundae-gil, Seoseok-dong, Dong-gu, Gwangju, South Korea. 
+          Institute of Electronics, Communications & Information Technology (ECIT), Queen's University Belfast, U.K. Belfast BT3 9DT, U.K.
             </div>
           <div class="row"> 
-          Email: <a href="#" class="mailto: arifullag@chosun.ac.kr">arifullah[at]chosun[dot]ac[dot]kr</a>, Tel: (000) 1111-2222
+          Email: <a href="#" class="mailto: arifullag@chosun.ac.kr">a.ullah[at]qub[dot]ac[dot]uk</a>, Tel: (000) 1111-2222
         </div>
         </div>
   </div>
@@ -69,7 +69,8 @@ I am graduated with master of science (MS) degree in Electrical Engineeriing fro
 </body> 
 </html>
 
-After completing my Ph.D., I was a Postdoc fellow at the [Smart Networing Laboratory (SNL)](https://sites.google.com/view/smart-networking), Chosun University, Gwangju South Korea from November 2021 to March 2022. During my Postdoc, I worked on 1) modeling and performance analysis of flying ad hoc/aerial-terrestrial networks and 2) machine learning-enhanced wireless networks. Later on, I joined the [Department of Computer Engineering at Chosun University](https://www.chosun.ac.kr) as an Assistant Professor and Research Assistant Professor. Currently I am working as a Research Fellow under the supervision of Professor Hien Quoc Ngo at the Center of Wireless Innovations (CWI), Queens Unoversity Belfast. My current research focus on the analysis of Electromagnetic Information Theory (EIT) within the context of specific Electronic Warfare (EW) scenarios. 
+After completing my Ph.D., I was a Postdoc fellow at the [Smart Networing Laboratory (SNL)](https://sites.google.com/view/smart-networking), Chosun University, Gwangju South Korea from November 2021 to March 2022. During my Postdoc, I worked on 1) modeling and performance analysis of flying ad hoc/aerial-terrestrial networks and 2) machine learning-enhanced wireless networks. Later on, I joined the [Department of Computer Engineering at Chosun University](https://www.chosun.ac.kr) as an Assistant Professor and Research Assistant Professor. Currently I am working as a Research Fellow under the supervision of Professor Hien Quoc Ngo at the 
+[Center of Wireless Innovations (CWI)](https://www.qub.ac.uk/ecit/CWI/), Queens Unoversity Belfast. My current research focus on the analysis of Electromagnetic Information Theory (EIT) within the context of specific Electronic Warfare (EW) scenarios. 
 
 Keeping aside all the jargons, maths and information, I love to spend my leisure time in reading, exploring nature, and outing with friends.
  
