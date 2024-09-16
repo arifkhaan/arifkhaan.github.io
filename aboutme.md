@@ -23,7 +23,7 @@ css: "../css/custom.css"
           Institute of Electronics, Communications & Information Technology (ECIT), Queen's University Belfast, U.K. Belfast BT3 9DT, U.K.
             </div>
           <div class="row"> 
-          Email: <a href="#" class="mailto: arifullag@chosun.ac.kr">a.ullah[at]qub[dot]ac[dot]uk</a>, Tel: (000) 1111-2222
+          Email: <a href="#" class="mailto: arifullag@chosun.ac.kr">a.ullah[at]qub[dot]ac[dot]uk</a>, Tel: +44 (0)28 0000 000
         </div>
         </div>
   </div>
