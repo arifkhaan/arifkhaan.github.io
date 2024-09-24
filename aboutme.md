@@ -2,8 +2,7 @@
 layout: page
 title: Arif Ullah (Khan)
 subtitle: 'Ph.D. (Elect. & Com. Engg.), MIEEE'
-head-title: "Arif Ullah (Khan) - PhD Fellow, GIKI"
-meta-title: ""
+meta-title: "Arif Ullah (Khan) - PhD Fellow, GIKI"
 css: "../css/custom.css"
 ---
 <html lang="en">
