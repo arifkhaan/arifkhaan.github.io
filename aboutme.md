@@ -14,8 +14,8 @@ css: "../css/custom.css"
 </head>
 <body>
     <div class="row">
-        <div class="col-md-3"></div>
-        <div class="col-md-7">
+        <div class="col-md-4"></div>
+        <div class="col-md-6">
           <div class="row"> 
           Research Fellow, <a href="#" class="https://www.qub.ac.uk/ecit/CWI/">Centre of Wireless Innovations (CWI), Institute of Electronics, Communications &</a>
             </div>
