@@ -17,10 +17,10 @@ css: "../css/custom.css"
         <div class="col-md-3"></div>
         <div class="col-md-7">
           <div class="row"> 
-          Research Fellow, <a href="#" class="https://www.qub.ac.uk/ecit/CWI/">Centre of Wireless Innovations (CWI),</a>
+          Research Fellow, <a href="#" class="https://www.qub.ac.uk/ecit/CWI/">Centre of Wireless Innovations (CWI), Institute of Electronics, Communications &</a>
             </div>
           <div class="row"> 
-          Institute of Electronics, Communications & Information Technology (ECIT), Queen's University Belfast, U.K. Belfast BT3 9DT, U.K.
+          Information Technology (ECIT), Queen's University Belfast, U.K. Belfast BT3 9DT, U.K.
             </div>
           <div class="row"> 
           Email: <a href="#" class="mailto: arifullag@chosun.ac.kr">a.ullah[at]qub[dot]ac[dot]uk</a>, Tel: +44 (0) 28 0000 000
