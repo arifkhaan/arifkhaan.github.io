@@ -8,13 +8,12 @@ css: "../css/custom.css"
 
 
 My interest include 5G and beyond 5G networks, especially focusing on
-- Performance analysis of cellular networks ussing Stochastic geometery toolss
-- Energy efficient resource allocation in heterogeneous cellular networks, 
-- Full duplex MIMO, massive MIMO. 
-- Millimeter wave and Teraherz communications
-- Aerial-terratrial Networks
-- Machine learning aided wireless communications
-- Performance-complexity analysis of detection algorithms and channel coding for MIMO-OFDM system.
+- Electromagnetic Information Theory (EIT)
+- Continious Aperture MIMO (CAP-MIMO), Holographic MIMO, Reconfigurable Intelligent Surfaces
+- Performance Analysis of Heteogeneous Cellular Networks using Stochastic Geometery 
+- Millimeter Wave and Teraherz Communications
+- Aerial-Terratrial Networks
+- Machine Learning Aided Wireless Communications
 
 
 Complete list of my publications can be accessed on google scholor.
