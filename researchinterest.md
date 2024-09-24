@@ -12,7 +12,7 @@ My interest include 5G and beyond 5G networks, especially focusing on
 - Continious Aperture MIMO (CAP-MIMO), Holographic MIMO, Reconfigurable Intelligent Surfaces
 - Performance Analysis of Heteogeneous Cellular Networks using Stochastic Geometery 
 - Millimeter Wave and Teraherz Communications
-- Aerial-Terratrial Networks
+- Aerial-Terrestrial Networks
 - Machine Learning Aided Wireless Communications
 
 
