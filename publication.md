@@ -16,7 +16,8 @@ css: "../css/custom.css"
 
 ### Published Articles
 
-#### 2024<img src="../img/journal-article.png" height="20px">
+#### 2024
+<img src="../img/journal-article.png" height="20px">
 Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``WiFi-Based Human Sensing with Deep Learning: Recent Advances, Challenges, and Opportunities," *IEEE Open Journal of the Communication Society*, vol. 5, pp. 3595 - 3623, 2024. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10552143){:target="_blank"} [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10552143){:target="_blank"}
 
 <img src="../img/journal-article.png" height="20px">
