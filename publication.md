@@ -21,7 +21,7 @@ Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``WiFi-Based Human Sensing wit
 
 #### 2024
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Wooyeol Choi, Teklu Merhawit Berhane, Yusuf Sambo, and Muhammad Ali Imran, ``Soft-Output Deep-LAS Detection for Coded MIMO System: A Learning-Aided LLR Approximation," _IEEE Transactions on Vehicular Technology_, vol. 72, no. 9, pp. 13178-13192, 2024. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10505809) [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609)
+**Arif Ullah**, Wooyeol Choi, Teklu Merhawit Berhane, Yusuf Sambo, and Muhammad Ali Imran, ``Soft-Output Deep-LAS Detection for Coded MIMO System: A Learning-Aided LLR Approximation," _IEEE Transactions on Vehicular Technology_, vol. 72, no. 9, pp. 13178-13192, 2024. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10505809){:target="_blank"} [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609){:target="_blank"}
 
 <img src="../img/journal-article.png" height="20px">
 Aamir Nadeem, **Arif Ullah**, and Wooyeol Choi, ``Social-Aware Peer Selection for Energy Efficient D2D
