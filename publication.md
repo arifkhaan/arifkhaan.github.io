@@ -17,7 +17,7 @@ css: "../css/custom.css"
 ### Published Articles
 
 #### 2024<img src="../img/journal-article.png" height="20px">
-Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``WiFi-Based Human Sensing with Deep Learning: Recent Advances, Challenges, and Opportunities," _Submitted to IEEE Open Journal of the Communication Society_, vol. 5, pp. 3595 - 3623, 2024. [PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10552143){:target="_blank"} [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10552143){:target="_blank"}
+Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``WiFi-Based Human Sensing with Deep Learning: Recent Advances, Challenges, and Opportunities," _Submitted to IEEE Open Journal of the Communication Society_, vol. 5, pp. 3595 - 3623, 2024. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10552143){:target="_blank"} [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10552143){:target="_blank"}
 
 <img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Wooyeol Choi, Teklu Merhawit Berhane, Yusuf Sambo, and Muhammad Ali Imran, ``Soft-Output Deep-LAS Detection for Coded MIMO System: A Learning-Aided LLR Approximation," _IEEE Transactions on Vehicular Technology_, vol. 72, no. 9, pp. 13178-13192, 2024. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10505809){:target="_blank"} [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609){:target="_blank"}
