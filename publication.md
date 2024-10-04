@@ -11,7 +11,9 @@ css: "../css/custom.css"
 ### Submitted/Accepted Articles  
 
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Fawad, Amir Nadeem, Muhammad Arif, Muhammad Mehran Bashir, and Wooyeol Choi, ``6G Internet-of-Things Assisted Smart Homes and Buildings: Enabling Technologies, Opportunities and Challenges," _Submitted to IEEE Internet of Things Journal_, 2023. <details><summary>[Bibtex]</summary>
+**Arif Ullah**, Fawad, Amir Nadeem, Muhammad Arif, Muhammad Mehran Bashir, and Wooyeol Choi, ``6G Internet-of-Things Assisted Smart Homes and Buildings: Enabling Technologies, Opportunities and Challenges," _Submitted to IEEE Internet of Things Journal_, 2023. 
+<details>
+  <summary>_[Bibtex]_</summary>
 @ARTICLE{10552143,<br>
   author={Ahmad, Iftikhar and Ullah, Arif and Choi, Wooyeol},<br>
   journal={IEEE Open Journal of the Communications Society}, <br>
