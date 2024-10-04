@@ -25,7 +25,7 @@ Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``WiFi-Based Human Sensing wit
 
 <img src="../img/journal-article.png" height="20px">
 Aamir Nadeem, **Arif Ullah**, and Wooyeol Choi, ``Social-Aware Peer Selection for Energy Efficient D2D
-Communications in UAV-Assisted Networks: A Q-Learning Approach," _IEEE Wireless Communications Letter_, early access, 2024. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609) [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609)
+Communications in UAV-Assisted Networks: A Q-Learning Approach," _IEEE Wireless Communications Letter_, vol. 13, no. 5, pp. 1468 - 1472,, 2024. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609) [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609)
 
 ----
 
@@ -63,7 +63,7 @@ Li Bin, Muhammad Shahzad, Hira Khan, Muhammad Mehran Bashir, **Arif Ullah**, and
 
 <img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Ziaul Haq Abbas, Fazal Muhammad, Ghulam Abbas, and Sungwan Kim, ``Uplink Performance Analysis of User- Centric
-Small Cell Aided Dense HCNets With Uplink-Downlink Decoupling," <em> in IEEE Access,</em> vol. 8, pp. 148460-148474, 2020.  [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/document/9164920) [[IEEE Explore&#8594;]](https://digital-library.theiet.org/content/journals/10.1049/iet-com.2019.1316) 
+Small Cell Aided Dense HCNets With Uplink-Downlink Decoupling," <em> in IEEE Access,</em> vol. 8, pp. 148460-148474, 2020.  [[PDF&#8594;]](https://ieeexplore.ieee.org/document/9164920) [[IEEE Explore&#8594;]](https://digital-library.theiet.org/content/journals/10.1049/iet-com.2019.1316) 
 
 <img src="../img/journal-article.png" height="20px">
 Ziaul Haq Abbas, **Arif Ullah**, Ghulam Abbas, Fazal Muhammad, and Frank Yong Li, ``Outage Probability Analysis of User-Centric SBS based HCNets under Hybrid Rician/Rayleigh Fading," <em>IEEE Commun. Letters,</em> vol. 24, no. 2, pp. 297-301, 2020. [[PDF&#8594;]](https://ieeexplore.ieee.org/document/8932550) [[Bibtex&#8594;]](https://ieeexplore.ieee.org/document/8932550)
