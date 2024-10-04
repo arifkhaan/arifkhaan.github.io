@@ -13,16 +13,16 @@ css: "../css/custom.css"
 Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``WiFi-Based Human Sensing with Deep Learning: Recent Advances, Challenges, and Opportunities," _Submitted to IEEE Open Journal of the Communication Society_, 2024. 
 
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Fawad, Amir Nadeem, Muhammad Arif, Muhammad Mehran Bashir, and Wooyeol Choi, ``6G Internet-of-Things Assisted Smart Homes and Buildings: Enabling Technologies, Opportunities and Challenges," _Submitted to IEEE Internet of Things Journal_, 2023. 
-
-<img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Wooyeol Choi, Teklu Merhawit Berhane, Yusuf Sambo, and Muhammad Ali Imran, ``Soft-Output Deep-LAS Detection for Coded MIMO System: A Learning-Aided LLR Approximation," _Accepted for publication in the IEEE Transactions on Vehicular Technology_, 2024.   
+**Arif Ullah**, Fawad, Amir Nadeem, Muhammad Arif, Muhammad Mehran Bashir, and Wooyeol Choi, ``6G Internet-of-Things Assisted Smart Homes and Buildings: Enabling Technologies, Opportunities and Challenges," _Submitted to IEEE Internet of Things Journal_, 2023.    
 
 ----
 
 ### Published Articles
 
 #### 2024
+<img src="../img/journal-article.png" height="20px">
+**Arif Ullah**, Wooyeol Choi, Teklu Merhawit Berhane, Yusuf Sambo, and Muhammad Ali Imran, ``Soft-Output Deep-LAS Detection for Coded MIMO System: A Learning-Aided LLR Approximation," _IEEE Transactions on Vehicular Technology_, vol. 72, no. 9, pp. 13178-13192, 2024. [[PDF &#8594;]](https://ieeexplore.ieee.org/abstract/document/10505809) [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609)
+
 <img src="../img/journal-article.png" height="20px">
 Aamir Nadeem, **Arif Ullah**, and Wooyeol Choi, ``Social-Aware Peer Selection for Energy Efficient D2D
 Communications in UAV-Assisted Networks: A Q-Learning Approach," _IEEE Wireless Communications Letter_, early access, 2024. [[PDF Preprint&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609) [[IEEE Explore&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609)
