@@ -17,20 +17,20 @@ css: "../css/custom.css"
 ### Published Articles
 
 #### 2024<img src="../img/journal-article.png" height="20px">
-Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``WiFi-Based Human Sensing with Deep Learning: Recent Advances, Challenges, and Opportunities," _Submitted to IEEE Open Journal of the Communication Society_, vol. 5, pp. 3595 - 3623, 2024. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10552143){:target="_blank"} [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10552143){:target="_blank"}
+Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``WiFi-Based Human Sensing with Deep Learning: Recent Advances, Challenges, and Opportunities," *IEEE Open Journal of the Communication Society*, vol. 5, pp. 3595 - 3623, 2024. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10552143){:target="_blank"} [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10552143){:target="_blank"}
 
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Wooyeol Choi, Teklu Merhawit Berhane, Yusuf Sambo, and Muhammad Ali Imran, ``Soft-Output Deep-LAS Detection for Coded MIMO System: A Learning-Aided LLR Approximation," _IEEE Transactions on Vehicular Technology_, vol. 72, no. 9, pp. 13178-13192, 2024. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10505809){:target="_blank"} [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609){:target="_blank"}
+**Arif Ullah**, Wooyeol Choi, Teklu Merhawit Berhane, Yusuf Sambo, and Muhammad Ali Imran, ``Soft-Output Deep-LAS Detection for Coded MIMO System: A Learning-Aided LLR Approximation," *IEEE Transactions on Vehicular Technology*, vol. 72, no. 9, pp. 13178-13192, 2024. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10505809){:target="_blank"} [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609){:target="_blank"}
 
 <img src="../img/journal-article.png" height="20px">
 Aamir Nadeem, **Arif Ullah**, and Wooyeol Choi, ``Social-Aware Peer Selection for Energy Efficient D2D
-Communications in UAV-Assisted Networks: A Q-Learning Approach," _IEEE Wireless Communications Letter_, vol. 13, no. 5, pp. 1468 - 1472,, 2024. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609){:target="_blank"} [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609){:target="_blank"}
+Communications in UAV-Assisted Networks: A Q-Learning Approach," *IEEE Wireless Communications Letter*, vol. 13, no. 5, pp. 1468 - 1472,, 2024. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609){:target="_blank"} [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10463609){:target="_blank"}
 
 ----
 
 #### 2023
 <img src="../img/journal-article.png" height="20px">
-Youngwoo Oh, **Arif Ullah**, and Wooyeol Choi, ``Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off," _IEEE Access_, vol. 12, pp. 1172 - 1188, Dec. 2023. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10375483){:target="_blank"} [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10375483){:target="_blank"}
+Youngwoo Oh, **Arif Ullah**, and Wooyeol Choi, ``Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off," *IEEE Access*, vol. 12, pp. 1172 - 1188, Dec. 2023. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10375483){:target="_blank"} [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10375483){:target="_blank"}
 
 <img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Wooyeol Choi, and Sinem Coleri, ``Path Loss Estimation and Jamming Detection in Heterogeneous Vehicular Networks: A Hybrid Machine Learning Framework," _IEEE Sensors Journal_, vol. 23(24), pp. 31325 - 31336, Oct. 2023. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10313115){:target="_blank"} [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10313115){:target="_blank"}
