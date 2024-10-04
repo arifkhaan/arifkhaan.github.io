@@ -10,7 +10,7 @@ css: "../css/custom.css"
 
 ### Submitted/Accepted Articles  
 <img src="../img/journal-article.png" height="20px">
-Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``WiFi-Based Human Sensing with Deep Learning: Recent Advances, Challenges, and Opportunities," _Submitted to IEEE Open Journal of the Communication Society_, 2024. [Bibtex&#8594;]](abc){:target="_blank"}
+Iftikhar Ahmad, **Arif Ullah**, and Wooyeol Choi, ``WiFi-Based Human Sensing with Deep Learning: Recent Advances, Challenges, and Opportunities," _Submitted to IEEE Open Journal of the Communication Society_, 2024. [[Bibtex&#8594;]](abc){:target="_blank"}
 
 <img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Fawad, Amir Nadeem, Muhammad Arif, Muhammad Mehran Bashir, and Wooyeol Choi, ``6G Internet-of-Things Assisted Smart Homes and Buildings: Enabling Technologies, Opportunities and Challenges," _Submitted to IEEE Internet of Things Journal_, 2023.    
