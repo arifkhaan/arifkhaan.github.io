@@ -117,7 +117,8 @@ Keeping aside all the jargons, maths and information, I love to spend my leisure
 </head>
 <body>
 <div class="news blue">
-<span>Latest News</span><span class="text1" ><marquee> (Apr 2024) Our paper title "Soft-Output Deep LAS Detection for Coded MIMO Systems: A Learning Aided LLR Approximation" has been accepted for publication in the IEEE Transactions on Vehicular Technology.</marquee></span>
+<span>Latest News</span><span class="text1" ><marquee> (Mar 2025) Our paper title "Near-Field Holographic MIMO with Non-Paraxial
+Deployment in the Presence of Jamming" has been accepted for publication in the IEEE ICC 2025, Montreal Canada.</marquee></span>
 </div>
 </body>
 </html>
