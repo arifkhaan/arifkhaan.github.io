@@ -43,12 +43,12 @@ css: "../css/custom.css"
 - International Conference on Recent Advances in Information Technology for Sustainable Development (ICRAIS), Manipal India (link)
 
 #### Reviewer 
+- IEEE Transactions on Communications
 - IEEE Wireless Communications Letter
 - IEEE Transactions on Vehicular Technology
 - IEEE Transactions on Intelligent Transportation System
 - IEEE Communications Magazine
 - MDPI Drones, Sensors, Applied Sciences, Information
-- RS Open Journal on Innovative Communication Technologies
 - International Conference on Engineering Applications of Artificial Intelligence (ICEAAI), 2022 (link)
 - 3rd International Conference on Computing and Information Technology (ICCIT), University of Tabuk, KSA, 2023 (link)
 
