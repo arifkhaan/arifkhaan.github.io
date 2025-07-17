@@ -19,7 +19,7 @@ css: "../css/custom.css"
 
 #### 2025
 <img src="../img/conference-paper.png" height="20px">
-**Arif Ullah**, MAB Abbasi, HQ Nqo, Near-Field Holographic MIMO with Non-Paraxial Deployment in the Presence of Jamming, _In WS15 ESIT - Workshop on Electromagnetic Signal and Information Theory, ICC 2025 Montreal Canada_
+**Arif Ullah**, MAB Abbasi, HQ Nqo, Near-Field Holographic MIMO with Non-Paraxial Deployment in the Presence of Jamming, _In WS15 ESIT - Workshop on Electromagnetic Signal and Information Theory, ICC 2025 Montreal Canada._
 
 <img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Fawad, Amir Nadeem, Muhammad Arif, Muhammad Mehran Bashir, and Wooyeol Choi, ``6G Internet-of-Things Assisted Smart Homes and Buildings: Enabling Technologies, Opportunities and Challenges, Internet of Things, vol. 32, p. 101658, 2025.
