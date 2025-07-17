@@ -11,22 +11,23 @@ css: "../css/custom.css"
 ### Submitted/Accepted Articles  
 
 <img src="../img/journal-article.png" height="20px">
-**Arif Ullah**, Fawad, Amir Nadeem, Muhammad Arif, Muhammad Mehran Bashir, and Wooyeol Choi, ``6G Internet-of-Things Assisted Smart Homes and Buildings: Enabling Technologies, Opportunities and Challenges," _Submitted to IEEE Internet of Things Journal_, 2023. 
-<details><summary><li><a href="">Bibtex</a></li></summary>
-@ARTICLE{10552143,<br>
-  author={Ahmad, Iftikhar and Ullah, Arif and Choi, Wooyeol},<br>
-  journal={IEEE Open Journal of the Communications Society}, <br>
-  title={WiFi-Based Human Sensing With Deep Learning: Recent Advances, Challenges, and Opportunities}, <br>
-  year={2024},<br>
-  volume={5},<br>
-  number={},<br>
-  pages={3595-3623},<br>
-  doi={10.1109/OJCOMS.2024.3411529}<br>}
-</details>   
+ 
 
 ----
 
 ### Published Articles
+
+#### 2025
+<img src="../img/conference-paper.png" height="20px">
+**Arif Ullah**, MAB Abbasi, HQ Nqo, Near-Field Holographic MIMO with Non-Paraxial Deployment in the Presence of Jamming, _In WS15 ESIT - Workshop on Electromagnetic Signal and Information Theory, ICC 2025 Montreal Canada_
+
+<img src="../img/journal-article.png" height="20px">
+**Arif Ullah**, Fawad, Amir Nadeem, Muhammad Arif, Muhammad Mehran Bashir, and Wooyeol Choi, ``6G Internet-of-Things Assisted Smart Homes and Buildings: Enabling Technologies, Opportunities and Challenges, Internet of Things, vol. 32, p. 101658, 2025.
+
+<img src="../img/journal-article.png" height="20px">
+Pulook Tarafder, C. Chun, **Arif Ullah**, Y. Kim,  and Wooyeol Choi, "Channel Estimation in 5G-and-Beyond Wireless Communication: A Comprehensive Survey." Electronics, vol. 14, no. 4, p. 750, 2025.
+
+----
 
 #### 2024
 <img src="../img/journal-article.png" height="20px">
@@ -43,7 +44,7 @@ Communications in UAV-Assisted Networks: A Q-Learning Approach," *IEEE Wireless 
 
 #### 2023
 <img src="../img/journal-article.png" height="20px">
-Youngwoo Oh, **Arif Ullah**, and Wooyeol Choi, ``Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off," *IEEE Access*, vol. 12, pp. 1172 - 1188, Dec. 2023. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10375483){:target="_blank"} [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10375483){:target="_blank"}
+Youngwoo Oh, **Arif Ullah**, and Wooyeol Choi, ``Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off," _IEEE Access_, vol. 12, pp. 1172 - 1188, Dec. 2023. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10375483){:target="_blank"} [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10375483){:target="_blank"}
 
 <img src="../img/journal-article.png" height="20px">
 **Arif Ullah**, Wooyeol Choi, and Sinem Coleri, ``Path Loss Estimation and Jamming Detection in Heterogeneous Vehicular Networks: A Hybrid Machine Learning Framework," _IEEE Sensors Journal_, vol. 23(24), pp. 31325 - 31336, Oct. 2023. [[PDF&#8594;]](https://ieeexplore.ieee.org/abstract/document/10313115){:target="_blank"} [[Bibtex&#8594;]](https://ieeexplore.ieee.org/abstract/document/10313115){:target="_blank"}
